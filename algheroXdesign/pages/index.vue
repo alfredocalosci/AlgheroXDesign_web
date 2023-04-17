@@ -40,14 +40,14 @@
             <!-- colonna sinistra-->
             <div>
                <div class="blocco">
-                    <img src="img/girl.jpg" alt="" class="w-full">
+                    <img src="/img/girl.jpg" alt="" class="w-full">
                     <h2 class="absolute top-8 left-4 w-full block text-white text-5xl">Perchè design ad Alghero?</h2>
                     <a href="#" class="absolute bottom-4 left-4 text-white border border-white text-2xl px-4 py-2 rounded-lg">Si può!</a>
 
                 </div>
 
                 <div class="blocco">
-                    <img src="img/human-legs-white-sneakers-standing-stony-beach.jpg" alt="" class="w-full">
+                    <img src="/img/human-legs-white-sneakers-standing-stony-beach.jpg" alt="" class="w-full">
                     <h2 class="absolute top-8 left-4 w-full block text-white text-5xl">Da dove si inizia?</h2>
                     <a href="#" class="absolute bottom-4 left-4 text-white border border-white text-xl px-4 py-2 rounded-lg">Da qui</a>
                 </div>
@@ -59,7 +59,7 @@
                             <p class="leading-tight mt-2 text-white text-sm opacity-75">un ciclo di incontri su alcuni dei grandi temi del design</p>
                             <a href="#" class="absolute bottom-4 left-4 text-white border border-white  px-4 py-2 rounded-lg">Scopri di più</a>
                         </div>
-                        <img src="img/sedie_duo.png" alt="" class="h-full object-cover">
+                        <img src="/img/sedie_duo.png" alt="" class="h-full object-cover">
                         
                     </div>
                 </div>
@@ -73,14 +73,14 @@
                 </div>
 
                 <div class="blocco">
-                    <img src="img/human-legs-white-sneakers-standing-stony-beach.jpg" alt="" class="w-full">
+                    <img src="/img/human-legs-white-sneakers-standing-stony-beach.jpg" alt="" class="w-full">
                     <h2 class="absolute top-8 left-4 w-full block text-white text-5xl">Da dove si inizia?</h2>
                     <a href="#" class="absolute bottom-4 left-4 text-white border border-white text-xl px-4 py-2 rounded-lg">Da qui</a>
                 </div>
 
                 <div class="blocco">
                     <div class="grid grid-cols-2 h-80">
-                        <img src="img/nicole.png" alt="" class="h-full object-cover">
+                        <img src="/img/nicole.png" alt="" class="h-full object-cover">
                         <div class="bg-rosso relative p-4">
                             <h2 class=" w-full block text-white text-3xl">Play Alghero</h2>
                             <a href="#" class="absolute bottom-4 left-4 text-white border border-white  px-4 py-2 rounded-lg">Scopri di più</a>

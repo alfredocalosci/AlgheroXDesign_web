@@ -15,7 +15,7 @@
             </div>
 
             <div class="col-span-10 col-start-2 my-12">
-                <img src="img/girl-blue-jean.jpg" alt="">
+                <img src="/img/girl-blue-jean.jpg" alt="">
             </div>
 
             <div class="col-span-8 col-start-3 ">
