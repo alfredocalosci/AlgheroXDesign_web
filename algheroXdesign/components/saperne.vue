@@ -1,0 +1,38 @@
+<template>
+    <div id="modulo" class="col-span-8 col-start-3 mt-12 border-t border-black pt-12">
+        <p class="text-4xl px-6">Vuoi saperne di più? Scopri la storia del corso di design, i <NuxtLink to="/docenti">docenti</NuxtLink>, le materie del piano di studi, gli eventi e le attività di ricerca.</p>
+    </div>
+</template>
+
+<script>
+export default {
+    setup () {
+        
+
+        return {}
+    }
+}
+</script>
+
+<style lang="scss" scoped>
+#modulo{
+        background-image: url("@/assets/img/axd_gray.svg");
+    // background-color: #cccccc;
+  // height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 90% auto;
+    position: relative;
+
+    padding-bottom: 3rem;
+
+        p{
+            letter-spacing: -0.05em;
+            line-height: 2.75rem;
+        }
+        a{
+            text-decoration: underline;
+            
+        }
+    }
+</style>

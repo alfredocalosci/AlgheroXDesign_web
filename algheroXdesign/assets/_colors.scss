@@ -1,0 +1,46 @@
+$giallo_axd: #FFEA2F;
+$fucsia_axd: #FF3797;
+$verde_axd: #24FF7C;
+$grigio_axd: #bababa;
+$rosso_axd: #FF321C;
+
+.bg-rosso{background-color: $rosso_axd;}
+.bg-fucsia{background-color: $fucsia_axd;}
+.bg-giallo{background-color: $giallo_axd;}
+
+body{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+    font-family: 'basier_circle';
+    src: 
+        // local('basiercircle-regular-webfont'),
+        url('~/assets/fonts/basiercircle-regular-webfont.woff2') format('woff2'),
+        url('~/assets/fonts/basiercircle-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'basier_circle';
+    src: url('~/assets/fonts/basiercircle-regularitalic-webfont.woff');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'basier_circle';
+    src: url('~/assets/fonts/basiercircle-bold-webfont.woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'basier_circle';
+    src: url('~/assets/fonts/basiercircle-semibold-webfont.woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
