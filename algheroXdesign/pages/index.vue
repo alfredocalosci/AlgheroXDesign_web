@@ -97,11 +97,24 @@
 
 </template>
 
-<script>
-    definePageMeta({ layout: 'default' })
+<script lang="ts">
+    
     export default {
         
     }
+</script>
+
+<script setup lang="ts">
+    definePageMeta({ layout: 'default' })
+
+    useHead({
+        title: 'AlgheroXDesign',
+        meta: [
+            { name: 'description', content: 'My amazing site.' }
+        ],
+  
+       // script: [ { innerHTML: 'console.log(\'Hello world\')' } ]
+    })
 </script>
 
 <style lang="scss" scoped>

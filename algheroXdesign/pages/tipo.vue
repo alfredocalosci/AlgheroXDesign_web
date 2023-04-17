@@ -1,7 +1,7 @@
 <template>
     <div class="container mx-auto">
 
-     <titolo :testo='testo="una pagina tipo"'></titolo>
+     <titolo titoloPagina="una pagina tipo"></titolo>
 
         <div class="grid grid-cols-12 gap-x-6 ">
 
@@ -40,11 +40,23 @@
     </div>
 </template>
 
-<script>
-    definePageMeta({ layout: 'default' })
+<script lang="ts">
     export default {
         
     }
+</script>
+
+<script setup lang="ts">
+    definePageMeta({ layout: 'default' })
+
+    useHead({
+        title: 'AlgheroXDesign pagina tipo',
+        meta: [
+            { name: 'description', content: 'this description.' }
+        ],
+  
+       // script: [ { innerHTML: 'console.log(\'Hello world\')' } ]
+    })
 </script>
 
 <style lang="scss" scoped>
