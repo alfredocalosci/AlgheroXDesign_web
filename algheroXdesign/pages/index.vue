@@ -42,17 +42,21 @@
                <div class="blocco">
                     <img src="/img/girl.jpg" alt="" class="w-full">
                     <h2 class="absolute top-8 left-4 w-full block text-white text-5xl">Perchè design ad Alghero?</h2>
-                    <a href="#" class="absolute bottom-4 left-4 text-white border border-white text-2xl px-4 py-2 rounded-lg">Si può!</a>
+                    <a href="#" class="absolute bottom-4 left-4 text-white border border-white text-2xl px-4 py-2 rounded-lg hover:bg-black hover:opacity-50">Si può!</a>
 
                 </div>
 
                 <div class="blocco">
-                    <img src="/img/human-legs-white-sneakers-standing-stony-beach.jpg" alt="" class="w-full">
-                    <h2 class="absolute top-8 left-4 w-full block text-white text-5xl">Da dove si inizia?</h2>
-                    <a href="#" class="absolute bottom-4 left-4 text-white border border-white text-xl px-4 py-2 rounded-lg">Da qui</a>
+                    <img src="@/assets/img/axd_color.svg" alt="" class="w-full">
+                    <div class="absolute top-8 left-4 w-full">
+                        <h2 class="block  text-5xl">Workshops</h2>
+                        <p class="leading-tight mt-2  text-sm opacity-75">Curro Claret, Johao , Matteo Moretti</p>
+                    </div>
+                   
+                    <a href="#" class="absolute bottom-4 left-4 border border-black text-xl px-4 py-2 rounded-lg">edizione 2023</a>
                 </div>
 
-                <div class="blocco">
+                <div class="blocco ">
                     <div class="grid grid-cols-2 h-80">
                         <div class="bg-fucsia relative p-4">
                             <h2 class=" w-full block text-white text-3xl">Design Duo</h2>
@@ -73,7 +77,7 @@
                 </div>
 
                 <div class="blocco">
-                    <img src="/img/human-legs-white-sneakers-standing-stony-beach.jpg" alt="" class="w-full">
+                    <img src="/img/start.jpg" alt="" class="w-full">
                     <h2 class="absolute top-8 left-4 w-full block text-white text-5xl">Da dove si inizia?</h2>
                     <a href="#" class="absolute bottom-4 left-4 text-white border border-white text-xl px-4 py-2 rounded-lg">Da qui</a>
                 </div>

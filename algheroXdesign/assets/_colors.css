@@ -10,6 +10,10 @@
   background-color: #FFEA2F;
 }
 
+.bg-grigio {
+  background-color: #bababa;
+}
+
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

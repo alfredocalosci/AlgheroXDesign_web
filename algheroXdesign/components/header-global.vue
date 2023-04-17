@@ -6,7 +6,7 @@
                 <img src="~assets/img/logo_architecture_at_alghero.jpg" alt="architettura ad alghero" class="h-8 mt-1">
             
                 <div class="grow">
-                    <p class="text-2xl mt-1 text-center">
+                    <p class="text-2xl mt-1 text-center hover:opacity-30">
                         <NuxtLink to="/" @click.native="closeNav()">
                         AlgheroXDesign
                         </NuxtLink>
