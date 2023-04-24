@@ -1,9 +1,12 @@
 <template>
      <div class="border-t border-black mb-8">
-        <div class="container mx-auto mt-8">
-            <img src="~assets/img/logo_architecture_at_alghero.jpg" alt="architettura ad alghero" class="h-16 ">
+        <div class="container mx-4 md:mx-auto mt-8">
+            <div class="grid md:grid-cols-4 gap-6 mt-4">
+                <img src="~/assets/img/logo_architecture_at_alghero.jpg" alt="architettura ad alghero" class="h-16 mt-2">
+                <img src="~/assets/img/sigillo.png" alt="UNISS" class="h-20 ">
+            </div>
 
-            <div class="grid grid-cols-4 gap-6 mt-4">
+            <div class="grid md:grid-cols-4 gap-6 mt-4">
                 <div>
                     <p class="text-sm mt-4">
                         <span class="font-medium">Dipartimento di Architettura, Design e Urbanistica</span><br/>
@@ -21,8 +24,8 @@
 
                 <div>
                     <p class="text-sm mt-4">
-                        <span class="font-medium">Segreteria</span><br/>
-                        segreteriaxdesign@uniss.it
+                        <span class="font-medium">Università degli Studi di Sassari</span><br/>
+                      
                     </p>
                 </div>
 

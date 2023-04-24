@@ -1,6 +1,6 @@
 <template>
     <div class=" border-b border-black">
-        <div  id="holder" class="container mx-auto py-2">
+        <div  id="holder" class="container  md:mx-auto py-2">
 
             <div  class="flex justify-between">
                 <img src="~assets/img/logo_architecture_at_alghero.jpg" alt="architettura ad alghero" class="h-8 mt-1">
