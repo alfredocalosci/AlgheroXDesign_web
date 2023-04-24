@@ -10,7 +10,7 @@
                     </p>
             </div>
         </div>
-        <div class="grid grid-cols-12 gap-x-6" id="desc">
+        <div class="grid grid-cols-12 gap-x-6 bg-slate-100 desc">
             <div class="col-span-12 col-start-1 px-4 sm:px-0 py-7 lg:col-span-6 lg:col-start-3 md:col-span-8 ">
                     <h6>Primo anno</h6>
                 <p>
@@ -44,7 +44,7 @@
             </div>
         </div>
 
-        <div class="grid grid-cols-12 gap-x-6" id="desc">
+        <div class="grid grid-cols-12 gap-x-6 bg-slate-200 desc">
             <div class="col-span-12 col-start-1 px-4 sm:px-0 py-7 lg:col-span-6 lg:col-start-3 md:col-span-8 ">
                     <h6>Secondo anno</h6>
                 <p>
@@ -76,7 +76,7 @@ il design della comunicazione nel contesto dei media digitali (multimedia, anima
             </div>
         </div>
 
-        <div class="grid grid-cols-12 gap-x-6" id="desc">
+        <div class="grid grid-cols-12 gap-x-6 bg-slate-300 desc">
             <div class="col-span-12 col-start-1 px-4 sm:px-0 py-7 lg:col-span-6 lg:col-start-3 md:col-span-8 ">
                     <h6>Terzo anno</h6>
                 <p>
@@ -158,7 +158,7 @@ Al corso Design per la società è assegnato il compito di evidenziare gli scena
         @apply lg:font-[400];
         @apply lg:tracking-[-.02em];
     }
-    #desc{
+    .desc{
         p{
         @apply normal-case;
         @apply text-[20px];
