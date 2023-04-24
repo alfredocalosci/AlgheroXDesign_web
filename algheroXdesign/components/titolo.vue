@@ -1,8 +1,7 @@
 <template>
       <div class="grid grid-cols-12 gap-x-6 ">
-            <div class="col-span-10 col-start-2 py-12">
-                <h1 class="text-5xl">{{ props.titoloPagina }}</h1>
-                
+            <div class="px-5 col-span-10 col-start-1 sm:col-start-1 sm:px-0 py-12">
+                <h1>{{ props.titoloPagina }}</h1>
             </div>
         </div>
 

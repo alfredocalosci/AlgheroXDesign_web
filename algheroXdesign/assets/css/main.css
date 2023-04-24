@@ -1,3 +1,45 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    body{
+        text-rendering: optimizeLegibility;
+        @apply antialiased;
+    }
+    h1{
+        @apply text-[50px];
+        @apply leading-[101%];
+        @apply tracking-[-.04em];
+        @apply lg:text-[80px];
+        @apply lg:tracking-[-.04em];
+       
+    }
+    p{
+        @apply text-[25px];
+        @apply leading-[125%];
+        @apply font-[400];
+        @apply tracking-[-.02em];
+        @apply lg:text-[25px];
+        @apply lg:leading-[125%];
+        @apply lg:font-[400];
+        @apply lg:tracking-[-.02em];
+    }
+    /* h4{
+        @apply text-[25px];
+        @apply leading-[125%];
+        @apply font-[500];
+        @apply tracking-[-.02em];
+        @apply lg:text-[25px];
+        @apply lg:leading-[125%];
+        @apply lg:font-[500];
+        @apply lg:tracking-[-.02em];
+    }
+    h6{
+        @apply text-[16px];
+        @apply leading-[31.25px];
+        @apply font-[500];
+        @apply tracking-[-.02em];
+        
+    } */
+}

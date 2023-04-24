@@ -1,5 +1,5 @@
 <template>
-    <div class=" border-b border-black">
+    <div class="px-4 border-b border-black">
         <div  id="holder" class="container  md:mx-auto py-2">
 
             <div  class="flex justify-between">
@@ -30,7 +30,7 @@
                         Studiare ad Alghero
                     </li>
                     <li>
-                        Piano di Studi
+                        <NuxtLink to="/piano-studi" @click.native="closeNav()">Piano di Studi</NuxtLink>
                     </li>
                     <li>
                         <NuxtLink to="/tipo" @click.native="closeNav()">Pagina tipo</NuxtLink>
@@ -97,5 +97,6 @@ nav{
     background-size: auto 64px;
     position: relative;
 }
+
 </style>
 
