@@ -28,13 +28,7 @@
                 </p>
             </div>
 
-
             <saperne></saperne>
-
-     
-            
-
-
 
         </div>
     </div>
