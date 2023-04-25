@@ -1,4 +1,57 @@
 <template>
+
+    <div class="container mx-auto" id="pdsss">
+        <titolo titoloPagina="il piano di studi"></titolo>
+        <div class="grid grid-cols-12 gap-x-6 mb-12">
+            <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 ">
+                <p>
+                    Il progetto didattico si ispira a un modello interdisciplinare, a cavallo tra teoria e pratica, in cui le attività laborartoriali e progettuali si alternano con gli insegnamenti teorici. 
+                    A completare la formazione sono sono i workshop interclase: corsi intensivi della durata di una settimana, in cui docenti e profesisonisti di fama iternazionale guidano gli studenti in vere e proprie esperieze progettuali.
+                
+                    </p>
+            </div>
+        </div>
+    </div>
+
+    <section class="bg-slate-100">
+        <div class="container mx-auto" >
+            <div class="grid grid-cols-12 gap-x-6 bg-slate-100 desc">
+            <div class="col-span-12 col-start-1 px-4 sm:px-0 py-7 lg:col-span-6 lg:col-start-3 md:col-span-8 ">
+                    <h6>Primo anno</h6>
+                <p>
+                    Al primo semestre del primo anno di studi il laboratorio di Design per il pianeta pone l'accento sugli emergenti problemi alla scala planetaria, sottolineando la necessità di intervenire a livello di sistema, e indirizzando sin da subito il corso di studi verso una linea di piena consapevolezza ambientale.
+                </p>
+                <p>
+                    Nel secondo semestre, con il laboratorio integrato di Design e Luoghi l'enfasi si trasferisce sulla dimensione territoriale, evidenziando la necessità di un confronto costante dell'uomo con il suo intorno e – per i progettisti – l'importanza di acuire la propria capacità di ascolto. 
+                    Al corso di Culture del Design è assegnato il compito di sensibilizzare gli studenti sugli aspetti me- todologici della progettazione e sull'insostituibile ruolo di media- zione culturale che il design è chiamato a svolgere per la società.
+                </p>
+            </div>
+            <div class="col-span-12 col-start-1 px-4 sm:px-0 xl:col-span-2 lg:col-span-3 md:col-span-3 col-span-12 col-start-1 py-7">
+                    <ul>1 semestre - I anno
+                    <li>Immagini I - Disegno</li>
+                    <li>Immagini I - Fotografia</li>
+                    <li>Geometria</li>
+                    <li>Storia del design</li>
+                    <li>Lab. di Design per il pianeta</li>
+                    <li>Filosofia dell'arte</li>
+                    </ul>
+                    
+                    <ul>
+                    <li class="py-[15.75px]">workshop interclasse</li>
+                    </ul>
+                    
+                    <ul>2 semestre - I anno
+                    <li>Lab. di Design e luoghi</li>
+                    <li>Antropologia culturale</li>
+                    <li>Culture del design</li>
+                    
+                    </ul>
+            </div>
+        </div>
+        </div>
+    </section>
+
+
     <div class="container mx-auto" id="pds">
      <titolo titoloPagina="il piano di studi"></titolo>
         <div class="grid grid-cols-12 gap-x-6 mb-12">
