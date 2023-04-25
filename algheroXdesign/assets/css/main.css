@@ -7,13 +7,27 @@
         text-rendering: optimizeLegibility;
         @apply antialiased;
     }
-
+    a{
+        @apply border-b border-black transition-all;
+        
+    }
+    a:hover{
+      @apply border-slate-200;
+    }
     h1{
         @apply text-[50px] leading-[101%] tracking-[-.04em] lg:text-[80px] lg:tracking-[-.04em];
        
     }
     h2{
         @apply text-[35px] leading-[101%] tracking-[-.04em] lg:text-[50px] lg:tracking-[-.04em];
+       
+    }
+    h3{
+        @apply text-[25px] leading-[101%] tracking-[-.04em] lg:text-[35px] lg:tracking-[-.04em];
+       
+    }
+    h4{
+        @apply text-[25px] leading-[125%] font-[500] tracking-[-.025em] lg:text-[25px] lg:leading-[125%] lg:font-[500] lg:tracking-[-.02em];
        
     }
     p{

@@ -41,8 +41,8 @@
             <div>
                <div class="blocco mb-0 sm:mb-4">
                     <img src="/img/girl.jpg" alt="" class="w-full">
-                    <h2 class="px-4 absolute top-[5vh] left-0 text-white text-[70px] leading-[90%]  tracking-[-.05em]">Perchè design ad Alghero?</h2>
-                    <a href="#" class="button absolute bottom-4 left-4">Si può!</a>
+                    <h2 class="px-4 absolute top-[5vh] left-0 text-white text-[70px] leading-[90%]  tracking-[-.05em]">Perché design ad Alghero?</h2>
+                    <a href="/studiare-ad-alghero" class="button absolute bottom-4 left-4">Si può!</a>
                 </div>
 
                 <div class="blocco mb-0 sm:mb-4">
@@ -52,7 +52,7 @@
                         <p>Curro Claret, Johao Schlitter, Matteo Moretti</p>
                     </div>
                    
-                    <a href="#" class="button absolute bottom-4 left-4">edizione 2023</a>
+                    <a href="#" class="button absolute bottom-4 left-4 text-black border-black">Edizione 2023</a>
                 </div>
 
                 <div class="blocco mb-0 sm:mb-4">
@@ -62,7 +62,7 @@
                         <p>un ciclo di incontri su alcuni dei grandi temi del design</p>
                     </div>
                    
-                    <a href="#" class="button absolute bottom-4 left-4">Scopri di più</a>
+                    <a href="#" class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
                 </div>
 
                 
@@ -80,7 +80,7 @@
                     <div class="absolute top-8 left-4 w-[90%] text-white">
                         <h2>Da dove si inizia?</h2>
                     </div>
-                    <a href="#" class="button absolute bottom-4 left-4">Da qui</a>
+                    <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" class="button absolute bottom-4 left-4">Da qui</a>
                 </div>
 
                 <!-- play alghero -->
@@ -89,7 +89,7 @@
                         <img src="/img/nicole.png" alt="" class="h-full object-cover">
                         <div class="bg-rosso relative p-4">
                             <h2 class="w-[90%] block text-white">Play Alghero</h2>
-                            <a href="#" class="button absolute bottom-4 left-4">Scopri di più</a>
+                            <a href="https://www.youtube.com/watch?v=RILcP5B7wbA" class="button absolute bottom-4 left-4">Scopri di più</a>
                         </div>
                     </div>
                 </div>

@@ -2,7 +2,7 @@
     <div class="border-b border-black">
         <div  id="holder" class="container  md:mx-auto py-2">
 
-            <div  class="flex justify-between max-w-screen-xl px-4">
+            <div  class="flex justify-between max-w-screen-xl px-4 sm:px-0">
                 <img src="~assets/img/logo_architecture_at_alghero.jpg" alt="architettura ad alghero" class="h-8 mt-1">
             
                 <div class="grow">
@@ -27,7 +27,10 @@
             <nav>
                 <ul>
                     <li>
-                        Studiare ad Alghero
+                        
+                    </li>
+                    <li>
+                        <NuxtLink to="/studiare-ad-alghero" @click.native="closeNav()">Studiare ad Alghero</NuxtLink>
                     </li>
                     <li>
                         <NuxtLink to="/piano-studi" @click.native="closeNav()">Piano di Studi</NuxtLink>
@@ -65,8 +68,12 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
+a{
+        border-bottom-width: 0;
+    }
+    
 nav{
+    
     ul{
         border-top: solid 1px #000;
         margin-top: 24px;
@@ -93,8 +100,6 @@ nav{
 
 #holder{
     background-image: url("@/assets/img/axd_logo_bg.png");
-    // background-color: #cccccc;
-  // height: 500px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: auto 64px;
