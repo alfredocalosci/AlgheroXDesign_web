@@ -149,50 +149,21 @@ Al corso Design per la società è assegnato il compito di evidenziare gli scena
 
 #pds{
     p{
-        @apply text-[25px];
-        @apply leading-[125%];
-        @apply font-[400];
-        @apply tracking-[-.02em];
-        @apply lg:text-[25px];
-        @apply lg:leading-[125%];
-        @apply lg:font-[400];
-        @apply lg:tracking-[-.02em];
+        @apply text-[25px] leading-[125%] font-[400] tracking-[-.02em] lg:text-[25px] lg:leading-[125%] lg:font-[400] lg:tracking-[-.02em];
     }
     .desc{
         p{
-        @apply normal-case;
-        @apply text-[20px];
-        @apply font-[400];
-        @apply leading-[28px];
-    }
+        @apply normal-case text-[20px] font-[400] leading-[28px];
+        }
     }
     h6{
-        @apply normal-case;
-        @apply text-[20px];
-        @apply font-[500];
-        @apply leading-[28px];       
+        @apply normal-case text-[20px] font-[500] leading-[28px];       
     }
     ul{
-        @apply text-[12px];
-        @apply uppercase;
-        @apply font-[400];
-        @apply leading-[28px];
+        @apply text-[12px] uppercase font-[400] leading-[28px];
         li{
-            @apply normal-case;
-            @apply text-[16px];
-            @apply font-[500];
-            @apply tracking-[-.02em];
-            @apply border-b;
-            @apply border-solid;
-            @apply border-slate-200;
-            @apply leading-[28px];
-            // @apply lg:text-[25px];
-            // @apply lg:leading-[125%];
-            // @apply lg:font-[400];
-            // @apply lg:tracking-[-.02em];
+            @apply normal-case text-[16px] font-[500] tracking-[-.02em] border-b border-solid border-slate-200 leading-[28px];
         }
-
-
     }
 }    
 

@@ -1,14 +1,14 @@
 <template>
-    <div class="container mx-auto">
+    <div class="container mx-auto border-black">
         <!-- testata -->
-        <div class="relative mt-4">
-            <img src="~assets/img/san-michele.jpg" alt="cupola di san michele" class="object-cover h-80 md:h-96 w-full">
-            <h1 class="font-sans text-6xl absolute top-[45%] left-0 text-white block w-full text-center">15 anni di design ad Alghero</h1>
+        <div class="relative h-[60vh] overflow-hidden min-h-[475px] sm:h-[25vh]">
+            <img src="~assets/img/alghero.png" alt="cupola di san michele" class="object-cover">
+            <h1 class="px-4 absolute top-[5vh] left-0 text-white text-[70px] leading-[101%]  tracking-[-.05em] sm:w-full sm:text-center sm:top-[45%]">15 anni di design ad Alghero</h1>
         </div>
     </div>
 
     <!-- news -->
-    <div class="container mx-4 mt-8 mb-12 md:mx-auto">
+    <div class="container px-4 mt-[20px] md:mx-auto">
         <div class="grid md:grid-cols-4 gap-6">
             <div>
                 <p class="data">23.03.2023</p>
@@ -39,63 +39,61 @@
         <div class="grid md:grid-cols-2 gap-6">
             <!-- colonna sinistra-->
             <div>
-               <div class="blocco">
+               <div class="blocco mb-0 sm:mb-4">
                     <img src="/img/girl.jpg" alt="" class="w-full">
-                    <h2 class="absolute top-8 left-4 w-full block text-white text-5xl">Perchè design ad Alghero?</h2>
-                    <a href="#" class="absolute bottom-4 left-4 text-white border border-white text-2xl px-4 py-2 rounded-lg hover:bg-black hover:opacity-50">Si può!</a>
+                    <h2 class="px-4 absolute top-[5vh] left-0 text-white text-[70px] leading-[90%]  tracking-[-.05em]">Perchè design ad Alghero?</h2>
+                    <a href="#" class="button absolute bottom-4 left-4">Si può!</a>
                 </div>
 
-                <div class="blocco">
-                    <img src="@/assets/img/axd_color.svg" alt="" class="w-full">
-                    <div class="absolute top-8 left-4 w-full">
-                        <h2 class="block  text-5xl">Workshops</h2>
-                        <p class="leading-tight mt-2  text-sm opacity-75">Curro Claret, Johao , Matteo Moretti</p>
+                <div class="blocco mb-0 sm:mb-4">
+                    <img src="@/assets/img/axd_color.svg" alt="" class="w-full object-none">
+                    <div class="absolute top-8 left-4 w-[90%]">
+                        <h2>Workshops</h2>
+                        <p>Curro Claret, Johao Schlitter, Matteo Moretti</p>
                     </div>
                    
-                    <a href="#" class="absolute bottom-4 left-4 border border-black text-xl px-4 py-2 rounded-lg">edizione 2023</a>
+                    <a href="#" class="button absolute bottom-4 left-4">edizione 2023</a>
                 </div>
 
-                <div class="blocco ">
-                    <div class="grid grid-cols-2 ">
-                        <div class="bg-fucsia relative p-4 col-span-2 md:col-span-1">
-                            <h2 class=" w-full block text-white text-3xl">Design Duo</h2>
-                            <p class="leading-tight mt-2 text-white text-sm opacity-75">un ciclo di incontri su alcuni dei grandi temi del design</p>
-                            <a href="#" class="absolute bottom-4 left-4 text-white border border-white  px-4 py-2 rounded-lg">Scopri di più</a>
-                        </div>
-                        <img src="/img/sedie_duo.png" alt="" class="h-80 object-cover col-span-2 md:col-span-1">
-                        
+                <div class="blocco mb-0 sm:mb-4">
+                    <img src="/img/design-duo.png" alt="" class="w-full object-fit">
+                    <div class="absolute top-8 left-4 w-[90%]">
+                        <h2>Design Duo</h2>
+                        <p>un ciclo di incontri su alcuni dei grandi temi del design</p>
                     </div>
+                   
+                    <a href="#" class="button absolute bottom-4 left-4">Scopri di più</a>
                 </div>
+
+                
 
             </div>
 
             <!-- colonna destra-->
             <div>
-                <div class="blocco md:mx-0 mx-4">
-                    <p class="text-2xl md:text-3xl">AlgheroXDesign è la Laurea Triennale in Design, capace di attivare studi, ricerche e iniziative per contribuire al rilancio del territorio, riprendendo a formare le figure di giovani designer di prodotto, della comunicazione e dei servizi, con cui ricominciare a immaginare, comunicare e innovare la Sardegna.</p>
-                </div>
+                <div class="blocco px-4 py-4 mb-4">
+                    <p class="">AlgheroXDesign è la Laurea Triennale in Design, capace di attivare studi, ricerche e iniziative per contribuire al rilancio del territorio, riprendendo a formare le figure di giovani designer di prodotto, della comunicazione e dei servizi, con cui ricominciare a immaginare, comunicare e innovare la Sardegna.</p>
+                </div>        
 
-                <div class="blocco">
-                    <img src="/img/start.jpg" alt="" class="w-full">
-                    <h2 class="absolute top-8 left-4 w-full block text-white text-5xl">Da dove si inizia?</h2>
-                    <a href="#" class="absolute bottom-4 left-4 text-white border border-white text-xl px-4 py-2 rounded-lg">Da qui</a>
+                <div class="blocco mb-0 sm:mb-4">
+                    <img src="/img/start.jpg" alt="" class="w-full object-fit">
+                    <div class="absolute top-8 left-4 w-[90%] text-white">
+                        <h2>Da dove si inizia?</h2>
+                    </div>
+                    <a href="#" class="button absolute bottom-4 left-4">Da qui</a>
                 </div>
 
                 <!-- play alghero -->
-                <div class="blocco">
+                <div class="blocco mb-0 sm:mb-4">
                     <div class="grid grid-cols-2 gap-0 h-80">
                         <img src="/img/nicole.png" alt="" class="h-full object-cover">
                         <div class="bg-rosso relative p-4">
-                            <h2 class=" w-full block text-white text-3xl">Play Alghero</h2>
-                            <a href="#" class="absolute bottom-4 left-4 text-white border border-white  px-4 py-2 rounded-lg">Scopri di più</a>
+                            <h2 class="w-[90%] block text-white">Play Alghero</h2>
+                            <a href="#" class="button absolute bottom-4 left-4">Scopri di più</a>
                         </div>
                     </div>
                 </div>
-
-
             </div>
-
-          
         </div>
     </div>
 
@@ -122,25 +120,25 @@
 </script>
 
 <style lang="scss" scoped>
-    h1{
-        // color: $fucsia_axd;
-        font-family: 'basier_circle';
-        text-shadow: 0px 4px 6px #333;
-    }
+    // h1{
+    //     // color: $fucsia_axd;
+    //     font-family: 'basier_circle';
+    //     text-shadow: 0px 4px 6px #333;
+    // }
 
-    p.data{
-        color: $grigio_axd;
-        margin-bottom: 6px;
-        // font-kerning: normal;
-        letter-spacing: -1px;
-    }
+    // p.data{
+    //     color: $grigio_axd;
+    //     margin-bottom: 6px;
+    //     // font-kerning: normal;
+    //     letter-spacing: -1px;
+    // }
 
     h2{
         letter-spacing: -.08rem;
     }
 
     .blocco{
-        margin-bottom: 24px;
+        // margin-bottom: 24px;
         position: relative;
     }
 </style>
