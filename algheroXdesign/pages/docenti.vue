@@ -41,12 +41,12 @@
             <div class="col-span-12 col-start-1">
               <div class="grid grid-cols-2 sm:grid-cols-4 gap-4">
                 <div>
-                    <img class="object-cover h-60 w-48 rounded-sm" src="/img/nada-beretic.png"/>  
+                    <img class="object-cover h-60 w-48 rounded-sm" src="/img/nada-beretic.jpg"/>  
                     <p class="nome"><a alt="Nada Beretic" href="https://www.uniss.it/ugov/trasparenza/1083720" target="_blank">Nada Beretic</a></p>
                     <p class="qualifica">Ricercatrice</p>
                 </div>
                 <div>
-                  <img class="object-cover h-60 w-48 rounded-sm" src="/img/sabrina-melis.png"/>  
+                  <img class="object-cover h-60 w-48 rounded-sm" src="/img/sabrina-melis.jpg"/>  
                   <p class="nome"><a alt="Sabrina Melis" href="#" target="_blank">Sabrina Melis</a></p>
                   <p class="qualifica">Dottoranda</p>
                 </div>
@@ -61,7 +61,7 @@
                     <p class="qualifica">Ricercatore</p>
                 </div>
                 <div>
-                    <img class="object-cover h-60 w-48 rounded-sm" src="/img/paola.png"/>  
+                    <img class="object-cover h-60 w-48 rounded-sm" src="/img/paola.jpg"/>  
                     <p class="nome"><a alt="#" href="https://www.uniss.it/ugov/trasparenza/1083720" target="_blank">Paola</a></p>
                     <p class="qualifica">Ricercatrice</p>
                 </div>
