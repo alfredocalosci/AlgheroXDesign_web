@@ -40,6 +40,10 @@
     p.news{
         @apply leading-[110%];
     }
+    p.caption {
+        @apply w-full text-center text-[12px] leading-[100%] tracking-[0.0em] font-[400] text-gray-400 py-2 sm:text-[16px];
+    
+    }
     .button{
         @apply text-[25px] leading-[125%] font-[400] tracking-[-.04em] lg:text-[25px] lg:leading-[125%] lg:font-[400] lg:tracking-[-.02em] text-white border border-white text-2xl px-4 py-2 rounded-lg hover:bg-black hover:opacity-50;
     }

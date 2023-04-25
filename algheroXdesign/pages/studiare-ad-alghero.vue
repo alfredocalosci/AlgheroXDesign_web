@@ -11,6 +11,7 @@
             </div>
             <div class="col-span-12 col-start-1 sm:col-span-10 sm:col-start-2 my-12">
                 <img src="/img/students-at-work.png" alt="">
+                <p class="caption"> Lorem ipsum Nullam quis risus eget urna mollis.</p>
              </div>
 
             <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 ">
