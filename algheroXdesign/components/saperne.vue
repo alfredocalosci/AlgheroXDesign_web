@@ -30,9 +30,6 @@ export default {
             letter-spacing: -0.05em;
             line-height: 2.75rem;
         }
-        a{
-            text-decoration: underline;
-            
-        }
+        
     }
 </style>
