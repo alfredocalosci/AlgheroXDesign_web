@@ -17,17 +17,17 @@
 
             <div>
                 <p class="data">23.03.2023</p>
-                <p class="news">Aperte le iscrizioni al test di ammissione</p>
+                <p class="news">Prima scadenza per le prove di ammissione</p>
             </div>
 
             <div>
                 <p class="data">23.03.2023</p>
-                <p class="news">Aperte le iscrizioni al test di ammissione</p>
+                <p class="news">Seconda scadenxa prove di ammissione</p>
             </div>
 
             <div>
                 <p class="data">23.03.2023</p>
-                <p class="news">Aperte le iscrizioni al test di ammissione</p>
+                <p class="news">Terza sessione prove di ammissione</p>
             </div>
 
 
@@ -80,7 +80,7 @@
                     <div class="absolute top-8 left-4 w-[90%] text-white">
                         <h2>Da dove si inizia?</h2>
                     </div>
-                    <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" class="button absolute bottom-4 left-4">Da qui</a>
+                    <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" class="button absolute bottom-4 left-4">Da qui</a>
                 </div>
 
                 <!-- play alghero -->
@@ -89,7 +89,7 @@
                         <img src="/img/nicole.png" alt="" class="h-full object-cover">
                         <div class="bg-rosso relative p-4">
                             <h2 class="w-[90%] block text-white">Play Alghero</h2>
-                            <a href="https://www.youtube.com/watch?v=RILcP5B7wbA" class="button absolute bottom-4 left-4">Scopri di più</a>
+                            <a href="https://www.youtube.com/watch?v=RILcP5B7wbA" target="_blank" class="button absolute bottom-4 left-4">Scopri di più</a>
                         </div>
                     </div>
                 </div>
