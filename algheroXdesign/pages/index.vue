@@ -42,7 +42,8 @@
                <div class="blocco mb-0 sm:mb-4">
                     <img src="/img/girl.jpg" alt="" class="w-full">
                     <h2 class="px-4 absolute top-[5vh] left-0 text-white text-[70px] leading-[90%]  tracking-[-.05em]">Perché design ad Alghero?</h2>
-                    <a href="/studiare-ad-alghero" class="button absolute bottom-4 left-4">Si può!</a>
+                     <NuxtLink to="/studiare-ad-alghero" class="button absolute bottom-4 left-4">Si può!</NuxtLink>
+                     
                 </div>
 
                 <div class="blocco mb-0 sm:mb-4">
