@@ -1,5 +1,5 @@
 <template>
-     <div class="border-t border-black mb-8 px-4 mt-[10rem] sm:mt-0">
+     <div class="border-t border-black mb-8 px-4 sm:mt-0" id="footer">
         <div class="container sm:mx-auto sm:mt-0 ">
             <div class="grid grid-cols-4 gap-6 mt-4 mb-2 sm:mb-0">
                 <div>

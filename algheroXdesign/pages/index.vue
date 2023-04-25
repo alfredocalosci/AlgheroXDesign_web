@@ -35,8 +35,8 @@
     </div>
 
     <!-- main content -->
-    <div class="container mx-auto my-12">
-        <div class="grid md:grid-cols-2 gap-6">
+    <div class="container mx-auto my-0 sm:my-12">
+        <div class="grid sm:grid-cols-2 gap-6">
             <!-- colonna sinistra-->
             <div>
                <div class="blocco mb-0 sm:mb-4">
@@ -86,7 +86,7 @@
 
                 <!-- play alghero -->
                 <div class="blocco mb-0 sm:mb-4">
-                    <div class="grid grid-cols-2 gap-0 h-80">
+                    <div class="grid grid-cols-2 gap-0">
                         <img src="/img/nicole.png" alt="" class="h-full object-cover">
                         <div class="bg-rosso relative p-4">
                             <h2 class="w-[90%] block text-white">Play Alghero</h2>
@@ -121,18 +121,9 @@
 </script>
 
 <style lang="scss" scoped>
-    // h1{
-    //     // color: $fucsia_axd;
-    //     font-family: 'basier_circle';
-    //     text-shadow: 0px 4px 6px #333;
-    // }
-
-    // p.data{
-    //     color: $grigio_axd;
-    //     margin-bottom: 6px;
-    //     // font-kerning: normal;
-    //     letter-spacing: -1px;
-    // }
+    #footer{
+        margin-top: 10rem;
+    }    
 
     h2{
         letter-spacing: -.08rem;

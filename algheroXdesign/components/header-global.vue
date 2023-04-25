@@ -26,9 +26,7 @@
 
             <nav>
                 <ul>
-                    <li>
-                        
-                    </li>
+                   
                     <li>
                         <NuxtLink to="/studiare-ad-alghero" @click.native="closeNav()">Studiare ad Alghero</NuxtLink>
                     </li>
@@ -76,8 +74,8 @@ nav{
     
     ul{
         border-top: solid 1px #000;
-        margin-top: 24px;
-        margin-bottom: 64px;
+        // margin-top: 24px;
+        // margin-bottom: 64px;
 
         li{
             text-align: center;
@@ -94,6 +92,9 @@ nav{
             a{
                 display: block;
             }
+        }
+        li:last-child{
+            border-bottom: solid 0px #000;
         }
     }
 }
