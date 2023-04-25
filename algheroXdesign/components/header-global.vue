@@ -1,8 +1,8 @@
 <template>
-    <div class="px-4 border-b border-black">
+    <div class="border-b border-black">
         <div  id="holder" class="container  md:mx-auto py-2">
 
-            <div  class="flex justify-between">
+            <div  class="flex justify-between max-w-screen-xl px-4">
                 <img src="~assets/img/logo_architecture_at_alghero.jpg" alt="architettura ad alghero" class="h-8 mt-1">
             
                 <div class="grow">
@@ -22,7 +22,7 @@
 
         </div>
         
-        <div v-if="isOpen" class="container mx-auto">
+        <div v-if="isOpen" class="mx-auto">
 
             <nav>
                 <ul>
@@ -31,6 +31,9 @@
                     </li>
                     <li>
                         <NuxtLink to="/piano-studi" @click.native="closeNav()">Piano di Studi</NuxtLink>
+                    </li>
+                    <li>
+                        <NuxtLink to="/docenti" @click.native="closeNav()">Docenti</NuxtLink>
                     </li>
                     <li>
                         <NuxtLink to="/tipo" @click.native="closeNav()">Pagina tipo</NuxtLink>
@@ -65,20 +68,20 @@ export default {
 
 nav{
     ul{
-        border-top: solid 1px #ccc;
+        border-top: solid 1px #000;
         margin-top: 24px;
         margin-bottom: 64px;
 
         li{
             text-align: center;
-            border-bottom: solid 1px #ccc;
+            border-bottom: solid 1px #000;
             font-size: 21px;
             cursor: pointer;
             letter-spacing: -1px;
             padding: 4px 0;
 
             &:hover{
-                background-color: #efefef;
+                background-color: #f9f9f9;
             }
 
             a{
