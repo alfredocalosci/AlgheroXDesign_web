@@ -12,8 +12,23 @@
               <div class="grid grid-cols-2 sm:grid-cols-4 gap-2">
                 <div>
                   <img class="object-cover h-60 w-48 rounded-sm" src="/img/nicolo-ceccarelli.jpg"/>  
-                    <p class="nome"><a alt="Nicolò Ceccarelli" href="https://www.uniss.it/ugov/person/987" target="_blank">Nicolò Ceccarelli</a></p>
+                    <p class="nome"><a alt="Nicolò Ceccarelli" href="https://www.architettura.aho.uniss.it/it/node/2183" target="_blank">Nicolò Ceccarelli</a></p>
                     <p class="qualifica">Dir. del C.so di Laurea</p>
+                </div>
+                <div>
+                  <img class="object-cover h-60 w-48 rounded-sm" src="/img/enrico-cicalo.jpg"/>  
+                    <p class="nome"><a alt="Enrico Cicalo" href="https://www.architettura.aho.uniss.it/it/persone/docenti/cicalo-enrico" target="_blank">Enrico Cicalò</a></p>
+                    <p class="qualifica">Professore associato</p>
+                </div>
+                <div>
+                  <img class="object-cover h-60 w-48 rounded-sm" src="/img/cecilia-rostagni.jpg"/>  
+                    <p class="nome"><a alt="Cecilia Rostagni" href="https://www.architettura.aho.uniss.it/it/la-scuola/persone/docenti-strutturati/rostagni-cecilia" target="_blank">Nicolò Ceccarelli</a></p>
+                    <p class="qualifica">Professore associato</p>
+                </div>
+                <div>
+                  <img class="object-cover h-60 w-48 rounded-sm" src="/img/lidia-decandia.jpg"/>  
+                    <p class="nome"><a alt="Lidia Decandia" href="https://www.architettura.aho.uniss.it/it/persone/docenti/decandia-lidia" target="_blank">Nicolò Ceccarelli</a></p>
+                    <p class="qualifica">Professore associato</p>
                 </div>
                 <div>
                   <img class="object-cover h-60 w-48 rounded-sm" src="/img/matteo-moretti.png"/>  
