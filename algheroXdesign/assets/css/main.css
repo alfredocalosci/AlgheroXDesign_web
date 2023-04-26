@@ -19,11 +19,11 @@
        
     }
     h2{
-        @apply text-[35px] leading-[101%] tracking-[-.04em] lg:text-[50px] lg:tracking-[-.04em];
+        @apply text-[35px] leading-[110%] tracking-[-.04em] lg:text-[50px] lg:tracking-[-.04em];
        
     }
     h3{
-        @apply text-[25px] leading-[101%] tracking-[-.04em] lg:text-[35px] lg:tracking-[-.04em];
+        @apply text-[25px] leading-[110%] tracking-[-.04em] lg:text-[35px] lg:tracking-[-.04em];
        
     }
     h4{
