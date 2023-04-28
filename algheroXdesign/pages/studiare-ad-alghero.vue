@@ -9,8 +9,13 @@
                 Scegliere di studiare ad AlgheroXDesign permette di attingere a tutti quei saperi e competenze per approcciare in maniera critica e consapevole le tecnologie, le questioni sociali ed etiche. Si tratta di un percorso interdisciplinare, che combina corsi progettuali e teorici, affinchè gli studenti possano lavorare nel mondo del design una volta compltetati gli studi.
                 </p>
             </div>
+            <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 ">
+               
+                <h4 class="pt-4">Ambiente locale e qualità delle relazioni</h4>
+                <p>L'offerta formativa di AlgheroXDesign è unica nel suo genere. Coniuga di fatto la dimensione locale, punto di forza del Corso di Laurea, con la visione e la portata globale dei temi e degli insegnamenti proposti. Questi sono caratterizzati da un rapporto docente-studente di qualità, attento alle relazioni e ai bisogni, complice anche il numero limitato di posti. Questo garantisce la qualità e la sostenibilità dell'offerta durante tutto il ciclo di studi.</p>
+            </div>
             <div class="col-span-12 col-start-1 sm:col-span-10 sm:col-start-2 my-12">
-                <img src="/img/students-at-work.png" alt="">
+                <img src="/img/p_S59241.jpg" alt="">
                 <p class="caption"> Lorem ipsum Nullam quis risus eget urna mollis.</p>
              </div>
 
