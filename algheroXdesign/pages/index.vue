@@ -9,7 +9,7 @@
     </div>
 
     <!-- news -->
-    <div class="container px-4 mt-[20px] md:mx-auto">
+    <div class="container px-4 mt-[20px] sm:mx-auto mb-8 sm:mb-0">
         <div class="grid md:grid-cols-4 gap-6">
             <div>
                 <p class="data">23.03.2023</p>

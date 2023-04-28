@@ -20,6 +20,53 @@
                     Una volta laureati, gli studenti lavorano nel campo del visual e motion design, così come in quello del graphic design o dell'editoria multinediale, declinando le varie competenze alle esigenze e i linguaggi della progettazione contemporanea. Studi di progettazione, istituzioni culturali, imprese creative di media e grande dimensione sono tra i principali ambiti nei quali i nostri laureati lavorano.
                 </p>
             </div>
+            
+            <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 mb-3">
+                <h4 class="pt-4">Chi sono e di cosa si occupano i nostri diplomati? </h4>
+                <p>
+                  Di seguito una selezione di chi ha voluto raccontarci la sua esperienza tra Londra, Barcellona, e Italia.
+
+                </p>
+            </div>
+            <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
+                <video  poster="img/video/IMG_1311_720.jpg" controls >
+                <source src="img/video/IMG_1311_720.mp4" type="video/mp4">
+                <source src="img/video/IMG_1311_720.ogg" type="video/ogg">
+                Your browser does not support the video tag.
+                </video>
+                    <p class="nome">
+                    Manuel Cognome 
+                    </p>
+                    <p class="qualifica">
+                    Dirige il dipartimento di digital media e marketing di nome azienda.
+                    </p>
+            </div>
+            <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
+                <video  poster="img/video/IMG_1311_720.jpg" controls >
+                <source src="img/video/IMG_1311_720.mp4" type="video/mp4">
+                <source src="img/video/IMG_1311_720.ogg" type="video/ogg">
+                Your browser does not support the video tag.
+                </video>
+                    <p class="nome">
+                    Manuel Cognome 
+                    </p>
+                    <p class="qualifica">
+                    Dirige il dipartimento di digital media e marketing di nome azienda.
+                    </p>
+            </div>
+            <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
+                <video  poster="img/video/IMG_1311_720.jpg" controls >
+                <source src="img/video/IMG_1311_720.mp4" type="video/mp4">
+                <source src="img/video/IMG_1311_720.ogg" type="video/ogg">
+                Your browser does not support the video tag.
+                </video>
+                    <p class="nome">
+                    Manuel Cognome 
+                    </p>
+                    <p class="qualifica">
+                    Dirige il dipartimento di digital media e marketing di nome azienda.
+                    </p>
+            </div>
         </div>
         <saperne></saperne>    
     </div>

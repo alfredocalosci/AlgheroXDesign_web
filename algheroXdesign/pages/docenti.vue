@@ -118,16 +118,3 @@
     })
 </script>
 
-<style lang="scss" scoped>
-
-#docenti{
-    .nome{
-       @apply normal-case text-[16px] font-[500] leading-[115%] mb-0 pt-1;
-    }    
-    .qualifica{
-       @apply normal-case text-[16px] font-[400] leading-[115%] mb-0;
-    }    
-}    
-
-    
-</style>
