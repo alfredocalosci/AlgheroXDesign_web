@@ -34,9 +34,8 @@
                 </p>
             </div>
             <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
-                <video  poster="img/video/IMG_1311_720.jpg" controls >
-                <source src="img/video/IMG_1311_720.mp4" type="video/mp4">
-                <source src="img/video/IMG_1311_720.ogg" type="video/ogg">
+                <video  poster="/img/video/IMG_1311_720.jpg" controls >
+                <source src="/img/video/IMG_1311_720.mp4" type="video/mp4">
                 Your browser does not support the video tag.
                 </video>
                     <p class="nome">
@@ -47,9 +46,8 @@
                     </p>
             </div>
             <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
-                <video  poster="img/video/IMG_1311_720.jpg" controls >
-                <source src="img/video/IMG_1311_720.mp4" type="video/mp4">
-                <source src="img/video/IMG_1311_720.ogg" type="video/ogg">
+                <video  poster="/img/video/IMG_1311_720.jpg" controls >
+                <source src="/img/video/IMG_1311_720.mp4" type="video/mp4">
                 Your browser does not support the video tag.
                 </video>
                     <p class="nome">
@@ -60,9 +58,8 @@
                     </p>
             </div>
             <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
-                <video  poster="img/video/IMG_1311_720.jpg" controls >
-                <source src="img/video/IMG_1311_720.mp4" type="video/mp4">
-                <source src="img/video/IMG_1311_720.ogg" type="video/ogg">
+                <video  poster="/img/video/IMG_1311_720.jpg" controls >
+                <source src="/img/video/IMG_1311_720.mp4" type="video/mp4">
                 Your browser does not support the video tag.
                 </video>
                     <p class="nome">
