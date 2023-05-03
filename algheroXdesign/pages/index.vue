@@ -9,26 +9,34 @@
     </div>
 
     <!-- news -->
-    <div class="container px-4 mt-[20px] sm:mx-auto mb-8 sm:mb-0">
+    <div class="container px-4 mt-[20px] sm:mx-auto mb-8 sm:mb-0" id="news-list">
         <div class="grid md:grid-cols-4 gap-6">
             <div>
+            <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" alt="Aperte le iscrizioni al test di ammissione">
                 <p class="data">23.03.2023</p>
                 <p class="news">Aperte le iscrizioni al test di ammissione</p>
+            </a>
             </div>
 
             <div>
+            <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" alt="Prima scadenza per le prove di ammissione">
                 <p class="data">23.03.2023</p>
                 <p class="news">Prima scadenza per le prove di ammissione</p>
+            </a>
             </div>
 
             <div>
+            <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" alt="Seconda scadenza prove di ammissione">
                 <p class="data">23.03.2023</p>
-                <p class="news">Seconda scadenxa prove di ammissione</p>
+                <p class="news">Seconda scadenza prove di ammissione</p>
+            </a>
             </div>
 
             <div>
+            <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" alt="Terza sessione prove di ammissione">
                 <p class="data">23.03.2023</p>
                 <p class="news">Terza sessione prove di ammissione</p>
+            </a>
             </div>
 
 
@@ -47,6 +55,16 @@
                      
                 </div>
 
+               
+                <div class="blocco mb-0 sm:mb-4" id="start">
+                    <img src="/img/start.jpg" alt="" class="w-full object-fit">
+                    <div class="absolute top-8 left-4 w-[90%] text-white">
+                        <h2>Da dove si inizia?</h2>
+                        <p>Vuoi iscriverti? Scopri come fare sul sito Uniss.it</p>
+                    </div>
+                    <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" class="button absolute bottom-4 left-4">Da qui</a>
+                </div>
+
                 <div class="blocco mb-0 sm:mb-4" id="workshop">
                     <img src="@/assets/img/axd_color.svg" alt="" class="w-full object-none">
                     <div class="absolute top-8 left-4 w-[90%]">
@@ -55,14 +73,6 @@
                     </div>
                    
                     <a href="#" class="button absolute bottom-4 left-4 text-black border-black">Edizione 2023</a>
-                </div>
-
-                <div class="blocco mb-0 sm:mb-4" id="start">
-                    <img src="/img/start.jpg" alt="" class="w-full object-fit">
-                    <div class="absolute top-8 left-4 w-[90%] text-white">
-                        <h2>Da dove si inizia?</h2>
-                    </div>
-                    <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" class="button absolute bottom-4 left-4">Da qui</a>
                 </div>
 
                 <div class="blocco mb-0 sm:mb-4" id="2co">
@@ -95,13 +105,13 @@
                 
 
                 <div class="blocco mb-0 sm:mb-4" id="expo">
-                    <img src="/img/design-duo.png" alt="" class="w-full object-fit">
+                    <img src="/img/expo-2.jpg" alt="" class="w-full object-fit">
                     <div class="absolute top-8 left-4 w-[90%]">
                         <h2>Animazione e Design</h2>
-                        <p>L'esperienza di ALgheroXDesign al servizion dell'expo di Milano</p>
+                        <p>L'esperienza di AlgheroXDesign al servizion dell'expo di Milano</p>
                     </div>
                    
-                    <a href="#" class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
+                    <a href="http://www.neolocaldesign.org/it/post.php?id_txt=66" class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
                 </div>
                
                 <div class="blocco mb-0 sm:mb-4" id="design-duo">
