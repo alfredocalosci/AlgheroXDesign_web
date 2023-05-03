@@ -22,16 +22,16 @@
                 </div>
                 <div>
                   <img class="object-cover rounded-sm" src="/img/cecilia-rostagni.jpg"/>  
-                    <p class="nome"><a alt="Cecilia Rostagni" href="https://www.architettura.aho.uniss.it/it/la-scuola/persone/docenti-strutturati/rostagni-cecilia" target="_blank">Nicolò Ceccarelli</a></p>
+                    <p class="nome"><a alt="Cecilia Rostagni" href="https://www.architettura.aho.uniss.it/it/la-scuola/persone/docenti-strutturati/rostagni-cecilia" target="_blank">Cecilia Rostagni</a></p>
                     <p class="qualifica">Professore associato</p>
                 </div>
                 <div>
                   <img class="object-cover rounded-sm" src="/img/lidia-decandia.jpg"/>  
-                    <p class="nome"><a alt="Lidia Decandia" href="https://www.architettura.aho.uniss.it/it/persone/docenti/decandia-lidia" target="_blank">Nicolò Ceccarelli</a></p>
+                    <p class="nome"><a alt="Lidia Decandia" href="https://www.architettura.aho.uniss.it/it/persone/docenti/decandia-lidia" target="_blank">Lidia Decandia</a></p>
                     <p class="qualifica">Professore associato</p>
                 </div>
                 <div>
-                  <img class="object-cover rounded-sm" src="/img/matteo-moretti.png"/>  
+                  <img class="object-cover rounded-sm" src="/img/matteo-moretti.jpg"/>  
                   <p class="nome"><a alt="Matteo Maria Moretti" href="https://msite.uniss.it/ugov/person/107364" target="_blank">Matteo Moretti</a></p>
                   <p class="qualifica">Professore associato</p>
                 </div>
