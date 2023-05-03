@@ -1,6 +1,6 @@
 <template>
     <div id="modulo" class="col-span-8 col-start-3 border-t border-black pt-12">
-        <p class="text-4xl px-6">Vuoi saperne di più? Scopri la storia del corso di design, i <NuxtLink to="/docenti">docenti</NuxtLink>, le materie del piano di studi, gli eventi e le attività di ricerca.</p>
+        <p class="text-4xl px-6">Vuoi saperne di più? Scopri la storia del corso di design, i <NuxtLink to="/docenti">docenti</NuxtLink>, le materie del <NuxtLink to="/piano-studi">piano di studi</NuxtLink>, gli eventi e le attività di ricerca.</p>
     </div>
 </template>
 

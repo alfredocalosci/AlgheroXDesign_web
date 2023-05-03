@@ -9,14 +9,13 @@
     }
     a{
         @apply border-b border-black transition-all;
-        
     }
     a:hover{
       @apply border-slate-200;
     }
     h1{
         @apply text-[50px] leading-[101%] tracking-[-.04em] lg:text-[80px] lg:tracking-[-.04em];
-       
+    
     }
     h2{
         @apply text-[35px] leading-[110%] tracking-[-.04em] lg:text-[50px] lg:tracking-[-.04em];
@@ -40,7 +39,7 @@
     p.news{
         @apply leading-[110%];
     }
-    
+
     p.caption {
 
         @apply w-full text-center text-[12px] leading-[100%] tracking-[0.0em] font-[400] text-gray-400 py-2 sm:text-[16px];
