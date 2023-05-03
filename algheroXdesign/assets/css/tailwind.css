@@ -5,7 +5,7 @@
 @layer base {
     body{
         text-rendering: optimizeLegibility;
-        @apply antialiased;
+        @apply antialiased ;
     }
     a{
         @apply border-b border-black transition-all;
@@ -23,11 +23,9 @@
     }
     h3{
         @apply text-[25px] leading-[110%] tracking-[-.04em] lg:text-[35px] lg:tracking-[-.04em];
-       
     }
     h4{
-        @apply text-[25px] leading-[125%] font-[500] tracking-[-.025em] lg:text-[25px] lg:leading-[125%] lg:font-[500] lg:tracking-[-.02em];
-       
+        @apply text-[25px] leading-[125%] font-[500] tracking-[-.025em] lg:text-[25px] lg:leading-[125%] lg:font-[500] lg:tracking-[-.02em]; 
     }
     p{
         @apply text-[25px] leading-[125%] font-[400] tracking-[-.025em] lg:text-[25px] lg:leading-[125%] lg:font-[400] lg:tracking-[-.02em];
@@ -41,7 +39,6 @@
     }
 
     p.caption {
-
         @apply w-full text-center text-[12px] leading-[100%] tracking-[0.0em] font-[400] text-gray-400 py-2 sm:text-[16px];
     }
     .button{
