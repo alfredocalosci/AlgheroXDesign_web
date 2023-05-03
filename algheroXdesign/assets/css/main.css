@@ -40,8 +40,9 @@
     p.news{
         @apply leading-[110%];
     }
+    
     p.caption {
-        
+
         @apply w-full text-center text-[12px] leading-[100%] tracking-[0.0em] font-[400] text-gray-400 py-2 sm:text-[16px];
     }
     .button{

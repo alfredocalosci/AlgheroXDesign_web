@@ -2,7 +2,7 @@
     <div class="border-b border-black">
         <div  id="holder" class="container  md:mx-auto py-2">
 
-            <div  class="flex justify-between max-w-screen-xl px-4 sm:px-0">
+            <div  class="flex justify-between px-4 sm:px-0">
                 <img src="~assets/img/logo_architecture_at_alghero.jpg" alt="architettura ad alghero" class="h-8 mt-1">
             
                 <div class="grow">
