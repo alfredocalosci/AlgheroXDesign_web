@@ -39,10 +39,12 @@
                 Your browser does not support the video tag.
                 </video>
                     <p class="nome">
-                    Manuel Cognome 
+                        Emanuel Serra
                     </p>
                     <p class="qualifica">
-                    Dirige il dipartimento di digital media e marketing di nome azienda.
+                        Digital Media & Marketing Manager<br/>
+                        Go Adventures, Bristol, UK
+
                     </p>
             </div>
             <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
@@ -51,10 +53,12 @@
                 Your browser does not support the video tag.
                 </video>
                     <p class="nome">
-                    Manuel Cognome 
+                        Antonella Sechi  
                     </p>
                     <p class="qualifica">
-                    Dirige il dipartimento di digital media e marketing di nome azienda.
+                        designer e founder di Oralae S.r.l.<br/>
+                        Milano, IT
+
                     </p>
             </div>
             <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
