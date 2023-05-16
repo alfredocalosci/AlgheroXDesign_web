@@ -22,7 +22,7 @@
             <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 ">
                 <h4 class="pt-4">Sbocchi professionali </h4>
                 <p>
-                    Una volta laureati, gli studenti lavorano nel campo del visual e motion design, così come in quello del graphic design o dell'editoria multimediale, declinando le varie competenze alle esigenze e i linguaggi della progettazione contemporanea. Studi di progettazione, istituzioni culturali, imprese creative di media e grande dimensione sono tra i principali ambiti nei quali i nostri laureati lavorano.
+                    Una volta laureati, gli studenti lavorano nel campo del visual e motion design, così come in quello del graphic design o dell'editoria multimediale, declinando le varie competenze alle esigenze e ai linguaggi della progettazione contemporanea. Studi di progettazione, istituzioni culturali, imprese creative di media e grande dimensione sono tra i principali ambiti nei quali i nostri laureati lavorano.
                 </p>
             </div>
             
