@@ -5,9 +5,7 @@
         <div class="grid grid-cols-12 gap-x-6 mb-12">
             <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 ">
                 <p>
-                    Il progetto didattico si ispira a un modello interdisciplinare, a cavallo tra teoria e pratica, in cui le attività laborartoriali e progettuali si alternano con gli insegnamenti teorici. 
-                    A completare la formazione sono sono i workshop interclase: corsi intensivi della durata di una settimana, in cui docenti e profesisonisti di fama iternazionale guidano gli studenti in vere e proprie esperieze progettuali.
-                
+                    Il progetto didattico si ispira a un modello interdisciplinare, a cavallo tra teoria e pratica, in cui le attività laboratoriali e progettuali si alternano con gli insegnamenti teorici. A completare la formazione sono i workshop interclasse: corsi intensivi della durata di una settimana, in cui docenti e professionisti di fama internazionale guidano gli studenti in vere e proprie esperienze progettuali.
                     </p>
             </div>
         </div>
@@ -22,8 +20,8 @@
                     Al primo semestre del primo anno di studi il laboratorio di Design per il pianeta pone l'accento sugli emergenti problemi alla scala planetaria, sottolineando la necessità di intervenire a livello di sistema, e indirizzando sin da subito il corso di studi verso una linea di piena consapevolezza ambientale.
                 </p>
                 <p>
-                    Nel secondo semestre, con il laboratorio integrato di Design e Luoghi l'enfasi si trasferisce sulla dimensione territoriale, evidenziando la necessità di un confronto costante dell'uomo con il suo intorno e – per i progettisti – l'importanza di acuire la propria capacità di ascolto. 
-                    Al corso di Culture del Design è assegnato il compito di sensibilizzare gli studenti sugli aspetti me- todologici della progettazione e sull'insostituibile ruolo di media- zione culturale che il design è chiamato a svolgere per la società.
+                    Nel secondo semestre, con il laboratorio integrato di Design e Luoghi l'enfasi si trasferisce sulla dimensione territoriale, evidenziando la necessità di un confronto costante dell'uomo con il suo intorno e - per i progettisti - l'importanza di acuire la propria capacità di ascolto. Al corso di Culture del Design è assegnato il compito di sensibilizzare gli studenti sugli aspetti metodologici della progettazione e sull'insostituibile ruolo di mediazione culturale che il design è chiamato a svolgere per la società.
+
                 </p>
             </div>
             <div class="col-span-12 col-start-1 px-4 sm:px-0 xl:col-span-2 lg:col-span-3 md:col-span-3 col-span-12 col-start-1 py-7">
@@ -69,7 +67,7 @@ il design della comunicazione nel contesto dei media digitali (multimedia, anima
                     <li>Lab. di Digital design</li>
                     <li>Lab. di Info design</li>
                     <li>Immagini II - Linguaggi grafici</li>
-                    <li>Teoria dei linguaggi audivisi</li>
+                    <li>Teoria dei linguaggi audiovisi</li>
                     <li>Attività a scelta</li>
                     </ul>
                     
@@ -98,7 +96,7 @@ il design della comunicazione nel contesto dei media digitali (multimedia, anima
                     Al corso Design per la società è assegnato il compito di evidenziare gli scenari di relazioni e interazione che legano le discipline del design con la progettazione di processi e servizi.
                     </p>
                     <p>
-                    Il secondo semestre è dedicato alle attività di sintesi del processo di apprendimento: elaborazione del portfolio personale, esami a scelta, perfezionamento della lingua inglese, preparazione dell'elaborato di fine carriera, che in linea con la tradizione del DADU, si innesteranno su un articolato programma di tirocini professionalizzanti, dentro e fuori dalla Sardegna, con una predi- lezione per le esperienze all'estero.    
+                    Il secondo semestre è dedicato alle attività di sintesi del processo di apprendimento: elaborazione del portfolio personale, esami a scelta, perfezionamento della lingua inglese, preparazione dell'elaborato di fine carriera, che in linea con la tradizione del DADU, si innesteranno su un articolato programma di tirocini professionalizzanti, dentro e fuori dalla Sardegna, con una predilezione per le esperienze all'estero.    
                      </p>
                 </div>
                 <div class="col-span-12 col-start-1 px-4 sm:px-0 xl:col-span-2 lg:col-span-3 md:col-span-3 col-span-12 col-start-1 py-7">
