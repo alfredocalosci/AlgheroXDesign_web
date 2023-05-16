@@ -36,9 +36,7 @@
                     <li>
                         <NuxtLink to="/docenti" @click.native="closeNav()">Docenti</NuxtLink>
                     </li>
-                    <li>
-                        <NuxtLink to="/tipo" @click.native="closeNav()">Pagina tipo</NuxtLink>
-                    </li>
+                  
                 </ul>
             </nav>
         </div>

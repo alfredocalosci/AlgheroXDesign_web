@@ -70,7 +70,8 @@
                     Francesco Frulio 
                     </p>
                     <p class="qualifica">
-                    Dirige il dipartimento di digital media e marketing di nome azienda.
+                    Interior e product designer<br/>
+                    Milano, IT
                     </p>
             </div>
         </div>
