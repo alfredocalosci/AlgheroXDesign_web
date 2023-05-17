@@ -74,6 +74,19 @@
                     Milano, IT
                     </p>
             </div>
+            <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
+                <video  poster="/img/video/riccardo_marras.jpg" controls >
+                <source src="/img/video/riccardo_marras.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+                </video>
+                    <p class="nome">
+                    Riccardo Marras
+                    </p>
+                    <p class="qualifica">
+                    Designer<br/>
+                    Barcellona, ES
+                    </p>
+            </div>
         </div>
         <saperne></saperne>    
     </div>
