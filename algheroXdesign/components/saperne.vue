@@ -1,6 +1,6 @@
 <template>
     <div id="modulo" class="col-span-8 col-start-3 border-t border-black pt-12">
-        <p class="text-4xl px-6">Vuoi saperne di più? Scopri la storia del corso di design, i <NuxtLink to="/docenti">docenti</NuxtLink> e le materie del <NuxtLink to="/piano-studi">piano di studi</NuxtLink>.</p>
+        <p class="text-4xl px-6"><a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design">Se vuoi iscriverti? Parti da qui!</a> Oppure scopri <NuxtLink to="/docenti">perchè studiare ad Alghero</NuxtLink>, i <NuxtLink to="/docenti">docenti</NuxtLink> e le materie del <NuxtLink to="/piano-studi">piano di studi</NuxtLink>.</p>
     </div>
 </template>
 
