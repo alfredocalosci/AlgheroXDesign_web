@@ -56,7 +56,7 @@
                         Antonella Sechi  
                     </p>
                     <p class="qualifica">
-                        designer e founder di Oralae S.r.l.<br/>
+                        Designer e founder di Oralae S.r.l.<br/>
                         Milano, IT
 
                     </p>
