@@ -31,11 +31,11 @@
                 <p>
                   Di seguito una selezione di chi ha voluto raccontarci la sua esperienza tra Londra, Barcellona, e Italia.
 
-                </p>
+                </p><br/>
             </div>
             <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
-                <video  poster="/img/video/emanuel_serra.jpg" controls >
-                <source src="/img/video/emanuel_serra.mp4" type="video/mp4">
+                <video  poster="/img/video/alumni_emanuel.jpg" controls >
+                <source src="/img/video/alumni_emanuel.mp4" type="video/mp4">
                 Your browser does not support the video tag.
                 </video>
                     <p class="nome">
@@ -48,8 +48,8 @@
                     </p>
             </div>
             <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
-                <video  poster="/img/video/antonella_sechi.jpg" controls >
-                <source src="/img/video/antonella_sechi.mp4" type="video/mp4">
+                <video  poster="/img/video/alumni_sechi.jpg" controls >
+                <source src="/img/video/alumni_sechi.mp4" type="video/mp4">
                 Your browser does not support the video tag.
                 </video>
                     <p class="nome">
@@ -62,8 +62,8 @@
                     </p>
             </div>
             <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
-                <video  poster="/img/video/francesco_frulio.jpg" controls >
-                <source src="/img/video/francesco_frulio.mp4" type="video/mp4">
+                <video  poster="/img/video/alumni_frulio.jpg" controls >
+                <source src="/img/video/alumni_frulio.mp4" type="video/mp4">
                 Your browser does not support the video tag.
                 </video>
                     <p class="nome">
@@ -75,8 +75,8 @@
                     </p>
             </div>
             <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
-                <video  poster="/img/video/riccardo_marras.jpg" controls >
-                <source src="/img/video/riccardo_marras.mp4" type="video/mp4">
+                <video  poster="img/video/alumni_marras.jpg" controls >
+                <source src="img/video/alumni_marras.mp4" type="video/mp4">
                 Your browser does not support the video tag.
                 </video>
                     <p class="nome">
