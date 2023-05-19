@@ -87,6 +87,19 @@
                     Barcellona, ES
                     </p>
             </div>
+            <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
+                <video  poster="/img/video/alumni_nurra.jpg" controls >
+                <source src="/img/video/alumni_nurra.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+                </video>
+                    <p class="nome">
+                    Stefano Nurra
+                    </p>
+                    <p class="qualifica">
+                    Designer freelance nel settore video, post-produzione e compositing<br/>
+                    Londra, UK
+                    </p>
+            </div>
         </div>
         <saperne></saperne>    
     </div>
