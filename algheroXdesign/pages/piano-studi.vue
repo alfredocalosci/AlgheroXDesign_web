@@ -26,12 +26,11 @@
             </div>
             <div class="col-span-12 col-start-1 px-4 sm:px-0 xl:col-span-2 lg:col-span-3 md:col-span-3 col-span-12 col-start-1 py-7">
                     <ul>1 semestre - I anno
-                    <li>Immagini I - Disegno</li>
-                    <li>Immagini I - Fotografia</li>
-                    <li>Geometria</li>
-                    <li>Storia del design</li>
-                    <li>Lab. di Design per il pianeta</li>
-                    <li>Filosofia dell'arte</li>
+                        <li>Geometria</li>
+                        <li>Storia del design</li>
+                        <li>Lab. di Design per il pianeta</li>
+                        <li>Filosofia dell'arte</li>
+                        <li>Immagini I - Disegno</li>
                     </ul>
                     
                     <ul>
@@ -41,8 +40,7 @@
                     <ul>2 semestre - I anno
                     <li>Lab. di Design e luoghi</li>
                     <li>Antropologia culturale</li>
-                    <li>Culture del design</li>
-                    
+                    <li>Lab. di Culture del design</li>
                     </ul>
             </div>
         </div>
@@ -64,9 +62,8 @@ il design della comunicazione nel contesto dei media digitali (multimedia, anima
             </div>
             <div class="col-span-12 col-start-1 px-4 sm:px-0 xl:col-span-2 lg:col-span-3 md:col-span-3 col-span-12 col-start-1 py-7">
                     <ul>3 semestre - II anno
-                    <li>Lab. di Digital design</li>
-                    <li>Lab. di Info design</li>
-                    <li>Immagini II - Linguaggi grafici</li>
+                    <li>Lab. di Design della cultura digitale</li>
+                    <li>Immagini II</li>
                     <li>Teoria dei linguaggi audiovisi</li>
                     <li>Attività a scelta</li>
                     </ul>
@@ -102,8 +99,10 @@ il design della comunicazione nel contesto dei media digitali (multimedia, anima
                 <div class="col-span-12 col-start-1 px-4 sm:px-0 xl:col-span-2 lg:col-span-3 md:col-span-3 col-span-12 col-start-1 py-7">
                         <ul>5 semestre - III anno
                         <li>Lab. di Exhibit design</li>
-                        <li>Design per la società</li>
+                        <li>Lab. di Design per la società</li>
+                        <li>Lingua inglese</li>
                         <li>Attività a scelta</li>
+                        
                         </ul>
                         
                         <ul>
@@ -111,9 +110,8 @@ il design della comunicazione nel contesto dei media digitali (multimedia, anima
                         </ul>
                         
                         <ul>2 semestre - III anno
-                        <li>Tirocinio</li>
                         <li>Attività a scelta</li>
-                        <li>Lingua inglese</li>
+                        <li>Tirocinio</li>
                         <li>Prova finale</li>
                         </ul>
                 </div>
@@ -176,7 +174,7 @@ il design della comunicazione nel contesto dei media digitali (multimedia, anima
     ul{
         @apply text-[12px] uppercase font-[400] leading-[28px];
         li{
-            @apply normal-case text-[16px] font-[500] tracking-[-.02em] border-b border-solid border-slate-200 leading-[28px];
+            @apply normal-case text-[14px] font-[500] tracking-[-.02em] border-b border-solid border-slate-200 leading-[28px];
         }
     }
 }    
