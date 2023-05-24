@@ -13,31 +13,33 @@
         <div class="grid md:grid-cols-4 gap-6">
             <div>
             <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" alt="Aperte le iscrizioni al test di ammissione">
-                <p class="data">23.03.2023</p>
-                <p class="news">Aperte le iscrizioni al test di ammissione</p>
-            </a>
-            </div>
-
-            <div>
-            <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" alt="Prima scadenza per le prove di ammissione">
-                <p class="data">23.03.2023</p>
-                <p class="news">Prima scadenza per le prove di ammissione</p>
-            </a>
-            </div>
-
-            <div>
-            <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" alt="Seconda scadenza prove di ammissione">
-                <p class="data">23.03.2023</p>
-                <p class="news">Seconda scadenza prove di ammissione</p>
+                <p class="data">04.09.2023</p>
+                <p class="news">Apertura iscrizioni al test di ammissione</p>
             </a>
             </div>
 
             <div>
             <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" alt="Terza sessione prove di ammissione">
-                <p class="data">23.03.2023</p>
-                <p class="news">Terza sessione prove di ammissione</p>
+                <p class="data">25.08.2023</p>
+                <p class="news">Chiusura iscrizioni al test di ammissione</p>
             </a>
             </div>
+
+            <div>
+            <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" alt="Prima scadenza per le prove di ammissione">
+                <p class="data">04.09.2023</p>
+                <p class="news">Prova grafica test di ammissione </p>
+            </a>
+            </div>
+
+            <div>
+            <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" alt="Seconda scadenza prove di ammissione">
+                <p class="data">05.09.2023</p>
+                <p class="news">Colloqui test di ammissione </p>
+            </a>
+            </div>
+
+           
 
 
         </div>
