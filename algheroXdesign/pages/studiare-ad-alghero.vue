@@ -26,14 +26,14 @@
                 </p>
             </div>
             
-            <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 mb-3">
+            <div class="px-4 py-12 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 mb-3">
                 <h4 class="pt-4">Chi sono e di cosa si occupano i nostri diplomati? </h4>
                 <p>
                   Di seguito una selezione di chi ha voluto raccontarci la sua esperienza tra Londra, Barcellona, e Italia.
 
                 </p><br/>
             </div>
-            <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
+            <div class="px-4 col-span-12 sm:col-span-3 md:col-span-4 lg:col-span-3 col-start-1 sm:px-0 mb-6">
                 <video  poster="/img/video/alumni_emanuel.jpg" controls >
                 <source src="/img/video/alumni_emanuel.mp4" type="video/mp4">
                 Your browser does not support the video tag.
@@ -47,7 +47,7 @@
 
                     </p>
             </div>
-            <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
+            <div class="px-4 col-span-12 sm:col-span-3 md:col-span-4 lg:col-span-3 col-start-1 sm:px-0 mb-6">
                 <video  poster="/img/video/alumni_sechi.jpg" controls >
                 <source src="/img/video/alumni_sechi.mp4" type="video/mp4">
                 Your browser does not support the video tag.
@@ -61,7 +61,7 @@
 
                     </p>
             </div>
-            <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
+            <div class="px-4 col-span-12 sm:col-span-3 md:col-span-4 lg:col-span-3 col-start-1 sm:px-0 mb-6">
                 <video  poster="/img/video/alumni_frulio.jpg" controls >
                 <source src="/img/video/alumni_frulio.mp4" type="video/mp4">
                 Your browser does not support the video tag.
@@ -74,7 +74,7 @@
                     Milano, IT
                     </p>
             </div>
-            <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
+            <div class="px-4 col-span-12 sm:col-span-3 md:col-span-4 lg:col-span-3 col-start-1 sm:px-0 mb-6">
                 <video  poster="/img/video/alumni_marras.jpg" controls >
                 <source src="/img/video/alumni_marras.mp4" type="video/mp4">
                 Your browser does not support the video tag.
@@ -87,7 +87,7 @@
                     Barcellona, ES
                     </p>
             </div>
-            <div class="px-4 col-span-12 sm:col-span-4 col-start-1 sm:px-0 mb-6">
+            <div class="px-4 col-span-12 sm:col-span-3 md:col-span-4 lg:col-span-3 col-start-1 sm:px-0 mb-6">
                 <video  poster="/img/video/alumni_nurra.jpg" controls >
                 <source src="/img/video/alumni_nurra.mp4" type="video/mp4">
                 Your browser does not support the video tag.
@@ -126,6 +126,8 @@
 
 <style lang="scss" scoped>
 
-   
+   video{
+    width:100%;
+   }
     
 </style>
