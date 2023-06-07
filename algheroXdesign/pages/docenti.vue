@@ -115,8 +115,6 @@
         meta: [
             { name: 'description', content: 'this description.' }
         ],
-  
-       // script: [ { innerHTML: 'console.log(\'Hello world\')' } ]
     })
 </script>
 

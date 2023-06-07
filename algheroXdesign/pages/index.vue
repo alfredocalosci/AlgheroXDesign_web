@@ -147,7 +147,8 @@
     useHead({
         title: 'AlgheroXDesign',
         meta: [
-            { name: 'description', content: 'My amazing site.' }
+            { name: 'description', content: 'My amazing site.' },
+            { name: 'title', content: 'AlgheroXDesign' }
         ],
   
        // script: [ { innerHTML: 'console.log(\'Hello world\')' } ]

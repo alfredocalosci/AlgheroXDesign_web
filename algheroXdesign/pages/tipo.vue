@@ -1,7 +1,34 @@
 <template>
     <div class="container mx-auto">
 
-     <titolo titoloPagina="una pagina tipo"></titolo>
+    <br/>
+
+     <Carousel>
+        
+            <Slide key="slide_0">
+                <div class="carousel__item">Qui vanno le slides</div>
+            </Slide>
+
+            <Slide key="slide_1">
+                <div class="carousel__item">Ogni slide deve avere una "key"</div>
+            </Slide>
+            
+
+            <!-- 10 slides di esempio -->
+            <Slide v-for="slide in 10" :key="slide">
+                <div class="carousel__item">{{ slide }}</div>
+            </Slide>
+             
+
+            <template #addons>
+            <Navigation />
+            <Pagination />
+            </template>
+    </Carousel>
+
+    <titolo titoloPagina="una pagina tipo"></titolo>
+
+    <br/>
 
         <div class="grid grid-cols-12 gap-x-6 ">
 
@@ -35,21 +62,34 @@
 </template>
 
 <script lang="ts">
-    export default {
-        
-    }
+
+    // carousel
+    import { defineComponent } from 'vue'
+    import { Carousel, Navigation, Pagination, Slide } from 'vue3-carousel'
+    import 'vue3-carousel/dist/carousel.css'
+
+    export default defineComponent({
+        name: 'Basic',
+        components: {
+            Carousel,
+            Slide,
+            Pagination,
+            Navigation,
+    },
+})
+
 </script>
 
 <script setup lang="ts">
     definePageMeta({ layout: 'default' })
 
+    // inietta meta ed attributi in head
     useHead({
-        title: 'AlgheroXDesign pagina tipo',
+        title: 'AlgheroXDesign - pagina tipo',
         meta: [
-            { name: 'description', content: 'this description.' }
+            { name: 'description', content: 'this description.' },
+            { name: 'title', content: 'Una pagina tipo' }
         ],
-  
-       // script: [ { innerHTML: 'console.log(\'Hello world\')' } ]
     })
 </script>
 
@@ -64,6 +104,29 @@
         strong{
             font-weight: 700;
         }
+    }
+
+    // extra styles for slides 
+    .carousel__item {
+        min-height: 200px;
+        width: 100%;
+        background-color: #ccc;
+        color: var(--vc-clr-white);
+        font-size: 20px;
+        border-radius: 8px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .carousel__slide {
+    padding: 10px;
+    }
+
+    .carousel__prev,
+    .carousel__next {
+    box-sizing: content-box;
+    border: 5px solid white;
     }
 
     

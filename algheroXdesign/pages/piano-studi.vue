@@ -24,7 +24,7 @@
 
                 </p>
             </div>
-            <div class="col-span-12 col-start-1 px-4 sm:px-0 xl:col-span-2 lg:col-span-3 md:col-span-3 col-span-12 col-start-1 py-7">
+            <div class="col-span-12 col-start-1 px-4 sm:px-0 xl:col-span-2 lg:col-span-3 md:col-span-3  py-7">
                     <ul>1 semestre - I anno
                         <li>Geometria</li>
                         <li>Storia del design</li>
@@ -60,7 +60,7 @@ il design della comunicazione nel contesto dei media digitali (multimedia, anima
                 <p>
                     Nel secondo semestre, il compito di confrontarsi con la progetta- zione di prodotto e dei beni materiali è assegnato al laboratorio integrato di Design della cultura materiale, nel quale si guarderà con particolare attenzione alle nuove spinte verso l'autocostruzione, il nuovo artigianato, la fabbricazione digitale. </p>
             </div>
-            <div class="col-span-12 col-start-1 px-4 sm:px-0 xl:col-span-2 lg:col-span-3 md:col-span-3 col-span-12 col-start-1 py-7">
+            <div class="col-span-12 col-start-1 px-4 sm:px-0 xl:col-span-2 lg:col-span-3 md:col-span-3 py-7">
                     <ul>3 semestre - II anno
                     <li>Lab. di Design della cultura digitale</li>
                     <li>Immagini II</li>
@@ -96,7 +96,7 @@ il design della comunicazione nel contesto dei media digitali (multimedia, anima
                     Il secondo semestre è dedicato alle attività di sintesi del processo di apprendimento: elaborazione del portfolio personale, esami a scelta, perfezionamento della lingua inglese, preparazione dell'elaborato di fine carriera, che in linea con la tradizione del DADU, si innesteranno su un articolato programma di tirocini professionalizzanti, dentro e fuori dalla Sardegna, con una predilezione per le esperienze all'estero.    
                      </p>
                 </div>
-                <div class="col-span-12 col-start-1 px-4 sm:px-0 xl:col-span-2 lg:col-span-3 md:col-span-3 col-span-12 col-start-1 py-7">
+                <div class="col-span-12 col-start-1 px-4 sm:px-0 xl:col-span-2 lg:col-span-3 md:col-span-3  py-7">
                         <ul>5 semestre - III anno
                         <li>Lab. di Exhibit design</li>
                         <li>Lab. di Design per la società</li>
@@ -140,8 +140,6 @@ il design della comunicazione nel contesto dei media digitali (multimedia, anima
         meta: [
             { name: 'description', content: 'this description.' }
         ],
-  
-       // script: [ { innerHTML: 'console.log(\'Hello world\')' } ]
     })
 </script>
 
