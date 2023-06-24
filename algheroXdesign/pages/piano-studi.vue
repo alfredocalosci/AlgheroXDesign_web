@@ -82,7 +82,7 @@
                         </ul>
                     </div>
                     <div class="w-1/3 bg-slate-100 p-4">
-                        <ul>2 semestre
+                        <ul>6 semestre
                         <li>Attività a scelta</li>
                         <li>Tirocinio</li>
                         <li>Prova finale</li>
