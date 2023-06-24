@@ -51,7 +51,7 @@
             <!-- colonna sinistra-->
             <div>
                <div class="blocco mb-0 sm:mb-4" id="perche">
-                    <img src="/img/girl.jpg" alt="" class="w-full">
+                    <img src="/img/studiare.png" alt="" class="w-full">
                     <h2 class="px-4 absolute top-[5vh] left-0 text-white text-[70px] leading-[90%]  tracking-[-.05em]">Perché design ad Alghero?</h2>
                      <NuxtLink to="/studiare-ad-alghero" class="button absolute bottom-4 left-4">Si può!</NuxtLink>
                      
