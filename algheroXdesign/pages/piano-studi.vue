@@ -5,10 +5,13 @@
         <div class="grid grid-cols-12 gap-x-6 mb-12">
             <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">
                 <p>
-                    Il progetto didattico, che  si caratterizza per il costante confronto con la progettazione, si ispira a un modello interdisciplinare, a cavallo tra teoria e pratica, in cui le attività laboratoriali e progettuali si alternano agli insegnamenti teorici. 
+                    Il progetto didattico, imperniato sul costante esercizio della progettazione, si ispira a un modello interdisciplinare in cui le attività laboratoriali e progettuali si alternano agli insegnamenti teorici.
+
                 </p>
                 <p class="pt-4">
-                    A completare la formazione sono i workshop interclasse: corsi intensivi della durata di una settimana, in cui docenti e professionisti di fama internazionale guidano gli studenti in vere e proprie esperienze progettuali in stretto contatto con aziende, enti e istituzioni che presentano problematiche dal mondo reale. In questi workshop gli studenti dei tre anni  possono distribuirsi liberamente mescolandosi: si creano così un interessante passaparola di conoscenze e un forte senso di comunità.
+                    A completare la formazione curricolare sia aggiungono i workshop interclasse: corsi intensivi della durata di una settimana, in cui docenti e professionisti di fama internazionale guidano gli studenti in vere e proprie esperienze di progetto, a stretto contatto con aziende, enti e istituzioni che sollecitano il confronto con le problematiche dal mondo reale. In questi workshop gli studenti dei tre anni si distribuiscono trasversalmente, mescolandosi: si realizza così un positivo scambio di conoscenze tra i nuovi arrivati e i più esperti, che rafforza il senso di comunità e di collaborazione.
+
+
                     
                 </p>
             </div>

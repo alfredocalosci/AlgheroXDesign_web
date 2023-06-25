@@ -91,7 +91,8 @@
             <!-- colonna destra-->
             <div>
                 <div class="blocco px-4 py-4 mb-4">
-                    <h2>AlgheroXDesign è la Laurea Triennale in Design con cui il Dipartimento di Architettura, Design e Urbanistica dell’Università di Sassari, ad Alghero, riprende a formare le figure di giovani designer di prodotto, della comunicazione e dei servizi, per immaginare, comunicare e innovare la Sardegna.</h2>
+                    <h2>AlgheroXDesign è la Laurea Triennale in Design con cui il Dipartimento di Architettura, Design e Urbanistica dell'Università di Sassari, ad Alghero, riprende a formare le figure di giovani designer di prodotto, della comunicazione e dei servizi, per immaginare, comunicare e innovare la Sardegna.
+                    </h2>
                 </div>        
                  <!-- play alghero -->
                  <div class="blocco mb-0 sm:mb-4" id="play">

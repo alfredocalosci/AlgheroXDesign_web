@@ -5,11 +5,11 @@
             <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 ">
                
                 <h4 class="pt-4">Studiare ad Alghero</h4>
-                <p>Il corso risponde alla domanda, che sull'Isola non si è mai attenuata, di formazione universitaria pubblica nel campo del design. E ciò facendo abbraccia un progetto didattico e culturale rigoroso e aggiornato, ma anche sensibile alle peculiarità – e potenzialità – di un territorio per molti aspetti unico. Con l'obiettivo di formare figure di giovani designer di prodotto, della comunicazione e dei servizi. 
-                Studiare ad AlgheroXDesign significa attingere a saperi e competenze con cui avvicinarsi in maniera critica e consapevole alle tecnologie e ai temi sociali ed etici attorno cui ruota il design contemporaneo. 
+                <p>Il corso risponde alla domanda di formazione universitaria pubblica nel campo del design, che sull'Isola è urgente e non si è mai attenuata. Per farlo, abbraccia un progetto didattico e culturale rigoroso e aggiornato, ma anche sensibile alle peculiarità – e potenzialità – di un territorio per molti aspetti unico.
+                Studiare ad AlgheroXDesign significa attingere a saperi e competenze con cui avvicinarsi in maniera critica e consapevole alle tecnologie e ai temi sociali ed etici attorno cui ruota il design contemporaneo.
                 </p>
                 <p class="pt-4">
-                    Ci sono almeno due ottime ragioni per scegliere di studiare ad Alghero: i progetti dei ricercatori e dei docenti del corso di studi hanno in questi anni collezionato premi e riconoscimenti importanti (tra cui molte selezioni nel prestigioso ADI index Design); la forte internazionalizzazione della nostra scuola, che ospita regolarmente visiting professors internazionali e dall'altro permette a moltissime/i delle sue studentesse e studenti di godere di borse Erasmus con cui svolgere periodi di studio all'estero e/o tirocinii internazionali.
+                    Ci sono almeno due ottime ragioni per scegliere di studiare ad Alghero: i progetti dei ricercatori e dei docenti del Corso di studi hanno in questi anni collezionato premi e riconoscimenti importanti (tra cui molte selezioni nel prestigioso ADI index Design); la forte internazionalizzazione della nostra scuola, che ospita regolarmente visiting professors internazionali e permette a moltissimi dei suoi studenti e studentesse di godere di borse Erasmus per periodi di studio all'estero e/o tirocini internazionali.
 
                 </p>
             </div>
@@ -18,11 +18,12 @@
             <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 ">
                
                 <h4 class="pt-8">Ambiente locale e qualità delle relazioni</h4>
-                <p>L'offerta formativa di AlgheroXDesign è unica nel suo genere per la combinazione di un'attenzione speciale verso la dimensione locale, punto di forza del Corso di studi, e una visione didattica aggiornata alla dimensione del design contemporaneo.
-                Mentre, grazie alla ben nota bellezza del suo centro storico e del suo mare, Alghero offre un'ottima qualità della vita, la ridotta dimensione della città e la distribuzione delle sedi del nostro Dipartimento, promuovono un senso di appartenenza e di comunità.
+                <p>L'offerta formativa di AlgheroXDesign è unica nel suo genere, perché combina un'attenzione speciale verso la dimensione locale – punto di forza del Corso di studi – con una visione didattica aggiornata alla dimensione del design contemporaneo.
+                Alghero è ben nota per la bellezza del suo centro storico e del suo mare e per l'elevata qualità della vita che è in grado di offrire. Inoltre, la dimensione della città e la localizzazione centrale delle sedi del nostro Dipartimento favoriscono la maturazione di un senso di comunità e di appartenenza.
                 </p>
                 <p class="pt-4">
-                La nostra scuola ha da anni caratterizzato la sua offerta didattica per un rapporto docente-studente di qualità, attento alle relazioni e ai bisogni. La corretta numerosità degli studenti e la cura con cui sono seguiti dai nostri tutor, garantisce poi un'elevata qualità degli studi.
+                    L'offerta didattica della nostra scuola si caratterizza, da anni, per il rapporto docente-studente di qualità, attento alle relazioni e ai bisogni. La corretta numerosità degli studenti, seguiti dai nostri tutor, garantisce un'elevata qualità degli studi.
+
                 </p>
             </div>
             <div class="col-span-12 col-start-1 sm:col-span-10 sm:col-start-2 my-12">
@@ -33,23 +34,22 @@
             <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 ">
                 <h4 class="pt-4">Sbocchi professionali </h4>
                 <p>
-                    Il progetto formativo punta su alcuni caratteri specifici della figura del designer, preparando figure professionali che ne riflettano i tratti in maniera critica e aggiornata. 
+                    Il progetto formativo insiste su alcuni caratteri specifici della figura del designer, per preparare figure professionali che ne riflettano i tratti in maniera critica e aggiornata.
+
                     </p><p class="pt-4">
-La laurea triennale consente l'acquisizione delle abilità elementari tradizionalmente associate al profilo del designer: carica innovativa; capacità analitica e sintetica; esercizio autonomo e maturo del pensiero progettuale. L'insieme di queste competenze delinea figure di professioniste/i innovatori con familiarità con i processi ideativi, realizzativi e distributivi nella progettazione di beni e servizi, con le tecniche, i linguaggi e le attuali modalità di comunicazione.
-</p><p class="pt-4">
-Il/la progettista junior è in grado di interpretare con versatilità contesti differenti, guardando oltre le prospettive immediate per anticipare comportamenti e risposte future. La figura che ne deriva si caratterizza per la predisposizione a entrare in relazione con imprese, enti, realtà produttive a livello regionale, nazionale e internazionale, apportando visioni strategiche, creatività, fermenti di innovazione. 
-</p><p class="pt-4">
-Le prospettive occupazionali sono diversificate: da quella del/la free-lance chiamato/a ad offrire progettualità, soluzioni dirette e consulenze, a quella dell'operatore/trice creativo/a, capace di condurre il lavoro di team, e di inserirsi negli uffici interni delle aziende come tecnico/a progettista, ma anche facilitatore/trice di processi. 
-</p><p class="pt-4">
+                    La Laurea triennale consente l'acquisizione delle abilità elementari tradizionalmente associate al profilo del designer: carica innovativa, capacità analitica e sintetica, esercizio autonomo del pensiero progettuale. L'insieme di queste competenze delinea figure di professioniste/i innovatori, che hanno familiarità con i processi ideativi, realizzativi e distributivi della progettazione di beni e servizi, ma anche con le tecniche, i linguaggi e le attuali modalità di comunicazione.
 
-
+                </p><p class="pt-4">
+                    Il/la progettista junior è in grado di interpretare con versatilità contesti differenti, guardando oltre le prospettive immediate, per anticipare comportamenti e risposte future. Il suo profilo è caratterizzato dalla predisposizione a entrare in relazione con imprese, enti, realtà produttive a livello regionale, nazionale e internazionale, apportando creatività, visioni strategiche, fermenti di innovazione.
+                </p><p class="pt-4">
+                    Le prospettive occupazionali sono diversificate: da quella del free-lance che offre progettualità, soluzioni dirette e consulenze, a quella dell'operatore creativo, capace di condurre il lavoro di team e di inserirsi negli uffici interni delle aziende come tecnico progettista, ma anche facilitatore di processi.
                 </p>
             </div>
             
             <div class="px-4 py-12 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 mb-3">
                 <h4 class="pt-4">Chi sono e di cosa si occupano i nostri diplomati? </h4>
                 <p>
-                    Di seguito una selezione, tra i laureati in Design ad Alghero, di chi ha voluto raccontarci le sue esperienze tra Londra, Barcellona, e Italia.
+                    Di seguito proponiamo una selezione di chi, tra i laureati in Design ad Alghero, ha voluto raccontarci le sue esperienze post-laurea di lavoro e di vita, in Italia e all'estero.
 
                 </p><br/>
             </div>
