@@ -48,7 +48,7 @@
         @apply bg-white text-black opacity-100 border-white;
     }
     .nome{
-        @apply normal-case text-[16px] font-[500] leading-[115%] mb-0 pt-1;
+        @apply normal-case text-[24px] font-[500] leading-[115%] mb-0 pt-1;
      }    
     .qualifica{
         @apply normal-case text-[16px] font-[400] leading-[115%] mb-0 mt-1;

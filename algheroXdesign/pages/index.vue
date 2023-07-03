@@ -74,7 +74,7 @@
                         <p>Curro Claret, Johao Schlitter, Matteo Moretti</p>
                     </div>
                    
-                    <a href="#" class="button absolute bottom-4 left-4 text-black border-black">Edizione 2023</a>
+                    <a href="https://www.instagram.com/p/Cti1mCSKsY7/?igshid=MjAxZDBhZDhlNA%3D%3D" class="button absolute bottom-4 left-4 text-black border-black">Edizione 2023</a>
                 </div>
 
                 <div class="blocco mb-0 sm:mb-4" id="2co">
@@ -100,7 +100,7 @@
                         <img src="/img/nicole.png" alt="" class="h-full object-cover">
                         <div class="bg-rosso relative p-4">
                             <h2 class="w-[90%] block text-white">Play Alghero</h2>
-                            <a href="https://www.youtube.com/watch?v=RILcP5B7wbA" target="_blank" class="button absolute bottom-4 left-4">Scopri di più</a>
+                            <a href="https://playalghero.it" target="_blank" class="button absolute bottom-4 left-4">Scopri di più</a>
                         </div>
                     </div>
                 </div>
@@ -114,7 +114,7 @@
                         <p>L'esperienza di AlgheroXDesign al servizion dell'expo di Milano</p>
                     </div>
                    
-                    <a href="http://www.neolocaldesign.org/it/post.php?id_txt=66" class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
+                    <a href="https://www.youtube.com/watch?v=4WbXogfzRUw" class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
                 </div>
                
                 <div class="blocco mb-0 sm:mb-4" id="design-duo">
@@ -124,7 +124,7 @@
                         <p>un ciclo di incontri su alcuni dei grandi temi del design</p>
                     </div>
                    
-                    <a href="#" class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
+                    <a href="http://www.designduo.it" class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
                 </div>
 
                
