@@ -13,12 +13,19 @@ export default defineNuxtConfig({
     /*
    css: ['@/assets/css/main.css'],
    */
-
-   /*
+   
    app:{
-    baseURL:"/axd/"
+    head: {
+      meta: [
+        { name: 'content-language', content: 'it' },
+        { name: 'author', content: 'AlgheroXDesign' },
+      ]
+    }
+    
+    // baseURL:"/axd/"
+    
    },
-   */
+   
    
    
 
