@@ -20,14 +20,11 @@ export default defineNuxtConfig({
         { name: 'content-language', content: 'it' },
         { name: 'author', content: 'AlgheroXDesign' },
       ]
-    }
+    },
     
-    // baseURL:"/axd/"
+    //  baseURL:"/axd/"
     
    },
-   
-   
-   
 
     vite: {
         css: {

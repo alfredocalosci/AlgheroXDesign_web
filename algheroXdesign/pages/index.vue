@@ -124,7 +124,7 @@
                         <p>un ciclo di incontri su alcuni dei grandi temi del design</p>
                     </div>
                    
-                    <a href="#" class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
+                    <a href="http://designduo.it/" class="button absolute bottom-4 left-4 text-black border-black"  target="_blank">Scopri di più</a>
                 </div>
 
                
