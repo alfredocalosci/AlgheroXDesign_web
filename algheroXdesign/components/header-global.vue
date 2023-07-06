@@ -87,7 +87,7 @@ nav{
             padding: 4px 0;
 
             &:hover{
-                background-color: #f9f9f9;
+                background-color: #F2F5F9;
             }
 
             a{
