@@ -120,6 +120,19 @@
                     Londra, UK
                     </p>
             </div>
+            <div class="px-4 col-span-12 sm:col-span-3 md:col-span-4 lg:col-span-3 col-start-1 sm:px-0 mb-6">
+                <video  poster="/img/video/alumni_cardia.jpg" controls >
+                <source src="/img/video/alumni_cardia.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+                </video>
+                    <p class="nome">
+                    Claudia Cardia
+                    </p>
+                    <p class="qualifica">
+                    Motion Designer<br/>
+                    Barcellona, ES
+                    </p>
+            </div>
         </div>
         <saperne></saperne>    
     </div>
