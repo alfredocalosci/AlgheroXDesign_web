@@ -41,7 +41,7 @@
                         Mobile +39 333 3300428
                     </p>
                     <p class="text-sm">
-                        Email <a href="mailto:a.catogno@uniss.it">a.catogno@uniss.it</a>
+                        Email <a href="mailto:segreteriastudenti.dadu@uniss.it">segreteriastudenti.dadu@uniss.it</a>
                     </p>
                     
                     
