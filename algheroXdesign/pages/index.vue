@@ -148,8 +148,13 @@
     useHead({
         title: 'AlgheroXDesign',
         meta: [
-            { name: 'description', content: 'My amazing site.' },
-            { name: 'title', content: 'AlgheroXDesign' }
+            { name: 'description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
+            { name: 'og:description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
+            { name: 'twitter:description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
+            { name: 'title', content: 'AlgheroXDesign, ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
+            { name: 'keywords', content: 'Design, sardegna, università, grafica, digital, prodotto, servizio' },
+            { name: 'og:title', content: 'AlgheroXDesign, ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
+            { name: 'twitter:title', content: 'AlgheroXDesign, ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' }
         ],
   
        // script: [ { innerHTML: 'console.log(\'Hello world\')' } ]

@@ -108,9 +108,15 @@
     definePageMeta({ layout: 'default' })
 
     useHead({
-        title: 'AlgheroXDesign - Perché studiare ad Alghero',
+        title: 'AlgheroXDesign - La sede',
         meta: [
-            { name: 'description', content: 'this description.' }
+            { name: 'description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
+            { name: 'og:description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
+            { name: 'twitter:description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
+            { name: 'title', content: 'AlgheroXDesign, Laurea triennale in Design: la sede' },
+            { name: 'keywords', content: 'Design, sardegna, università, grafica, digital, prodotto, servizio' },
+            { name: 'og:title', content: 'AlgheroXDesign, Laurea triennale in Design: la sede' },
+            { name: 'twitter:title', content: 'AlgheroXDesign, Laurea triennale in Design: la sede' }
         ],
   
     })

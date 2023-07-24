@@ -160,7 +160,13 @@
     useHead({
         title: 'AlgheroXDesign - i docenti',
         meta: [
-            { name: 'description', content: 'this description.' }
+            { name: 'description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
+            { name: 'og:description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
+            { name: 'twitter:description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
+            { name: 'title', content: 'AlgheroXDesign, Laurea triennale in Design: i docenti' },
+            { name: 'keywords', content: 'Design, sardegna, università, grafica, digital, prodotto, servizio, docenti' },
+            { name: 'og:title', content: 'AlgheroXDesign, Laurea triennale in Design: i docenti' },
+            { name: 'twitter:title', content: 'AlgheroXDesign, Laurea triennale in Design: i docenti' }
         ],
     })
 </script>
