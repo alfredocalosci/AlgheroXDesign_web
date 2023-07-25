@@ -6,7 +6,7 @@
                
                 <h4 class="pt-4">La sede di Alghero</h4>
                 <p>La Facoltà di Architettura di Alghero, ora Dipartimento, è nata nel 2002, prima facoltà di architettura in Sardegna. Sono tre le sedi in Alghero: <i><a href="https://goo.gl/maps/9YTQJgFXMnCnv3Ei7" target="_blank">Palazzo del Pou Salit</a></i>, sede amministrativa, segreteria studenti e studi docenti; <i><a href="https://goo.gl/maps/zAmRRwox8wGz2ZnQ6" target="_blank">Ex Ospedale di Santa Chiara</a></i>, sede didattica; <i><a href="https://goo.gl/maps/RfJ4qZYvX7h18yZe6" target="_blank">Ex Asilo Sella</a></i>, sede didattica e studi docenti.</p>
-                <p>Le sedi sono facilmente raggiungibili a piedi, situate nel centro storico di Alghero, e collegate tra di loro, dal centro storico.</p>
+                <p>Le sedi sono facilmente raggiungibili a piedi, collegate tra di loro dal centro storico.</p>
 
                 <Carousel class="py-3 ">
                         <Slide key="slide_0">
