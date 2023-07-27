@@ -13,7 +13,7 @@
         <div class="grid md:grid-cols-4 gap-6">
             <div>
             <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank" alt="Aperte le iscrizioni al test di ammissione">
-                <p class="data">04.09.2023</p>
+                <p class="data">07.06.2023</p>
                 <p class="news">Apertura iscrizioni al test di ammissione</p>
             </a>
             </div>
@@ -111,7 +111,7 @@
                     <img src="/img/expo-2.jpg" alt="" class="w-full object-fit">
                     <div class="absolute top-8 left-4 w-[90%]">
                         <h2>Animazione e Design</h2>
-                        <p>L'esperienza di AlgheroXDesign al servizion dell'expo di Milano</p>
+                        <p>L'esperienza di AlgheroXDesign al servizio dell'expo di Milano</p>
                     </div>
                    
                     <a href="https://www.youtube.com/watch?v=4WbXogfzRUw" class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
