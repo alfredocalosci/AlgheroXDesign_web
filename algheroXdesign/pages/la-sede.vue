@@ -50,7 +50,7 @@
                 <h4 class="pt-4">Raggiungere Alghero </h4>
 
                 <p>
-                  <a href="https://goo.gl/maps/UbpUguEUHcSmticq8" target="_blank">Alghero</a> è la terza città universitaria della Sardegna, con la sede del <a href="https://www.google.com/search?client=safari&rls=en&q=dadu+uniss&ie=UTF-8&oe=UTF-8" target="_blank">Dipartimento di Architettura, Design e Urbanistica dell'Università degli Studi di Sassari</a>. Situato a nord-ovest, in provincia di Sassari, è conosciuta anche come la Barceloneta sarda. La città ha infatti conservato l'uso del catalano, di cui è un'isola linguistica.
+                  Situata a nord-ovest, in provincia di Sassari,<a href="https://goo.gl/maps/UbpUguEUHcSmticq8" target="_blank">  Alghero</a> è la terza città universitaria della Sardegna, con la sede del <a href="https://www.google.com/search?client=safari&rls=en&q=dadu+uniss&ie=UTF-8&oe=UTF-8" target="_blank">Dipartimento di Architettura, Design e Urbanistica dell'Università degli Studi di Sassari</a>.
                 </p>
                 
                 <div class="py-3 carousel__item">
