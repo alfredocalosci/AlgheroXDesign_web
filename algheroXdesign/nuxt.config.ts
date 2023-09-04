@@ -16,7 +16,7 @@ export default defineNuxtConfig({
    
    app:{
     head: {
-      meta: [
+      ls: [
         { name: 'content-language', content: 'it' },
         { name: 'author', content: 'AlgheroXDesign' },
         { name: 'icon', content: 'favicon.ico' },
