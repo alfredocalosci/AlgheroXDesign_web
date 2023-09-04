@@ -1,4 +1,6 @@
 <template>
+      <link rel="canonical" href="http://algheroxdesign.it" />
+
     <div class="container mx-auto border-black">
         <!-- testata -->
         <div class="relative h-[60vh] overflow-hidden min-h-[475px] sm:h-[25vh]">

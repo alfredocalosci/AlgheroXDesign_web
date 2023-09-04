@@ -1,4 +1,5 @@
 <template>
+    <link rel="canonical" href="http://algheroxdesign.it/piano-studi" />
 
     <div class="container mx-auto pds">
         <titolo titoloPagina="il piano di studi"></titolo>

@@ -1,4 +1,9 @@
+
+
 <template>
+  
+  <link rel="canonical" href="http://algheroxdesign.it/docenti" />
+
     <div class="container mx-auto" id="docenti">
      <titolo titoloPagina="i docenti"></titolo>
         <div class="grid grid-cols-12 gap-x-6 px-4 sm:px-0">

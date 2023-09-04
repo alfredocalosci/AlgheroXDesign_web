@@ -1,4 +1,7 @@
 <template>
+    
+    <link rel="canonical" href="http://algheroxdesign.it/studiare-ad-alghero" />
+
     <div class="container mx-auto" id="pds">
      <titolo titoloPagina="Perché studiare ad Alghero"></titolo>
         <div class="grid grid-cols-12 gap-x-6 mb-12">
