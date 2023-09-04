@@ -46,7 +46,7 @@
     </div>
 
     <!-- main content -->
-    <div class="container mx-auto my-0 sm:my-12">
+    <div class="container mx-auto my-0 sm:my-12" id="main">
         <div class="grid sm:grid-cols-2 gap-6">
             <!-- colonna sinistra-->
             <div>
