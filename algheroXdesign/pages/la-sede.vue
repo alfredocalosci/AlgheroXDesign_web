@@ -1,6 +1,4 @@
 <template>
-      <link rel="canonical" href="http://algheroxdesign.it/la-sede" />
-
     <div class="container mx-auto" id="pds">
      <titolo titoloPagina="La sede"></titolo>
         <div class="grid grid-cols-12 gap-x-6 mb-12">
@@ -120,6 +118,9 @@
             { name: 'og:title', content: 'AlgheroXDesign, Laurea triennale in Design: la sede' },
             { name: 'twitter:title', content: 'AlgheroXDesign, Laurea triennale in Design: la sede' }
         ],
+        link: [
+          { rel:'canonical', href:'http://algheroxdesign.it/la-sede'}
+        ]
   
     })
 </script>

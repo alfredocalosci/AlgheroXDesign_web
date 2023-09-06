@@ -1,6 +1,4 @@
 <template>
-    <link rel="canonical" href="http://algheroxdesign.it/piano-studi" />
-
     <div class="container mx-auto pds">
         <titolo titoloPagina="il piano di studi"></titolo>
         <div class="grid grid-cols-12 gap-x-6 mb-12">
@@ -124,6 +122,9 @@
             { name: 'og:title', content: 'AlgheroXDesign, Laurea triennale in Design: il piano di studi' },
             { name: 'twitter:title', content: 'AlgheroXDesign, Laurea triennale in Design: il piano di studi' }
         ],
+        link: [
+          { rel:'canonical', href:'http://algheroxdesign.it/piano-studi'}
+        ]
     })
 </script>
 

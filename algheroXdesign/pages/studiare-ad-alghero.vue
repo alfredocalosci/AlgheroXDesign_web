@@ -1,8 +1,5 @@
 <template>
-    
-    <link rel="canonical" href="http://algheroxdesign.it/studiare-ad-alghero" />
-
-    <div class="container mx-auto" id="pds">
+        <div class="container mx-auto" id="pds">
      <titolo titoloPagina="Perché studiare ad Alghero"></titolo>
         <div class="grid grid-cols-12 gap-x-6 mb-12">
             <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 ">
@@ -161,6 +158,9 @@
             { name: 'og:title', content: 'AlgheroXDesign, Laurea triennale in Design: studiare design ad Alghero' },
             { name: 'twitter:title', content: 'AlgheroXDesign, Laurea triennale in Design: studiare design ad Alghero' }
         ],
+        link: [
+          { rel:'canonical', href:'http://algheroxdesign.it/studiare-ad-alghero'}
+        ]
     })
 </script>
 

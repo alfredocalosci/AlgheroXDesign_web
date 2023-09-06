@@ -1,10 +1,7 @@
 
 
 <template>
-  
-  <link rel="canonical" href="http://algheroxdesign.it/docenti" />
-
-    <div class="container mx-auto" id="docenti">
+      <div class="container mx-auto" id="docenti">
      <titolo titoloPagina="i docenti"></titolo>
         <div class="grid grid-cols-12 gap-x-6 px-4 sm:px-0">
             <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 mb-12">
@@ -173,6 +170,9 @@
             { name: 'og:title', content: 'AlgheroXDesign, Laurea triennale in Design: i docenti' },
             { name: 'twitter:title', content: 'AlgheroXDesign, Laurea triennale in Design: i docenti' }
         ],
+        link: [
+          { rel:'canonical', href:'http://algheroxdesign.it/docenti'}
+        ]
     })
 </script>
 
