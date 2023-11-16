@@ -94,8 +94,31 @@
                     <h2>AlgheroXDesign è la Laurea Triennale in Design con cui il Dipartimento di Architettura, Design e Urbanistica dell'Università di Sassari, ad Alghero, riprende a formare le figure di giovani designer di prodotto, della comunicazione e dei servizi, per immaginare, comunicare e innovare la Sardegna.
                     </h2>
                 </div>        
-                 <!-- play alghero -->
-                 <div class="blocco mb-0 sm:mb-4" id="play">
+                <!-- 2co4 -->
+                <div class="blocco mb-0 sm:mb-4" id="2co">
+                    <img src="/img/2co4.svg" alt="" class="w-full object-fit">
+                    <div class="absolute top-8 left-4 w-[90%] text-white">
+                        <h2><strong>2CO4 </strong> Barcellona</h2>
+                        <p>In collaborazione con <strong>ELISAVA</strong></p>
+                    </div>
+                    <a href="http://www.2coconference.org" target="_blank" class="button absolute bottom-4 left-4">Wow</a>
+                </div>
+                
+                <!-- play alghero -->
+                <div class="blocco mb-0 sm:mb-4" id="play">
+                    <div class="grid grid-cols-2 gap-0">
+                        <img src="/img/play-adi.png" alt="" class="h-full object-cover">
+                        <div class="bg-rosso relative p-4">
+                            <h2 class="w-[90%] block text-white">Play Alghero</h2>
+                            <h2 class="w-[90%] block text-white py-9"><img src="/img/logo-adi.svg"></h2>
+                            <a href="/adi-design-index" target="_blank" class="button absolute bottom-4 left-4">Scopri di più</a>
+                        </div>
+                    </div>
+                </div>
+                
+                 <!--
+
+                <div class="blocco mb-0 sm:mb-4" id="play">
                     <div class="grid grid-cols-2 gap-0">
                         <img src="/img/nicole.png" alt="" class="h-full object-cover">
                         <div class="bg-rosso relative p-4">
@@ -104,6 +127,7 @@
                         </div>
                     </div>
                 </div>
+                 -->
 
                 
 
