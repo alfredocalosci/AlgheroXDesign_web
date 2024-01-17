@@ -6,8 +6,11 @@
                 <img src="~/assets/img/logo_architecture_at_alghero.jpg" alt="architettura ad alghero" class="h-16 mt-2">
                  </div>
        
-                 <div class="col-start-4">
+                 <div class="col-start-3">
                     <img src="~/assets/img/sigillo.png" alt="UNISS"  class="h-16 mt-2 hidden sm:block">
+                 </div>
+                 <div class="col-start-4">
+                   <a href="https://www.instagram.com/algheroxdesign/" target="_blank"> <img src="~/assets/img/instagram-logo.svg" alt="instagram"  class="h-16 mt-2 hidden sm:block" id="instagram"/></a>
                  </div>
             </div>
 
@@ -46,24 +49,7 @@
                     
                     
                 </div>
-                <div>
-                    <p class="text-sm font-[500]">
-                        Orari al pubblico:
-                    </p>
-                    <p class="text-sm">
-                        Lunedì, Mercoledì, Venerdì: 09:00-13:00
-                    </p>
-                    <p class="text-sm">
-                        Martedì, Giovedì: 15:00 -17:00
-                    </p>
-                    <p class="text-sm">
-                            Palazzo del Pou Salit - Piazza Duomo, 6 
-                    </p>
-                    <p class="text-sm">
-                        07041 Alghero (SS), Italia
-                    </p>
-                </div>
-
+                
                 <div>
                     <p class="text-sm font-[500] block sm:hidden">
                         <img src="~/assets/img/sigillo.png" alt="UNISS"  class="h-16 mt-2">
@@ -81,6 +67,12 @@
                         Telefono +39 079 228211/8816
                     </p>
                 </div>
+                <div>
+                    <p class="text-sm font-[500]">
+                       AlgheroXDesign Instagram
+                    </p>
+                    
+                </div>
             </div>
         </div>
     </div>
@@ -90,5 +82,9 @@
 
 p{
     letter-spacing: -0.01em;
+}
+#instagram {
+    height:65px;
+    padding: 5px 0 8px 0;
 }
 </style>
