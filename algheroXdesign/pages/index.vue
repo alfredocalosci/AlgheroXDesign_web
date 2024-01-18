@@ -76,7 +76,17 @@
                    
                     <a href="https://www.instagram.com/p/Cti1mCSKsY7/?igshid=MjAxZDBhZDhlNA%3D%3D" class="button absolute bottom-4 left-4 text-black border-black">Edizione 2023</a>
                 </div>
-
+                
+                <div class="blocco mb-0 sm:mb-4" id="design-duo">
+                    <img src="/img/design-duo.png" alt="" class="w-full object-fit">
+                    <div class="absolute top-8 left-4 w-[90%]">
+                        <h2>Design Duo</h2>
+                        <p>un ciclo di incontri su alcuni dei grandi temi del design</p>
+                    </div>
+                   
+                    <a href="http://designduo.it/" class="button absolute bottom-4 left-4 text-black border-black"  target="_blank">Scopri di più</a>
+                </div>
+                <!--
                 <div class="blocco mb-0 sm:mb-4" id="2co">
                     <img src="@/assets/img/2co.svg" alt="" class="w-full object-fit">
                     <div class="absolute top-8 left-4 w-[90%] text-white">
@@ -84,7 +94,7 @@
                     </div>
                     <a href="http://www.2coconference.org" target="_blank" class="button absolute bottom-4 left-4">Wow</a>
                 </div>
-                
+                -->
 
             </div>
 
@@ -141,15 +151,7 @@
                     <a href="https://www.youtube.com/watch?v=4WbXogfzRUw" class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
                 </div>
                
-                <div class="blocco mb-0 sm:mb-4" id="design-duo">
-                    <img src="/img/design-duo.png" alt="" class="w-full object-fit">
-                    <div class="absolute top-8 left-4 w-[90%]">
-                        <h2>Design Duo</h2>
-                        <p>un ciclo di incontri su alcuni dei grandi temi del design</p>
-                    </div>
-                   
-                    <a href="http://designduo.it/" class="button absolute bottom-4 left-4 text-black border-black"  target="_blank">Scopri di più</a>
-                </div>
+                
 
                
                
