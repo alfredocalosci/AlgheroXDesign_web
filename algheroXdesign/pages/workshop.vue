@@ -11,16 +11,14 @@
                 </p>
 
                 <div class="py-3 carousel__item">
-                           <img src="@/assets/img/workshop.png" alt="Brainstorming a inizio workshop"/>
-                           <p class="caption"> Brainstorming a inizio workshop</p>
+                    <img src="@/assets/img/workshop.png" alt="Brainstorming a inizio workshop"/>
+                    <p class="caption"> Brainstorming a inizio workshop</p>
                 </div>
              
 
             </div>
           
 
-            
-         
             <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 mb-3">
                
                 <h4 class="pt-4">Contesto </h4>
@@ -32,41 +30,68 @@
               
                      
                 <h4 class="pt-4">Funzionamento </h4>
-                <p> Della durata, indicativamente, di 5+2 giorni (2 CFU), a cavallo di una settimana, ogni workshop prevede che un docente, (che può o meno essere coadiuvato da un tutor), guidi un gruppo di circa 15 studenti in un percorso laboratoriale formativo, nel quale sperimentazione, pratica e riflessione concettuale si combinano, su tematiche espresse dal mondo del lavoro e dai territori grazie a  interazioni con soggetti esterni (enti, aziende, artigiani, iniziative imprenditoriali).
+                <p> Della durata, indicativamente, di 5+2 giorni (2 CFU), a cavallo di una settimana, ogni workshop prevede che un docente, (che può o meno essere coadiuvato da un tutor), guidi un gruppo di circa 15 studenti in un percorso laboratoriale formativo, nel quale sperimentazione, pratica e riflessione concettuale si combinano, su tematiche espresse dal mondo del lavoro e dai territori grazie a  interazioni con soggetti esterni (enti, aziende, artigiani, iniziative imprenditoriali). </p>
 
-
-                  
-                </p>
-
-                <h4 class="pt-4">Edizione 2024 </h4>
-                <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">      
+                <h4 class="pt-4 pb-4">Edizione 2024 </h4>
+                <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">   
+                    
+                    
                 <!-- WS-->
+
+                <div class="grid grid-cols-8 workshop mb-2  border-b border-black pb-2">
+                    <img alt="foto di Viola Orgiano" src="/img/ws-24-orgiano.png"/>
+                    <div class="col-span-6 p-4">
+                        <p><strong>Viola Orgiano</strong></p>
+                        <p>Il progetto del Pop-Up  per i Territori</p>
+                        <p class="italic">In collaborazione con l’amministrazione Comunale di Aggius</p> 
+                    </div>
+
+                    <div class="py-4 justify-self-end self-center ">
+                        <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                    </div>
+
+                    <!-- extra content -->
+                    <div class="col-span-8 col-start-1 extra_content">
+                        <p>extra content here</p>
+                    </div>
+                </div>
+
+                <div class="grid grid-cols-8 workshop mb-2 border-b  border-black pb-2">
+                    <img alt="foto di Viola Orgiano" src="/img/ws-24-orgiano.png"/>
+                    <div class="col-span-6 p-4">
+                        <p><strong>Viola Orgiano</strong></p>
+                        <p >Il progetto del Pop-Up  per i Territori</p>
+                        <p class="italic">In collaborazione con l’amministrazione Comunale di Aggius</p>
+                    </div>
+
+                    <div class="py-4 justify-self-end self-center">
+                        <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                    </div>
+
+                          <!-- extra content -->
+                          <div class="col-span-8 col-start-1 extra_content ">
+                        <p>extra content here</p>
+                    </div>
+                </div>
+
+                <!--
                 <div class="flex flex-wrap flex-col space-y-4 md:flex-row workshop">
                     <div class="sm:w-1/3">
                         <img alt="foto di Viola Orgiano" src="/img/ws-24-orgiano.png"/>
                         <p><strong>Viola Orgiano</strong></p>
                         <p>Il progetto del Pop-Up  per i Territori</p>
-                        <p>In collaborazione con l’amministrazione Comunale di Aggius</p>
+                        <p>In collaborazione con l’amministrazione Comunale di Aggius</p>                
+                    </div>
+                    
+                    <div class="sm:w-1/3"><p>Daniele Murga</p></div>
 
-                                            
-                    </div>
-                    <div class="sm:w-1/3">
-                        <p>Daniele Murga</p>
-                        
-                    </div>
-                    <div class="sm:w-1/3">
-                        <p>Viola Orgiani</p>
-                                             
-                    </div>
-                    <div class="sm:w-1/3">
-                        <p>Nicolò Ceccareli e Nađa Beretić</p>
-                                             
-                    </div>
-                    <div class="sm:w-1/3">
-                        <p>Rodrigo Ramírez</p>
-                                             
-                    </div>
+                    <div class="sm:w-1/3"><p>Viola Orgiano</p></div>
+
+                    <div class="sm:w-1/3"><p>Nicolò Ceccareli e Nađa Beretić</p></div>
+                    
+                    <div class="sm:w-1/3"><p>Rodrigo Ramírez</p></div>
                 </div>
+                -->
                
                 <!-- II sem -->
                 
@@ -92,7 +117,28 @@
     </div>
 </template>
 
+
+
 <script lang="ts">
+
+    // vanilla script accordion
+
+
+
+    /*
+    for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function(ev) {
+
+            console.log(ev.target);
+
+            // this.classList.toggle("active");
+
+            // var panel = this.nextElementSibling;
+
+           
+    });
+    }
+    */
 
     // carousel
     import { defineComponent } from 'vue'
@@ -106,7 +152,19 @@
             Slide,
             Pagination,
             Navigation,
-    },
+        },
+        methods: {
+            myAccordion(e) {
+                let p = e.target.parentNode.parentNode;
+                let t = p.getElementsByClassName('extra_content')
+
+                e.target.classList.toggle("open");
+                t[0].classList.toggle("open");
+
+               //  console.log(e.target.parentNode.parentNode)
+               // console.log("clicked")
+            }
+        }
 })
 
 </script>
@@ -131,6 +189,7 @@
   
     })
 </script>
+
 <style lang="scss" scoped>
     .workshop{
         p{
@@ -138,6 +197,52 @@
             letter-spacing: 0;
         }
     }    
+
+    .more_btn{
+        transition: background-color 0.5s, color 0.5s;
+
+        background-color: #EEEAEC;
+        font-size: 2rem;
+        text-align: center;
+        text-decoration: none;
+        width: 3rem;
+        height: 3rem;
+        display: block;
+        border-radius: 1.5rem;
+        font-weight: 300;
+        text-shadow: none;
+        border-color: transparent;
+
+        &::before{
+            content: "+";
+        }
+
+        &:hover{
+            background-color: #333;
+            color: #fff;
+        }
+
+        &.open{
+            background-color: #000;
+            color: #fff;
+
+            &::before{
+            content: "-";
+        }
+        }
+    }
+
+    .extra_content{
+        transition: height 0.5s;
+
+        height: 0px;
+        overflow: hidden;
+
+        &.open{
+            height: auto;
+            padding: 0.75rem 0;
+        }
+    }
 
     
 </style>
