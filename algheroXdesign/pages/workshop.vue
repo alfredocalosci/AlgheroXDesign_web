@@ -145,23 +145,68 @@ Il workshop è reso possibile anche grazie a Gommamica e Giochi Infiniti.
 
                 </div>
 
+                <h4 class="pt-4 pb-4">Edizione 2023 </h4>
+                <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">
 
 
-                <h4 class="pt-4">Edizione 2023 </h4>
-                <p> Il porto passeggeri più vicino ad Alghero è a Porto Torres (circa. 40 km). Il porto di Porto Torres è
-                    collegato a Barcellona, Genova, Civitavecchia, Marsiglia, Propriano e Ajaccio (Corsica). Alcuni
-                    itinerari sono solo stagionali.Per ulteriori informazioni sulla frequenza, orari e tariffe si prega di
-                    visitare i siti delle compagnie di navigazione.
+                    <!-- WS-->
 
-                </p>
+                    <div class="grid grid-cols-8 workshop mb-2  border-b border-black pb-2">
+                        <img alt="foto di Viola Orgiano" src="/img/ws-23-claret.png" />
+                        <div class="col-span-6 p-4">
+                            <p><strong>Curro Claret</strong></p>
+                            <p>Prodotto</p>
+                            <p class="italic">In collaborazione con ERSU</p>
+                        </div>
+                        <div class="py-4 justify-self-end self-center ">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+                            <p>
+                                Curro Claret è un designer con base a Barcellona, dove svolge la sua attività progettando oggetti utili e sostenibili, che funzionano spesso da innesco per processi di creazione sociale partecipata. Molto attivo anche in campo didattico, 
+Curro collabora con il DADU da anni, in qualità di visiting professor e come ospite al ciclo di incontri “DesignDuo: conversazioni sul design”. 
+                            </p>
+                        </div>
+                    </div>
 
-
-
-
+                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black pb-2">
+                        <img alt="foto di Viola Orgiano" src="/img/ws-23-schlitter.png" />
+                        <div class="col-span-6 p-4">
+                            <p><strong>Joao Schlitter</strong></p>
+                            <p>Animazione</p>
+                            <p class="italic">In collaborazione con ERSU</p>
+                        </div>
+                        <div class="py-4 justify-self-end self-center">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+                            <p>
+                                Visual e Motion Designer, João Schlitter Amaral insegna all’Università di Sao Paulo in Brasile. Con alle spalle una lunga carriera professionale in Brasile e negli USA, João è stato testimone dell’entrata in scena, tra gli ’80 e ’90, dei primi leggendari sistemi grafici digitali per la post-produzione video, con cui ha creato sigle e animazioni per committenti come HBO, Discovery Channel, Cinemateca Brasileira. Più recentemente si è occupato di regia tv.
+                            </p>
+                            
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black pb-2">
+                        <img alt="foto di Viola Orgiano" src="/img/ws-23-moretti.png" />
+                        <div class="col-span-6 p-4">
+                            <p><strong>Matteo Moretti</strong></p>
+                            <p>Info Design</p>
+                            <p class="italic">In collaborazione con ERSU</p>
+                        </div>
+                        <div class="py-4 justify-self-end self-center">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+                            <p>
+                                Ricercatore e professionista nel campo dell’info-design e del visual journalism, Matteo Moretti è ormai parte della squadra di Alghero Design. Autore di progetti di data-visualization importanti e premiati, Matteo ha una grande esperienza didattica, costruita in anni di insegnamento e conduzione di workshop in molte Università italiane e internazionali.
+                            </p>
+                        </div>
+                    </div>                   
+                </div>
             </div>
-
-
-
         </div>
 
         <saperne></saperne>
