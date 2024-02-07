@@ -49,11 +49,11 @@
                 <h4 class="pt-4 pb-4">Edizione 2024 </h4>
                 <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">
                     <!-- WS-->
-                    <div class="grid grid-cols-8 workshop mb-2  border-b border-black pb-2">
+                    <div class="grid grid-cols-8 workshop mb-2  border-b border-black">
                         <img class="pic hidden sm:block " alt="foto di Viola Orgiano" src="/img/ws-24-orgiano.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Viola Orgiano</strong></p>
-                            <p>Pop-up</p>
+                            <p>Pop-up e Realtà Aumentata</p>
                             <p class="italic">In collaborazione con l'amministrazione Comunale di Aggius</p>
                         </div>
                         <div class="py-4 justify-self-end self-center ">
@@ -74,11 +74,11 @@
                         </div>
                     </div>
 
-                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black pb-2">
+                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
                         <img class="pic hidden sm:block " alt="foto di Daniele Murgia" src="/img/ws-24-murgia.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Daniele Murgia</strong></p>
-                            <p>Realtà aumentata</p>
+                            <p>Pop-up e Realtà Aumentata</p>
                             <p class="italic">In collaborazione con l'amministrazione Comunale di Aggius</p>
                         </div>
                         <div class="py-4 justify-self-end self-center">
@@ -88,20 +88,20 @@
                         <div class="col-span-8 col-start-1 extra_content">
                             <p>I due laboratori <strong>Pop-up</strong> e <strong>Realtà Aumentata</strong> lavoreranno, in collaborazione con l'Amministrazione Comunale, sul territorio di Aggius, in Gallura, sviluppando in parallelo artefatti di comunicazione interattiva per raccontare i luoghi, le storie, le persone, sulle tracce della cultura materiale e immateriale locale. 
                             </p><p>
-                            Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo comunicativo è prodotto dall'integrazione  tra le dimensioni tutta analogica del pop-up, e virtuale della realtà aumentata.
-                            I primi giorni di lavoro saranno quindi dedicati ad apprendere – in parallelo – le tecniche base per la realizzazione di composizioni pop-up e di piccole integrazioni narrative in realtà aumentata. 
+                            Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo comunicativo è prodotto dall'integrazione  tra le dimensioni tutta analogica del pop-up, e virtuale della realtà aumentata.</p><p>
+                            I primi giorni di lavoro saranno quindi dedicati ad apprendere – in parallelo – le tecniche base per la realizzazione di composizioni pop-up e di piccole integrazioni narrative in realtà aumentata. </p><p>
                             In una seconda fase i due laboratori si fonderanno, dando vita a gruppi ibridi in cui le le due competenze si fonderanno, per realizzare alcuni prodotti finiti di pop-up aumentati. </p><br/>
                             <p class="italic">Dottorando in Architettura e Ambiente presso l'Università di Sassari, concentra la sua ricerca sugli artefatti digitali per favorire l'accesso alla conoscenza e la comprensione di fenomeni complessi. Ha lavorato come assistente di Interaction Design presso il Dipartimento Ambiente Costruzione e Design SUPSI di Mendrisio e insegnato Creative Coding presso l'Accademia di Belle Arti di Genova. In qualità di libero professionista lavora nel campo dell'Interaction e Sound Design.
                             </p>
                            
                         </div>
                     </div>
-                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black pb-2">
+                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
                         <img class="pic hidden sm:block " alt="foto di Nicolò Ceccarelli e Nada Beretic" src="/img/ws-24-ceccarelli-beretic.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Nicolò Ceccarelli e Nada Beretic</strong></p>
-                            <p>Gomma</p>
-                            <p class="italic">In collaborazione con GommAmicA</p>
+                            <p>Gomma ludens</p>
+                            <p class="italic">in collaborazione con: Fondazione Meta</p>
                         </div>
                         <div class="py-4 justify-self-end self-center">
                             <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
@@ -109,10 +109,11 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
                            
-                            <p>Grande protagonista delle sperimentazioni ludiche del progetto Play-Alghero è una miscela di granuli di gomma e resina il cui uso primario si incontra nei campi sportivi e parchi giochi. Malleabile, morbida ed estremamente plasmabile, la mescola – il progetto Algherese lo ha dimostrato in modo eloquente –si presta ad essere trattata come sistema di comunicazione.</p>
+                            <p>Grande protagonista delle sperimentazioni ludiche del progetto Play-Alghero è una miscela di granuli di gomma e resina il cui uso primario si incontra nei campi sportivi e parchi giochi. Malleabile, morbida ed estremamente plasmabile, la mescola – il progetto Algherese lo ha dimostrato  in modo eloquente –si presta ad essere trattata come sistema di comunicazione.</p>
                             <p>
-                            L'obiettivo del workshop è continuare a esplorare le potenzialità di questo materiale, reinventandolo, in collaborazione con la Fondazione Meta, per realizzare un prototipo di installazione ludica urbana. Attenzione: ci sarà da sporcarsi le mani!
-                            Il workshop è reso possibile anche grazie a Gommamica e Giochi Infiniti.
+                                L’obiettivo del workshop è continuare a esplorare le potenzialità di questo materiale, reinventandolo, in collaborazione con la Fondazione Meta, per realizzare un prototipo di installazione ludica urbana. Attenzione: ci sarà da sporcarsi le mani!
+                            </p><p>
+                                Il workshop è reso possibile anche grazie a Gommamica e Giochi Infiniti.
                             </p><br/>
                             <p class="italic">Nicolò Ceccarelli insegna Design presso il DADU di Alghero (Università di Sassari), dove
                                 dirige l'unità di ricerca animazioneDesign ed è presidente del nuovo corso di studi
@@ -130,7 +131,7 @@
                                 </div>
                         </div>
                     </div>
-                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black pb-2">
+                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
                         <img class="pic hidden sm:block " alt="foto di Daniela Gaddi" src="/img/ws-24-gaddi.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Daniela Gaddi</strong></p>
@@ -159,7 +160,7 @@
 
                     <!-- WS-->
 
-                    <div class="grid grid-cols-8 workshop mb-2  border-b border-black pb-2">
+                    <div class="grid grid-cols-8 workshop mb-2  border-b border-black">
                         <img class="pic hidden sm:block " alt="foto di Curro Claret" src="/img/ws-23-claret.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Curro Claret</strong></p>
@@ -178,7 +179,7 @@
                         </div>
                     </div>
 
-                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black pb-2">
+                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
                         <img class="pic hidden sm:block " alt="foto di Joao Schlitter" src="/img/ws-23-schlitter.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Joao Schlitter</strong></p>
@@ -196,7 +197,7 @@
 
                         </div>
                     </div>
-                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black pb-2">
+                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
                         <img class="pic hidden sm:block " alt="foto di Matteo Moretti" src="/img/ws-23-moretti.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Matteo Moretti</strong></p>
