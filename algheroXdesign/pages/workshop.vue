@@ -1,6 +1,6 @@
 <template>
     <div class="container mx-auto" id="pds">
-        <titolo titoloPagina="La sede"></titolo>
+        <titolo titoloPagina="Workshop"></titolo>
         <div class="grid grid-cols-12 gap-x-6 mb-12">
             <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 ">
 
