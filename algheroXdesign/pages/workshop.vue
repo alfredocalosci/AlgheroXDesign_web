@@ -48,12 +48,9 @@
 
                 <h4 class="pt-4 pb-4">Edizione 2024 </h4>
                 <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">
-
-
                     <!-- WS-->
-
                     <div class="grid grid-cols-8 workshop mb-2  border-b border-black pb-2">
-                        <img alt="foto di Viola Orgiano" src="/img/ws-24-orgiano.png" />
+                        <img class="pic hidden sm:block " alt="foto di Viola Orgiano" src="/img/ws-24-orgiano.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Viola Orgiano</strong></p>
                             <p>Pop-up</p>
@@ -64,30 +61,21 @@
                         </div>
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
-                            <p>Laureata in architettura, Viola Orgiano è una visual designer con un focus distintivo sul
+                           
+                                <p>I due laboratori <strong>Pop-up</strong> e <strong>Realtà Aumentata</strong> lavoreranno, in collaborazione con l'Amministrazione Comunale, sul territorio di Aggius, in Gallura, sviluppando in parallelo artefatti di comunicazione interattiva per raccontare i luoghi, le storie, le persone, sulle tracce della cultura materiale e immateriale locale. 
+                                </p><p>
+                            Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo comunicativo è prodotto dall'integrazione  tra le dimensioni tutta analogica del pop-up, e virtuale della realtà aumentata.
+                            I primi giorni di lavoro saranno quindi dedicati ad apprendere – in parallelo – le tecniche base per la realizzazione di composizioni pop-up e di piccole integrazioni narrative in realtà aumentata. 
+                            In una seconda fase i due laboratori si fonderanno, dando vita a gruppi ibridi in cui le le due competenze si fonderanno, per realizzare alcuni prodotti finiti di pop-up aumentati. </p><br/>
+                            <p class="italic">Laureata in architettura, Viola Orgiano è una visual designer con un focus distintivo sul
                                 design multisensoriale. Viola ha collaborato stabilmente con il laboratorio animazionedesign
                                 del DADU negli ultimi due anni, partecipando a vari progetti di ricerca e ricerca applicata.
-                                Ha presentato il suo progetto di laurea
-                                Magistrale, incentrato sul paper design nel corso della 10 edizione della conferenza
-                                internazionale CONFIA23 in Portogallo.</p><br />
-                            <p>I due laboratori lavoreranno, in collaborazione con l'amministrazione comunale, sul
-                                territorio di Aggius, in Gallura, sviluppando in parallelo artefatti di comunicazione
-                                interattiva per raccontare i luoghi, le storie, le persone, sulle tracce della cultura
-                                materiale e immateriale locale. </p>
-                            <p>
-                                Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo comunicativo è
-                                prodotto dall'integrazione tra le dimensioni tutta analogica del pop-up, e virtuale della
-                                realtà aumentata.
-                                I primi giorni di lavoro saranno quindi dedicati ad apprendere – in parallelo – le tecniche
-                                base per la realizzazione di composizioni pop-up e di piccole integrazioni narrative in
-                                realtà aumentata.
-                                In una seconda fase i due laboratori si fonderanno, dando vita a gruppi ibridi in cui le le
-                                due competenze si fonderanno, per realizzare alcuni prodotti finiti di pop-up aumentati.</p>
+                                Ha presentato il suo progetto di laurea Magistrale, incentrato sul paper design nel corso della 10 edizione della conferenza internazionale CONFIA23 in Portogallo.</p><br/>
                         </div>
                     </div>
 
                     <div class="grid grid-cols-8 workshop mb-2 border-b  border-black pb-2">
-                        <img alt="foto di Viola Orgiano" src="/img/ws-24-murgia.png" />
+                        <img class="pic hidden sm:block " alt="foto di Daniele Murgia" src="/img/ws-24-murgia.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Daniele Murgia</strong></p>
                             <p>Realtà aumentata</p>
@@ -98,73 +86,52 @@
                         </div>
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
-                            <p>Dottorando in Architettura e Ambiente presso l'Università di Sassari, concentra la sua
-                                ricerca sugli artefatti digitali per favorire l'accesso alla conoscenza e la comprensione di
-                                fenomeni complessi. 
-                                Ha lavorato come assistente di Interaction Design presso il Dipartimento Ambiente
-                                Costruzione e Design SUPSI di Mendrisio e insegnato Creative Coding presso l’Accademia di
-                                Belle Arti di Genova.
-                                In qualità di libero professionista lavora nel campo dell’Interaction e Sound Design.
-                            </p><br />
-                            <p>I due laboratori lavoreranno, in collaborazione con l'amministrazione comunale, sul
-                                territorio di Aggius, in Gallura, sviluppando in parallelo artefatti di comunicazione
-                                interattiva per raccontare i luoghi, le storie, le persone, sulle tracce della cultura
-                                materiale e immateriale locale. </p>
-                            <p>
-                                Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo comunicativo è
-                                prodotto dall'integrazione tra le dimensioni tutta analogica del pop-up, e virtuale della
-                                realtà aumentata.
-                                I primi giorni di lavoro saranno quindi dedicati ad apprendere – in parallelo – le tecniche
-                                base per la realizzazione di composizioni pop-up e di piccole integrazioni narrative in
-                                realtà aumentata.
-                                In una seconda fase i due laboratori si fonderanno, dando vita a gruppi ibridi in cui le le
-                                due competenze si fonderanno, per realizzare alcuni prodotti finiti di pop-up aumentati.</p>
+                            <p>I due laboratori <strong>Pop-up</strong> e <strong>Realtà Aumentata</strong> lavoreranno, in collaborazione con l'Amministrazione Comunale, sul territorio di Aggius, in Gallura, sviluppando in parallelo artefatti di comunicazione interattiva per raccontare i luoghi, le storie, le persone, sulle tracce della cultura materiale e immateriale locale. 
+                            </p><p>
+                            Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo comunicativo è prodotto dall'integrazione  tra le dimensioni tutta analogica del pop-up, e virtuale della realtà aumentata.
+                            I primi giorni di lavoro saranno quindi dedicati ad apprendere – in parallelo – le tecniche base per la realizzazione di composizioni pop-up e di piccole integrazioni narrative in realtà aumentata. 
+                            In una seconda fase i due laboratori si fonderanno, dando vita a gruppi ibridi in cui le le due competenze si fonderanno, per realizzare alcuni prodotti finiti di pop-up aumentati. </p><br/>
+                            <p class="italic">Dottorando in Architettura e Ambiente presso l'Università di Sassari, concentra la sua ricerca sugli artefatti digitali per favorire l'accesso alla conoscenza e la comprensione di fenomeni complessi. Ha lavorato come assistente di Interaction Design presso il Dipartimento Ambiente Costruzione e Design SUPSI di Mendrisio e insegnato Creative Coding presso l'Accademia di Belle Arti di Genova. In qualità di libero professionista lavora nel campo dell'Interaction e Sound Design.
+                            </p>
+                           
                         </div>
                     </div>
                     <div class="grid grid-cols-8 workshop mb-2 border-b  border-black pb-2">
-                        <img alt="foto di Viola Orgiano" src="/img/ws-24-ceccarelli-beretic.png" />
+                        <img class="pic hidden sm:block " alt="foto di Nicolò Ceccarelli e Nada Beretic" src="/img/ws-24-ceccarelli-beretic.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Nicolò Ceccarelli e Nada Beretic</strong></p>
                             <p>Gomma</p>
-                            <p class="italic"></p>
+                            <p class="italic">In collaborazione con GommAmicA</p>
                         </div>
                         <div class="py-4 justify-self-end self-center">
                             <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
                         </div>
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
-                            <p>Nicolò Ceccarelli insegna Design presso il DADU di Alghero (Università di Sassari), dove
-                                dirige l’unità di ricerca animazioneDesign ed è presidente del nuovo corso di studi
-                                Triennale in Design. La sua passione per l’architettura delle
-                                informazioni lo ha portato a fondare l’iniziativa internazionale 2CO COmmunicating
-                                COmplexity, di cui è chair. Si occupa di animazione, visual design e design dell’identità,
-                                design e artigianato, design di allestimenti,
-                                mentre è molto incuriosito dalle ‘nuove’ modalità didattiche a distanza. Con i progetti Play
-                                Alghero e Culturgame, più recentemente, si è occupato di gamification per la divulgazione
-                                dei i beni culturali e del sapere scientifico.</p><br />
-                            <p>Nada Beretic, PhD in Architettura e Ambiente, RTDA in Design presso l’Università di Sassari.
-                                Il suo lavoro di ricerca si articola tra i temi del paesaggio culturale e dell’urban design
-                                come strumento per valorizzare le identità locali e la promozione dei territori.
-
-                                Dal 2012 condivide la responsabilità del programma Public art & Public space – PaPs, alla
-                                Facoltà di Architettura dell’Università di Belgrado. Collabora da anni ai progetti e alle
-                                ricerche del Laboratorio AnimazioneDesign, esplorando le modalità con cui l’unione tra
-                                design ed esperienze ludiche possa contribuire a promuovere l’idea di heritage. </p><br />
-                            <p>Grande protagonista delle sperimentazioni ludiche del progetto Play-Alghero è una miscela di
-                                granuli di gomma e resina il cui uso primario si incontra nei campi sportivi e parchi
-                                giochi. Malleabile, morbida ed estremamente plasmabile, la mescola – il progetto Algherese
-                                lo ha dimostrato in modo eloquente –si presta ad essere trattata come sistema di
-                                comunicazione.</p>
+                           
+                            <p>Grande protagonista delle sperimentazioni ludiche del progetto Play-Alghero è una miscela di granuli di gomma e resina il cui uso primario si incontra nei campi sportivi e parchi giochi. Malleabile, morbida ed estremamente plasmabile, la mescola – il progetto Algherese lo ha dimostrato in modo eloquente –si presta ad essere trattata come sistema di comunicazione.</p>
                             <p>
-                                L'obiettivo del workshop è continuare a esplorare le potenzialità di questo materiale,
-                                reinventandolo, in collaborazione con la Fondazione Meta, per realizzare un prototipo di
-                                installazione ludica urbana. Attenzione: ci sarà da sporcarsi le mani!
-                                Il workshop è reso possibile anche grazie a Gommamica e Giochi Infiniti.
-                            </p>
+                            L'obiettivo del workshop è continuare a esplorare le potenzialità di questo materiale, reinventandolo, in collaborazione con la Fondazione Meta, per realizzare un prototipo di installazione ludica urbana. Attenzione: ci sarà da sporcarsi le mani!
+                            Il workshop è reso possibile anche grazie a Gommamica e Giochi Infiniti.
+                            </p><br/>
+                            <p class="italic">Nicolò Ceccarelli insegna Design presso il DADU di Alghero (Università di Sassari), dove
+                                dirige l'unità di ricerca animazioneDesign ed è presidente del nuovo corso di studi
+                                Triennale in Design. La sua passione per l'architettura delle informazioni lo ha portato a fondare l'iniziativa internazionale 2CO COmmunicating
+                                COmplexity, di cui è chair. Si occupa di animazione, visual design e design dell'identità, design e artigianato, design di allestimenti,
+                                mentre è molto incuriosito dalle ‘nuove' modalità didattiche a distanza. Con i progetti Play Alghero e Culturgame, più recentemente, si è occupato di gamification per la divulgazione dei i beni culturali e del sapere scientifico.</p><br/>
+                                <p class="italic">Nada Beretic, PhD in Architettura e Ambiente, RTDA in Design presso l'Università di Sassari.
+                                Il suo lavoro di ricerca si articola tra i temi del paesaggio culturale e dell'urban design come strumento per valorizzare le identità locali e la promozione dei territori.
+
+                                Dal 2012 condivide la responsabilità del programma Public art & Public space – PaPs, alla Facoltà di Architettura dell'Università di Belgrado. Collabora da anni ai progetti e alle ricerche del Laboratorio AnimazioneDesign, esplorando le modalità con cui l'unione tra design ed esperienze ludiche possa contribuire a promuovere l'idea di heritage. </p>
+                                <br/>
+
+                                <div class="logo-wrapper grid grid-cols-2 items-baseline gap-x-1.5">
+                                    <img class="logo" src="/img/gommamica.png"/> <img class="logo" src="/img/giochi-infiniti.png"/>
+                                </div>
                         </div>
                     </div>
                     <div class="grid grid-cols-8 workshop mb-2 border-b  border-black pb-2">
-                        <img alt="foto di Viola Orgiano" src="/img/ws-24-gaddi.png" />
+                        <img class="pic hidden sm:block " alt="foto di Daniela Gaddi" src="/img/ws-24-gaddi.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Daniela Gaddi</strong></p>
                             <p>Colore</p>
@@ -175,22 +142,10 @@
                         </div>
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
-                            <p>Designer della comunicazione. Professore associato presso il Dip. di Architettura
-                                dell’Università “G. d’Annunzio” di Chieti-Pescara, dove si occupa di design della
-                                comunicazione e valorizzazione delle risorse locali e del territorio. Docente a contratto
-                                presso varie università e istituzioni tra cui Milano Cattolica, Poli.Design, Milano Fashion
-                                Institute. Visiting Professor presso la Goenka University di Nuova Delhi e l’EDC di
-                                Parigi. Dal 2010 partecipa a seminari e programmi di ricerca nazionali e internazionali
-                                sull’innovazione per la valorizzazione culturale e territoriale e la comunicazione e il
-                                System Design per l’inclusione.
-                            </p><br />
-                            <p>L'intelligente presidio della tradizione dell'abbigliamento e dei materiali tessili della
-                                Sardegna a cura da anni della 'bottega' Sassarese Bagella è largamente riconosciuto. In
-                                collaborazione con un così autorevole attore, ma anche interprete innovativo, di questa
-                                tradizione, il workshop si immergerà nel tema del colore dei tessuti della Sardegna, così
-                                strettamente legato al territorio e alle sue risorse. Proprio a partire dalla natura della
-                                'materia' tessuto, e della sua declinazione in componenti di abbigliamento, il workshop sarà
-                                un'opportunità di ragionare sul colore come linguaggio.</p>
+                           
+                            <p>L'intelligente presidio della tradizione dell'abbigliamento e dei materiali tessili della Sardegna a cura da anni della 'bottega' Sassarese Bagella è largamente riconosciuto. In collaborazione con un così autorevole attore, ma anche interprete innovativo, di questa tradizione, il workshop si immergerà nel tema del colore dei tessuti della Sardegna, così strettamente legato al territorio e alle sue risorse. Proprio a partire dalla natura della 'materia' te un'opportunità di ragionare sul colore come linguaggio.</p><br/>
+                            <p class="italic">Designer della comunicazione. Professore associato presso il Dip. di Architettura dell'Università “G. d'Annunzio” di Chieti-Pescara, dove si occupa di design della comunicazione e valorizzazione delle risorse locali e del territorio. Docente a contratto presso varie università e istituzioni tra cui Milano Cattolica, Poli.Design, Milano Fashion Institute. Visiting Professor presso la Goenka University di Nuova Delhi e l'EDC di Parigi. Dal 2010 partecipa a seminari e programmi di ricerca nazionali e internazionali sull'innovazione per la valorizzazione culturale e territoriale e la comunicazione e il System Design per l'inclusione.
+                            </p>
                         </div>
                     </div>
 
@@ -205,7 +160,7 @@
                     <!-- WS-->
 
                     <div class="grid grid-cols-8 workshop mb-2  border-b border-black pb-2">
-                        <img alt="foto di Viola Orgiano" src="/img/ws-23-claret.png" />
+                        <img class="pic hidden sm:block " alt="foto di Curro Claret" src="/img/ws-23-claret.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Curro Claret</strong></p>
                             <p>Prodotto</p>
@@ -217,17 +172,14 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
                             <p>
-                                Curro Claret è un designer con base a Barcellona, dove svolge la sua attività progettando
-                                oggetti utili e sostenibili, che funzionano spesso da innesco per processi di creazione
-                                sociale partecipata. Molto attivo anche in campo didattico,
-                                Curro collabora con il DADU da anni, in qualità di visiting professor e come ospite al ciclo
-                                di incontri “DesignDuo: conversazioni sul design”.
+                                Curro Claret è un designer con base a Barcellona, dove svolge la sua attività progettando oggetti utili e sostenibili, che funzionano spesso da innesco per processi di creazione sociale partecipata. Molto attivo anche in campo didattico,
+                                Curro collabora con il DADU da anni, in qualità di visiting professor e come ospite al ciclo di incontri “DesignDuo: conversazioni sul design”.
                             </p>
                         </div>
                     </div>
 
                     <div class="grid grid-cols-8 workshop mb-2 border-b  border-black pb-2">
-                        <img alt="foto di Viola Orgiano" src="/img/ws-23-schlitter.png" />
+                        <img class="pic hidden sm:block " alt="foto di Joao Schlitter" src="/img/ws-23-schlitter.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Joao Schlitter</strong></p>
                             <p>Animazione</p>
@@ -239,18 +191,13 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
                             <p>
-                                Visual e Motion Designer, João Schlitter Amaral insegna all’Università di Sao Paulo in
-                                Brasile. Con alle spalle una lunga carriera professionale in Brasile e negli USA, João è
-                                stato testimone dell’entrata in scena, tra gli ’80 e ’90, dei primi leggendari sistemi
-                                grafici digitali per la post-produzione video, con cui ha creato sigle e animazioni per
-                                committenti come HBO, Discovery Channel, Cinemateca Brasileira. Più recentemente si è
-                                occupato di regia tv.
+                                Visual e Motion Designer, João Schlitter Amaral insegna all'Università di Sao Paulo in Brasile. Con alle spalle una lunga carriera professionale in Brasile e negli USA, João è stato testimone dell'entrata in scena, tra gli '80 e '90, dei primi leggendari sistemi grafici digitali per la post-produzione video, con cui ha creato sigle e animazioni per committenti come HBO, Discovery Channel, Cinemateca Brasileira. Più recentemente si è occupato di regia tv.
                             </p>
 
                         </div>
                     </div>
                     <div class="grid grid-cols-8 workshop mb-2 border-b  border-black pb-2">
-                        <img alt="foto di Viola Orgiano" src="/img/ws-23-moretti.png" />
+                        <img class="pic hidden sm:block " alt="foto di Matteo Moretti" src="/img/ws-23-moretti.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Matteo Moretti</strong></p>
                             <p>Info Design</p>
@@ -262,11 +209,8 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
                             <p>
-                                Ricercatore e professionista nel campo dell’info-design e del visual journalism, Matteo
-                                Moretti è ormai parte della squadra di Alghero Design. Autore di progetti di
-                                data-visualization importanti e premiati, Matteo ha una grande esperienza didattica,
-                                costruita in anni di insegnamento e conduzione di workshop in molte Università italiane e
-                                internazionali.
+                                Ricercatore e professionista nel campo dell'info-design e del visual journalism, Matteo Moretti è ormai parte della squadra di Alghero Design. Autore di progetti di
+                                data-visualization importanti e premiati, Matteo ha una grande esperienza didattica, costruita in anni di insegnamento e conduzione di workshop in molte Università italiane e internazionali.
                             </p>
                         </div>
                     </div>
@@ -358,10 +302,14 @@ useHead({
         letter-spacing: 0;
     }
 }
-
+.logo-wrapper{
+    max-width: 320px;
+    img.logo{
+    width: 150px;
+}
+}
 .more_btn {
     transition: background-color 0.5s, color 0.5s;
-
     background-color: #EEEAEC;
     font-size: 2rem;
     text-align: center;
