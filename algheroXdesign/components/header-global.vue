@@ -39,6 +39,9 @@
                     <li>
                         <NuxtLink to="/la-sede" @click.native="closeNav()">La sede</NuxtLink>
                     </li>
+                    <li>
+                        <NuxtLink to="/workshop" @click.native="closeNav()">Workshop</NuxtLink>
+                    </li>
                   
                 </ul>
             </nav>

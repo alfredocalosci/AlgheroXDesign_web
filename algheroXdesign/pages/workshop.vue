@@ -131,24 +131,7 @@
                                 </div>
                         </div>
                     </div>
-                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
-                        <img class="pic hidden sm:block " alt="foto di Daniela Gaddi" src="/img/ws-24-gaddi.png" />
-                        <div class="col-span-6 p-4">
-                            <p><strong>Daniela Gaddi</strong></p>
-                            <p>Colore</p>
-                            <p class="italic"></p>
-                        </div>
-                        <div class="py-4 justify-self-end self-center">
-                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
-                        </div>
-                        <!-- extra content -->
-                        <div class="col-span-8 col-start-1 extra_content">
-                           
-                            <p>L'intelligente presidio della tradizione dell'abbigliamento e dei materiali tessili della Sardegna a cura da anni della 'bottega' Sassarese Bagella è largamente riconosciuto. In collaborazione con un così autorevole attore, ma anche interprete innovativo, di questa tradizione, il workshop si immergerà nel tema del colore dei tessuti della Sardegna, così strettamente legato al territorio e alle sue risorse. Proprio a partire dalla natura della 'materia' te un'opportunità di ragionare sul colore come linguaggio.</p><br/>
-                            <p class="italic">Designer della comunicazione. Professore associato presso il Dip. di Architettura dell'Università “G. d'Annunzio” di Chieti-Pescara, dove si occupa di design della comunicazione e valorizzazione delle risorse locali e del territorio. Docente a contratto presso varie università e istituzioni tra cui Milano Cattolica, Poli.Design, Milano Fashion Institute. Visiting Professor presso la Goenka University di Nuova Delhi e l'EDC di Parigi. Dal 2010 partecipa a seminari e programmi di ricerca nazionali e internazionali sull'innovazione per la valorizzazione culturale e territoriale e la comunicazione e il System Design per l'inclusione.
-                            </p>
-                        </div>
-                    </div>
+                  
 
 
 
@@ -216,7 +199,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>open 
         </div>
 
         <saperne></saperne>
