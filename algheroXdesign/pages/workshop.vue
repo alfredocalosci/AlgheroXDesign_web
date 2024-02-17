@@ -96,6 +96,7 @@
                            
                         </div>
                     </div>
+
                     <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
                         <img class="pic hidden sm:block " alt="foto di Nicolò Ceccarelli e Nada Beretic" src="/img/ws-24-ceccarelli-beretic.png" />
                         <div class="col-span-6 p-4">
@@ -111,7 +112,7 @@
                            
                             <p>Grande protagonista delle sperimentazioni ludiche del progetto Play-Alghero è una miscela di granuli di gomma e resina il cui uso primario si incontra nei campi sportivi e parchi giochi. Malleabile, morbida ed estremamente plasmabile, la mescola – il progetto Algherese lo ha dimostrato  in modo eloquente –si presta ad essere trattata come sistema di comunicazione.</p>
                             <p>
-                                L’obiettivo del workshop è continuare a esplorare le potenzialità di questo materiale, reinventandolo, in collaborazione con la Fondazione Meta, per realizzare un prototipo di installazione ludica urbana. Attenzione: ci sarà da sporcarsi le mani!
+                                L'obiettivo del workshop è continuare a esplorare le potenzialità di questo materiale, reinventandolo, in collaborazione con la Fondazione Meta, per realizzare un prototipo di installazione ludica urbana. Attenzione: ci sarà da sporcarsi le mani!
                             </p><p>
                                 Il workshop è reso possibile anche grazie a Gommamica e Giochi Infiniti.
                             </p><br/>
@@ -129,6 +130,34 @@
                                 <div class="logo-wrapper grid grid-cols-2 items-baseline gap-x-1.5">
                                     <img class="logo" src="/img/gommamica.png"/> <img class="logo" src="/img/giochi-infiniti.png"/>
                                 </div>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
+                        <img class="pic hidden sm:block " alt="foto di Rodrigo Ramirez" src="/img/ws-24-ramirez.png" />
+                        <div class="col-span-6 p-4">
+                            <p><strong>Rodrigo Ramirez</strong></p>
+                            <p>Visual Information for Emergencies</p>
+                            
+                        </div>
+                        <div class="py-4 justify-self-end self-center">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+                           
+                            <p>Un workshop con cui esplorare e prototipare il design delle informazioni impiegando le icone del sistema Guemil per l'Emergenza.
+
+                            </p>
+                            <br/>
+                            <p class="italic">Rodrigo Ramírez ha conseguito un MA in Information Design presso l'Università di Reading nel Regno Unito, dopo aver studiato Design all'UCV di Valparaíso, Cile.
+                            È Professore Associato alla School of Design di UC Chile, dove insegna nel Master in Advanced Design MADA UC.  E' Design leader, del progetto Guemil–Icons for emergencies e Membro del Board di Design for Emergency Management (dnem.org).</p>
+                            <p>
+                            Rodrigo ha una estesa esperienza come Visting Professor e ha diretto progetti di Design dell'informazione per sistemi di informazioni, brands, organizzazioni pubbliche e iniziative editoriali. Si interessa, sia sul piano operativo che della ricerca, di Information Design e di Tipografia. Al momento sta seguendo un PhD in Comunicazione presso UC Cile.
+                            </p>
+                            
+                        
+
+                               
                         </div>
                     </div>
                   
