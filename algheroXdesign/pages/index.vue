@@ -68,13 +68,13 @@
                 </div>
 
                 <div class="blocco mb-0 sm:mb-4" id="workshop">
-                    <img src="@/assets/img/axd_color.svg" alt="" class="w-full object-none">
+                    <img src="/img/ws-24-cover.png" alt="" class="w-full object-none">
                     <div class="absolute top-8 left-4 w-[90%]">
                         <h2>Workshops</h2>
-                        <p>Curro Claret, Johao Schlitter, Matteo Moretti</p>
+                        <p>Viola Orgiano, Daniele Murgia, Nicolò Ceccarelli, Nada Beretic</p>
                     </div>
                    
-                    <a href="https://www.instagram.com/p/Cti1mCSKsY7/?igshid=MjAxZDBhZDhlNA%3D%3D" class="button absolute bottom-4 left-4 text-black border-black">Edizione 2023</a>
+                    <a href="/workshop" class="button absolute bottom-4 left-4 text-black border-black">Edizione 2024</a>
                 </div>
                 
                 <div class="blocco mb-0 sm:mb-4" id="design-duo">
