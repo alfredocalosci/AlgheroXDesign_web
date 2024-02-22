@@ -297,7 +297,7 @@ export default defineComponent({
 definePageMeta({ layout: 'default' })
 
 useHead({
-    title: 'AlgheroXDesign - La sede',
+    title: 'AlgheroXDesign - Workshop',
     meta: [
         { name: 'description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
         { name: 'og:description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
