@@ -46,9 +46,53 @@
                     combinano, su tematiche espresse dal mondo del lavoro e dai territori grazie a interazioni con soggetti
                     esterni (enti, aziende, artigiani, iniziative imprenditoriali). </p>
 
+                <div class="bg-slate-100 p-4 workshop info">
                 <h4 class="pt-4 pb-4">Edizione 2024  &nbsp;👉<a href="/img/ws-24-programma.pdf" target="_blank"> scarica il calendario</a> 👈</h4>
+
+
                 
-                <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">
+                <p><strong>Info utili</strong></p>
+                           
+                <p><strong>Realtà Aumentata per i Territori-Daniele Murgia</strong></p>
+
+                <p>Per le attività utilizzeremo smartphone, computer e un account, anche ex-novo, meta (Facebook o instagram). 
+                    È necessario scaricare e installare (dal sito Meta Spark) il software, nella versione (PC o Mac) compatibile con il proprio dispositivo (portatile).</p>
+               <a href="https://spark.meta.com/learn/downloads/"> Meta Spark Studio for Windows</a> / 
+               <a href="https://spark.meta.com/learn/downloads/"> Meta Spark Studio for macOS</a><br/>
+                e
+                <a href="https://play.google.com/store/apps/details?id=com.facebook.arstudio.player&hl=it&gl=US">Meta Spark Player for Android</a> / 
+                <a href="https://apps.apple.com/it/app/meta-spark-player/id1231451896"> Meta Spark Player for iOS</a><br/>
+                <p>È inoltre richiesto di accedere e iscriversi (con la mail del'università) allo spazio <a href="https://chat.google.com/room/AAAAVU3CnEY?cls=4" target="_blank">https://chat.google.com/room/AAAAVU3CnEY?cls=4</a> dove saranno caricati i materiali del corso.</p>
+
+
+                <br/>
+
+                <p><strong>Pop-Up per i Territori-Viola Orgiano</strong></p>
+                <p>Per lavorare vi richiediamo di procurarvi i seguenti materiali:</p>
+                    <ul>
+                        <li> <p>Taglierino o bisturi;</p></li>
+                        <li> <p>forbici;</p></li>
+                        <li> <p>tappetino da taglio (in alternativa cartone alveolare da bloccare con lo scotch carta sula banco);</p></li>
+                        <li> <p>colla stick;</p></li>
+                        <li> <p>stecca piegacarta (in alternativa, può far ridere, ma suggerisco posate con campo lungo e liscio per la cordonatura);</p></li>
+                        <li> <p>righello (meglio se metallico);</p></li>
+                        <li> <p>computer con Illustrator installato (potrebbe servire perchè preparò delle illustrazioni per il secondo esercizio e loro dovranno solo riassemblarle per stamparle);</p></li>
+                        <li> <p>matite colorate e pennarelli (potrebbero servire per l'ultimo esercizio nel caso qualcuno voglia realizzare delle illustrazioni a mano).</p></li>
+
+                    </ul>
+
+
+
+<br/>
+<p><strong>Gomma ludens-Nađa Beretić e Nicolò Ceccarelli</strong></p>
+
+<p>Non sono richiesti particolari materiali, e sia la gomma che la resina che impiegheremo non sono particolarmente sporchevoli, ma vi consigliamo comunque di indossare vestiti comodi e non 'eleganti'.</p>
+
+
+                </div>
+
+
+                <div class="bg-slate-100 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">
                     <!-- WS-->
                     <div class="grid grid-cols-8 workshop mb-2  border-b border-black">
                         <img class="pic hidden sm:block " alt="foto di Viola Orgiano" src="/img/ws-24-orgiano.png" />
@@ -92,7 +136,7 @@
                             Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo comunicativo è prodotto dall'integrazione  tra le dimensioni tutta analogica del pop-up, e virtuale della realtà aumentata.</p><p>
                             I primi giorni di lavoro saranno quindi dedicati ad apprendere – in parallelo – le tecniche base per la realizzazione di composizioni pop-up e di piccole integrazioni narrative in realtà aumentata. </p><p>
                             In una seconda fase i due laboratori si fonderanno, dando vita a gruppi ibridi in cui le le due competenze si fonderanno, per realizzare alcuni prodotti finiti di pop-up aumentati. </p><br/>
-                            <p class="italic">Dottorando in Architettura e Ambiente presso l'Università di Sassari, concentra la sua ricerca sugli artefatti digitali per favorire l'accesso alla conoscenza e la comprensione di fenomeni complessi. Ha lavorato come assistente di Interaction Design presso il Dipartimento Ambiente Costruzione e Design SUPSI di Mendrisio e insegnato Creative Coding presso l'Accademia di Belle Arti di Genova. In qualità di libero professionista lavora nel campo dell'Interaction e Sound Design.
+                            <p class="italic">Dottorando in Architettura e Ambiente presso l'Università di Sassari, concentra la sua ricerca sugli artefatti digitali per favorire l'accesso alla conoscenza e la comprensione di fenomeni complessi. Ha lavorato come assistente di Interaction Design presso il Dipartimento Ambiente Costruzione e Design SUPSI di Mendrisio e insegnato Creative Coding presso l'Accademia di Belle Arti di Genova. In qualità di libero professionista lavora nel campo dell'Interaction e Sound Design.
                             </p>
                            
                         </div>
@@ -121,7 +165,7 @@
                                 dirige l'unità di ricerca animazioneDesign ed è presidente del nuovo corso di studi
                                 Triennale in Design. La sua passione per l'architettura delle informazioni lo ha portato a fondare l'iniziativa internazionale 2CO COmmunicating
                                 COmplexity, di cui è chair. Si occupa di animazione, visual design e design dell'identità, design e artigianato, design di allestimenti,
-                                mentre è molto incuriosito dalle ‘nuove' modalità didattiche a distanza. Con i progetti Play Alghero e Culturgame, più recentemente, si è occupato di gamification per la divulgazione dei i beni culturali e del sapere scientifico.</p><br/>
+                                mentre è molto incuriosito dalle 'nuove' modalità didattiche a distanza. Con i progetti Play Alghero e Culturgame, più recentemente, si è occupato di gamification per la divulgazione dei i beni culturali e del sapere scientifico.</p><br/>
                                 <p class="italic">Nada Beretic, PhD in Architettura e Ambiente, RTDA in Design presso l'Università di Sassari.
                                 Il suo lavoro di ricerca si articola tra i temi del paesaggio culturale e dell'urban design come strumento per valorizzare le identità locali e la promozione dei territori.
 
@@ -308,7 +352,7 @@ useHead({
         { name: 'twitter:title', content: 'AlgheroXDesign, Laurea triennale in Design: la sede' }
     ],
     link: [
-        { rel: 'canonical', href: 'http://algheroxdesign.it/la-sede' }
+        { rel: 'canonical', href: 'http://algheroxdesign.it/workshop' }
     ]
 
 })
@@ -319,6 +363,20 @@ useHead({
     p {
         font-size: 18px;
         letter-spacing: 0;
+
+    }
+}
+.info{
+    padding-bottom:50px;
+    p{
+        max-width: 550px;
+    }
+    ul{
+        margin-left: 20px;
+        list-style-type: disc;
+        li{
+            padding-bottom: 2px;
+        }
     }
 }
 .logo-wrapper{
