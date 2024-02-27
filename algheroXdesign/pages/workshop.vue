@@ -74,8 +74,8 @@
                         <li> <p>colla stick;</p></li>
                         <li> <p>stecca piegacarta (in alternativa, può far ridere, ma suggerisco posate con campo lungo e liscio per la cordonatura);</p></li>
                         <li> <p>righello (meglio se metallico);</p></li>
-                        <li> <p>computer con Illustrator installato (potrebbe servire perchè preparò delle illustrazioni per il secondo esercizio e loro dovranno solo riassemblarle per stamparle);</p></li>
-                        <li> <p>matite colorate e pennarelli (potrebbero servire per l'ultimo esercizio nel caso qualcuno voglia realizzare delle illustrazioni a mano).</p></li>
+                        <li> <p>computer con Illustrator installato;</p></li>
+                        <li> <p>matite colorate e pennarelli.</p></li>
 
                     </ul>
 
