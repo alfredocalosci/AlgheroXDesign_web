@@ -46,47 +46,98 @@
                     combinano, su tematiche espresse dal mondo del lavoro e dai territori grazie a interazioni con soggetti
                     esterni (enti, aziende, artigiani, iniziative imprenditoriali). </p>
 
-                <div class="bg-slate-100 p-4 workshop info">
-                <h4 class="pt-4 pb-4">Edizione 2024  &nbsp;👉<a href="/img/ws-24-programma.pdf" target="_blank"> scarica il calendario</a> 👈</h4>
+                <div class="bg-slate-100 workshop info">
+                    <h4 class="pt-4 pb-4">Edizione 2024 </h4>
 
 
-                
-                <p><strong>Info utili</strong></p>
-                           
-                <p><strong>Realtà Aumentata per i Territori-Daniele Murgia</strong></p>
-
-                <p>Per le attività utilizzeremo smartphone, computer e un account, anche ex-novo, meta (Facebook o instagram). 
-                    È necessario scaricare e installare (dal sito Meta Spark) il software, nella versione (PC o Mac) compatibile con il proprio dispositivo (portatile).</p>
-               <a href="https://spark.meta.com/learn/downloads/"> Meta Spark Studio for Windows</a> / 
-               <a href="https://spark.meta.com/learn/downloads/"> Meta Spark Studio for macOS</a><br/>
-                e
-                <a href="https://play.google.com/store/apps/details?id=com.facebook.arstudio.player&hl=it&gl=US">Meta Spark Player for Android</a> / 
-                <a href="https://apps.apple.com/it/app/meta-spark-player/id1231451896"> Meta Spark Player for iOS</a><br/>
-                <p>È inoltre richiesto di accedere e iscriversi (con la mail del'università) allo spazio <a href="https://chat.google.com/room/AAAAVU3CnEY?cls=4" target="_blank">https://chat.google.com/room/AAAAVU3CnEY?cls=4</a> dove saranno caricati i materiali del corso.</p>
-
-
-                <br/>
-
-                <p><strong>Pop-Up per i Territori-Viola Orgiano</strong></p>
-                <p>Per lavorare vi richiediamo di procurarvi i seguenti materiali:</p>
-                    <ul>
-                        <li> <p>Taglierino o bisturi;</p></li>
-                        <li> <p>forbici;</p></li>
-                        <li> <p>tappetino da taglio (in alternativa cartone alveolare da bloccare con lo scotch carta sula banco);</p></li>
-                        <li> <p>colla stick;</p></li>
-                        <li> <p>stecca piegacarta (in alternativa, può far ridere, ma suggerisco posate con campo lungo e liscio per la cordonatura);</p></li>
-                        <li> <p>righello (meglio se metallico);</p></li>
-                        <li> <p>computer con Illustrator installato (potrebbe servire perchè preparò delle illustrazioni per il secondo esercizio e loro dovranno solo riassemblarle per stamparle);</p></li>
-                        <li> <p>matite colorate e pennarelli (potrebbero servire per l'ultimo esercizio nel caso qualcuno voglia realizzare delle illustrazioni a mano).</p></li>
-
-                    </ul>
+                    <div class="grid grid-cols-8 workshop mb-2 border-b border-t border-black">
+                        <img class="pic hidden sm:block " alt="foto di Rodrigo Ramirez" src="/img/info.png" />
+                        <div class="col-span-6 ">
+                            <p class="p-4"><strong>INFO UTILI</strong></p>
 
 
 
-<br/>
-<p><strong>Gomma ludens-Nađa Beretić e Nicolò Ceccarelli</strong></p>
+                        </div>
+                        <div class="py-4 justify-self-end self-center">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content p-4">
 
-<p>Non sono richiesti particolari materiali, e sia la gomma che la resina che impiegheremo non sono particolarmente sporchevoli, ma vi consigliamo comunque di indossare vestiti comodi e non 'eleganti'.</p>
+                            <p> 👉<a href="/img/ws-24-programma.pdf" target="_blank"> scarica il calendario</a> 👈</p>
+
+                            <p><strong>Realtà Aumentata per i Territori-Daniele Murgia</strong></p>
+
+                            <p>Per le attività utilizzeremo smartphone, computer e un account, anche ex-novo, meta (Facebook
+                                o instagram).
+                                È necessario scaricare e installare (dal sito Meta Spark) il software, nella versione (PC o
+                                Mac) compatibile con il proprio dispositivo (portatile).</p>
+                            <a href="https://spark.meta.com/learn/downloads/"> Meta Spark Studio for Windows</a> /
+                            <a href="https://spark.meta.com/learn/downloads/"> Meta Spark Studio for macOS</a><br />
+                            e
+                            <a
+                                href="https://play.google.com/store/apps/details?id=com.facebook.arstudio.player&hl=it&gl=US">Meta
+                                Spark Player for Android</a> /
+                            <a href="https://apps.apple.com/it/app/meta-spark-player/id1231451896"> Meta Spark Player for
+                                iOS</a><br />
+                            <p>È inoltre richiesto di accedere e iscriversi (con la mail del'università) allo spazio <a
+                                    href="https://chat.google.com/room/AAAAVU3CnEY?cls=4"
+                                    target="_blank">https://chat.google.com/room/AAAAVU3CnEY?cls=4</a> dove saranno caricati
+                                i materiali del corso.</p>
+
+
+                            <br />
+
+                            <p><strong>Pop-Up per i Territori-Viola Orgiano</strong></p>
+                            <p>Per lavorare vi richiediamo di procurarvi i seguenti materiali:</p>
+                            <ul>
+                                <li>
+                                    <p>Taglierino o bisturi;</p>
+                                </li>
+                                <li>
+                                    <p>forbici;</p>
+                                </li>
+                                <li>
+                                    <p>tappetino da taglio (in alternativa cartone alveolare da bloccare con lo scotch carta
+                                        sula banco);</p>
+                                </li>
+                                <li>
+                                    <p>colla stick;</p>
+                                </li>
+                                <li>
+                                    <p>stecca piegacarta (in alternativa, può far ridere, ma suggerisco posate con campo
+                                        lungo e liscio per la cordonatura);</p>
+                                </li>
+                                <li>
+                                    <p>righello (meglio se metallico);</p>
+                                </li>
+                                <li>
+                                    <p>computer con Illustrator installato (potrebbe servire perchè preparò delle
+                                        illustrazioni per il secondo esercizio e loro dovranno solo riassemblarle per
+                                        stamparle);</p>
+                                </li>
+                                <li>
+                                    <p>matite colorate e pennarelli (potrebbero servire per l'ultimo esercizio nel caso
+                                        qualcuno voglia realizzare delle illustrazioni a mano).</p>
+                                </li>
+
+                            </ul>
+
+
+
+                            <br />
+                            <p><strong>Gomma ludens-Nađa Beretić e Nicolò Ceccarelli</strong></p>
+
+                            <p>Non sono richiesti particolari materiali, e sia la gomma che la resina che impiegheremo non
+                                sono particolarmente sporchevoli, ma vi consigliamo comunque di indossare vestiti comodi e
+                                non 'eleganti'.</p>
+
+
+
+
+                        </div>
+                    </div>
+
 
 
                 </div>
@@ -106,16 +157,28 @@
                         </div>
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
-                           
-                                <p>I due laboratori <strong>Pop-up</strong> e <strong>Realtà Aumentata</strong> lavoreranno, in collaborazione con l'Amministrazione Comunale, sul territorio di Aggius, in Gallura, sviluppando in parallelo artefatti di comunicazione interattiva per raccontare i luoghi, le storie, le persone, sulle tracce della cultura materiale e immateriale locale. 
-                                </p><p>
-                            Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo comunicativo è prodotto dall'integrazione  tra le dimensioni tutta analogica del pop-up, e virtuale della realtà aumentata.
-                            I primi giorni di lavoro saranno quindi dedicati ad apprendere – in parallelo – le tecniche base per la realizzazione di composizioni pop-up e di piccole integrazioni narrative in realtà aumentata. 
-                            In una seconda fase i due laboratori si fonderanno, dando vita a gruppi ibridi in cui le le due competenze si fonderanno, per realizzare alcuni prodotti finiti di pop-up aumentati. </p><br/>
-                            <p class="italic">Laureata in architettura, Viola Orgiano è una visual designer con un focus distintivo sul
+
+                            <p>I due laboratori <strong>Pop-up</strong> e <strong>Realtà Aumentata</strong> lavoreranno, in
+                                collaborazione con l'Amministrazione Comunale, sul territorio di Aggius, in Gallura,
+                                sviluppando in parallelo artefatti di comunicazione interattiva per raccontare i luoghi, le
+                                storie, le persone, sulle tracce della cultura materiale e immateriale locale.
+                            </p>
+                            <p>
+                                Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo comunicativo è
+                                prodotto dall'integrazione tra le dimensioni tutta analogica del pop-up, e virtuale della
+                                realtà aumentata.
+                                I primi giorni di lavoro saranno quindi dedicati ad apprendere – in parallelo – le tecniche
+                                base per la realizzazione di composizioni pop-up e di piccole integrazioni narrative in
+                                realtà aumentata.
+                                In una seconda fase i due laboratori si fonderanno, dando vita a gruppi ibridi in cui le le
+                                due competenze si fonderanno, per realizzare alcuni prodotti finiti di pop-up aumentati.
+                            </p><br />
+                            <p class="italic">Laureata in architettura, Viola Orgiano è una visual designer con un focus
+                                distintivo sul
                                 design multisensoriale. Viola ha collaborato stabilmente con il laboratorio animazionedesign
                                 del DADU negli ultimi due anni, partecipando a vari progetti di ricerca e ricerca applicata.
-                                Ha presentato il suo progetto di laurea Magistrale, incentrato sul paper design nel corso della 10 edizione della conferenza internazionale CONFIA23 in Portogallo.</p><br/>
+                                Ha presentato il suo progetto di laurea Magistrale, incentrato sul paper design nel corso
+                                della 10 edizione della conferenza internazionale CONFIA23 in Portogallo.</p><br />
                         </div>
                     </div>
 
@@ -131,19 +194,37 @@
                         </div>
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
-                            <p>I due laboratori <strong>Pop-up</strong> e <strong>Realtà Aumentata</strong> lavoreranno, in collaborazione con l'Amministrazione Comunale, sul territorio di Aggius, in Gallura, sviluppando in parallelo artefatti di comunicazione interattiva per raccontare i luoghi, le storie, le persone, sulle tracce della cultura materiale e immateriale locale. 
-                            </p><p>
-                            Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo comunicativo è prodotto dall'integrazione  tra le dimensioni tutta analogica del pop-up, e virtuale della realtà aumentata.</p><p>
-                            I primi giorni di lavoro saranno quindi dedicati ad apprendere – in parallelo – le tecniche base per la realizzazione di composizioni pop-up e di piccole integrazioni narrative in realtà aumentata. </p><p>
-                            In una seconda fase i due laboratori si fonderanno, dando vita a gruppi ibridi in cui le le due competenze si fonderanno, per realizzare alcuni prodotti finiti di pop-up aumentati. </p><br/>
-                            <p class="italic">Dottorando in Architettura e Ambiente presso l'Università di Sassari, concentra la sua ricerca sugli artefatti digitali per favorire l'accesso alla conoscenza e la comprensione di fenomeni complessi. Ha lavorato come assistente di Interaction Design presso il Dipartimento Ambiente Costruzione e Design SUPSI di Mendrisio e insegnato Creative Coding presso l'Accademia di Belle Arti di Genova. In qualità di libero professionista lavora nel campo dell'Interaction e Sound Design.
+                            <p>I due laboratori <strong>Pop-up</strong> e <strong>Realtà Aumentata</strong> lavoreranno, in
+                                collaborazione con l'Amministrazione Comunale, sul territorio di Aggius, in Gallura,
+                                sviluppando in parallelo artefatti di comunicazione interattiva per raccontare i luoghi, le
+                                storie, le persone, sulle tracce della cultura materiale e immateriale locale.
                             </p>
-                           
+                            <p>
+                                Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo comunicativo è
+                                prodotto dall'integrazione tra le dimensioni tutta analogica del pop-up, e virtuale della
+                                realtà aumentata.</p>
+                            <p>
+                                I primi giorni di lavoro saranno quindi dedicati ad apprendere – in parallelo – le tecniche
+                                base per la realizzazione di composizioni pop-up e di piccole integrazioni narrative in
+                                realtà aumentata. </p>
+                            <p>
+                                In una seconda fase i due laboratori si fonderanno, dando vita a gruppi ibridi in cui le le
+                                due competenze si fonderanno, per realizzare alcuni prodotti finiti di pop-up aumentati.
+                            </p><br />
+                            <p class="italic">Dottorando in Architettura e Ambiente presso l'Università di Sassari,
+                                concentra la sua ricerca sugli artefatti digitali per favorire l'accesso alla conoscenza e
+                                la comprensione di fenomeni complessi. Ha lavorato come assistente di Interaction Design
+                                presso il Dipartimento Ambiente Costruzione e Design SUPSI di Mendrisio e insegnato Creative
+                                Coding presso l'Accademia di Belle Arti di Genova. In qualità di libero professionista
+                                lavora nel campo dell'Interaction e Sound Design.
+                            </p>
+
                         </div>
                     </div>
 
                     <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
-                        <img class="pic hidden sm:block " alt="foto di Nicolò Ceccarelli e Nada Beretic" src="/img/ws-24-ceccarelli-beretic.png" />
+                        <img class="pic hidden sm:block " alt="foto di Nicolò Ceccarelli e Nada Beretic"
+                            src="/img/ws-24-ceccarelli-beretic.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Nicolò Ceccarelli e Nada Beretic</strong></p>
                             <p>Gomma ludens</p>
@@ -154,31 +235,49 @@
                         </div>
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
-                           
-                            <p>Grande protagonista delle sperimentazioni ludiche del progetto Play-Alghero è una miscela di granuli di gomma e resina il cui uso primario si incontra nei campi sportivi e parchi giochi. Malleabile, morbida ed estremamente plasmabile, la mescola – il progetto Algherese lo ha dimostrato  in modo eloquente –si presta ad essere trattata come sistema di comunicazione.</p>
+
+                            <p>Grande protagonista delle sperimentazioni ludiche del progetto Play-Alghero è una miscela di
+                                granuli di gomma e resina il cui uso primario si incontra nei campi sportivi e parchi
+                                giochi. Malleabile, morbida ed estremamente plasmabile, la mescola – il progetto Algherese
+                                lo ha dimostrato in modo eloquente –si presta ad essere trattata come sistema di
+                                comunicazione.</p>
                             <p>
-                                L'obiettivo del workshop è continuare a esplorare le potenzialità di questo materiale, reinventandolo, in collaborazione con la Fondazione Meta, per realizzare un prototipo di installazione ludica urbana. Attenzione: ci sarà da sporcarsi le mani!
-                            </p><p>
+                                L'obiettivo del workshop è continuare a esplorare le potenzialità di questo materiale,
+                                reinventandolo, in collaborazione con la Fondazione Meta, per realizzare un prototipo di
+                                installazione ludica urbana. Attenzione: ci sarà da sporcarsi le mani!
+                            </p>
+                            <p>
                                 Il workshop è reso possibile anche grazie a Gommamica e Giochi Infiniti.
-                            </p><br/>
-                            <p class="italic">Nicolò Ceccarelli insegna Design presso il DADU di Alghero (Università di Sassari), dove
+                            </p><br />
+                            <p class="italic">Nicolò Ceccarelli insegna Design presso il DADU di Alghero (Università di
+                                Sassari), dove
                                 dirige l'unità di ricerca animazioneDesign ed è presidente del nuovo corso di studi
-                                Triennale in Design. La sua passione per l'architettura delle informazioni lo ha portato a fondare l'iniziativa internazionale 2CO COmmunicating
-                                COmplexity, di cui è chair. Si occupa di animazione, visual design e design dell'identità, design e artigianato, design di allestimenti,
-                                mentre è molto incuriosito dalle 'nuove' modalità didattiche a distanza. Con i progetti Play Alghero e Culturgame, più recentemente, si è occupato di gamification per la divulgazione dei i beni culturali e del sapere scientifico.</p><br/>
-                                <p class="italic">Nada Beretic, PhD in Architettura e Ambiente, RTDA in Design presso l'Università di Sassari.
-                                Il suo lavoro di ricerca si articola tra i temi del paesaggio culturale e dell'urban design come strumento per valorizzare le identità locali e la promozione dei territori.
+                                Triennale in Design. La sua passione per l'architettura delle informazioni lo ha portato a
+                                fondare l'iniziativa internazionale 2CO COmmunicating
+                                COmplexity, di cui è chair. Si occupa di animazione, visual design e design dell'identità,
+                                design e artigianato, design di allestimenti,
+                                mentre è molto incuriosito dalle 'nuove' modalità didattiche a distanza. Con i progetti Play
+                                Alghero e Culturgame, più recentemente, si è occupato di gamification per la divulgazione
+                                dei i beni culturali e del sapere scientifico.</p><br />
+                            <p class="italic">Nada Beretic, PhD in Architettura e Ambiente, RTDA in Design presso
+                                l'Università di Sassari.
+                                Il suo lavoro di ricerca si articola tra i temi del paesaggio culturale e dell'urban design
+                                come strumento per valorizzare le identità locali e la promozione dei territori.
 
-                                Dal 2012 condivide la responsabilità del programma Public art & Public space – PaPs, alla Facoltà di Architettura dell'Università di Belgrado. Collabora da anni ai progetti e alle ricerche del Laboratorio AnimazioneDesign, esplorando le modalità con cui l'unione tra design ed esperienze ludiche possa contribuire a promuovere l'idea di heritage. </p>
-                                <br/>
+                                Dal 2012 condivide la responsabilità del programma Public art & Public space – PaPs, alla
+                                Facoltà di Architettura dell'Università di Belgrado. Collabora da anni ai progetti e alle
+                                ricerche del Laboratorio AnimazioneDesign, esplorando le modalità con cui l'unione tra
+                                design ed esperienze ludiche possa contribuire a promuovere l'idea di heritage. </p>
+                            <br />
 
-                                <div class="logo-wrapper grid grid-cols-2 items-baseline gap-x-1.5">
-                                    <img class="logo" src="/img/gommamica.png"/> <img class="logo" src="/img/giochi-infiniti.png"/>
-                                </div>
+                            <div class="logo-wrapper grid grid-cols-2 items-baseline gap-x-1.5">
+                                <img class="logo" src="/img/gommamica.png" /> <img class="logo"
+                                    src="/img/giochi-infiniti.png" />
+                            </div>
                         </div>
                     </div>
 
-                    
+
                     <h4 class="pt-4">Sessione di warmup</h4>
 
                     <div class="grid grid-cols-8 workshop mb-2 border-b border-t border-black">
@@ -186,31 +285,38 @@
                         <div class="col-span-6 p-4">
                             <p><strong>Rodrigo Ramirez</strong></p>
                             <p>Visual Information for Emergencies</p>
-                            
+
                         </div>
                         <div class="py-4 justify-self-end self-center">
                             <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
                         </div>
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
-                           
-                            <p>Un workshop con cui esplorare e prototipare il design delle informazioni impiegando le icone del sistema Guemil per l'Emergenza.
+
+                            <p>Un workshop con cui esplorare e prototipare il design delle informazioni impiegando le icone
+                                del sistema Guemil per l'Emergenza.
 
                             </p>
-                            <br/>
-                            <p class="italic">Rodrigo Ramírez ha conseguito un MA in Information Design presso l'Università di Reading nel Regno Unito, dopo aver studiato Design all'UCV di Valparaíso, Cile.
-                            È Professore Associato alla School of Design di UC Chile, dove insegna nel Master in Advanced Design MADA UC.  E' Design leader, del progetto Guemil–Icons for emergencies e Membro del Board di Design for Emergency Management (dnem.org).</p>
+                            <br />
+                            <p class="italic">Rodrigo Ramírez ha conseguito un MA in Information Design presso l'Università
+                                di Reading nel Regno Unito, dopo aver studiato Design all'UCV di Valparaíso, Cile.
+                                È Professore Associato alla School of Design di UC Chile, dove insegna nel Master in
+                                Advanced Design MADA UC. E' Design leader, del progetto Guemil–Icons for emergencies e
+                                Membro del Board di Design for Emergency Management (dnem.org).</p>
                             <p>
-                            Rodrigo ha una estesa esperienza come Visting Professor e ha diretto progetti di Design dell'informazione per sistemi di informazioni, brands, organizzazioni pubbliche e iniziative editoriali. Si interessa, sia sul piano operativo che della ricerca, di Information Design e di Tipografia. Al momento sta seguendo un PhD in Comunicazione presso UC Cile.
+                                Rodrigo ha una estesa esperienza come Visting Professor e ha diretto progetti di Design
+                                dell'informazione per sistemi di informazioni, brands, organizzazioni pubbliche e iniziative
+                                editoriali. Si interessa, sia sul piano operativo che della ricerca, di Information Design e
+                                di Tipografia. Al momento sta seguendo un PhD in Comunicazione presso UC Cile.
                             </p>
-                            
-                        
 
-                               
+
+
+
                         </div>
                     </div>
-                   
-                  
+
+
 
 
 
@@ -235,8 +341,11 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
                             <p>
-                                Curro Claret è un designer con base a Barcellona, dove svolge la sua attività progettando oggetti utili e sostenibili, che funzionano spesso da innesco per processi di creazione sociale partecipata. Molto attivo anche in campo didattico,
-                                Curro collabora con il DADU da anni, in qualità di visiting professor e come ospite al ciclo di incontri “DesignDuo: conversazioni sul design”.
+                                Curro Claret è un designer con base a Barcellona, dove svolge la sua attività progettando
+                                oggetti utili e sostenibili, che funzionano spesso da innesco per processi di creazione
+                                sociale partecipata. Molto attivo anche in campo didattico,
+                                Curro collabora con il DADU da anni, in qualità di visiting professor e come ospite al ciclo
+                                di incontri “DesignDuo: conversazioni sul design”.
                             </p>
                         </div>
                     </div>
@@ -254,7 +363,12 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
                             <p>
-                                Visual e Motion Designer, João Schlitter Amaral insegna all'Università di Sao Paulo in Brasile. Con alle spalle una lunga carriera professionale in Brasile e negli USA, João è stato testimone dell'entrata in scena, tra gli '80 e '90, dei primi leggendari sistemi grafici digitali per la post-produzione video, con cui ha creato sigle e animazioni per committenti come HBO, Discovery Channel, Cinemateca Brasileira. Più recentemente si è occupato di regia tv.
+                                Visual e Motion Designer, João Schlitter Amaral insegna all'Università di Sao Paulo in
+                                Brasile. Con alle spalle una lunga carriera professionale in Brasile e negli USA, João è
+                                stato testimone dell'entrata in scena, tra gli '80 e '90, dei primi leggendari sistemi
+                                grafici digitali per la post-produzione video, con cui ha creato sigle e animazioni per
+                                committenti come HBO, Discovery Channel, Cinemateca Brasileira. Più recentemente si è
+                                occupato di regia tv.
                             </p>
 
                         </div>
@@ -272,13 +386,16 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
                             <p>
-                                Ricercatore e professionista nel campo dell'info-design e del visual journalism, Matteo Moretti è ormai parte della squadra di Alghero Design. Autore di progetti di
-                                data-visualization importanti e premiati, Matteo ha una grande esperienza didattica, costruita in anni di insegnamento e conduzione di workshop in molte Università italiane e internazionali.
+                                Ricercatore e professionista nel campo dell'info-design e del visual journalism, Matteo
+                                Moretti è ormai parte della squadra di Alghero Design. Autore di progetti di
+                                data-visualization importanti e premiati, Matteo ha una grande esperienza didattica,
+                                costruita in anni di insegnamento e conduzione di workshop in molte Università italiane e
+                                internazionali.
                             </p>
                         </div>
                     </div>
                 </div>
-            </div>open 
+            </div>open
         </div>
 
         <saperne></saperne>
@@ -358,33 +475,39 @@ useHead({
 })
 </script>
 
-<style lang="scss" scoped>
-.workshop {
+<style lang="scss" scoped>.workshop {
     p {
         font-size: 18px;
         letter-spacing: 0;
 
     }
 }
-.info{
-    padding-bottom:50px;
-    p{
+
+.info {
+
+    // padding-bottom:50px;
+    p {
         max-width: 550px;
     }
-    ul{
+
+    ul {
         margin-left: 20px;
         list-style-type: disc;
-        li{
+
+        li {
             padding-bottom: 2px;
         }
     }
 }
-.logo-wrapper{
+
+.logo-wrapper {
     max-width: 320px;
-    img.logo{
-    width: 150px;
+
+    img.logo {
+        width: 150px;
+    }
 }
-}
+
 .more_btn {
     transition: background-color 0.5s, color 0.5s;
     background-color: #EEEAEC;
