@@ -8,7 +8,7 @@
 
                 </p>
                 <p class="pt-4">
-                    A completare la formazione curricolare sia aggiungono i workshop interclasse: corsi intensivi della durata di una settimana, in cui docenti e professionisti di fama internazionale guidano gli studenti in vere e proprie esperienze di progetto, a stretto contatto con aziende, enti e istituzioni che sollecitano il confronto con le problematiche dal mondo reale. In questi workshop gli studenti dei tre anni si distribuiscono trasversalmente, mescolandosi: si realizza così un positivo scambio di conoscenze tra i nuovi arrivati e i più esperti, che rafforza il senso di comunità e di collaborazione.
+                    A completare la formazione curricolare sia aggiungono i <a href="/workshop">workshop interclasse</a>: corsi intensivi della durata di una settimana, in cui docenti e professionisti di fama internazionale guidano gli studenti in vere e proprie esperienze di progetto, a stretto contatto con aziende, enti e istituzioni che sollecitano il confronto con le problematiche dal mondo reale. In questi workshop gli studenti dei tre anni si distribuiscono trasversalmente, mescolandosi: si realizza così un positivo scambio di conoscenze tra i nuovi arrivati e i più esperti, che rafforza il senso di comunità e di collaborazione.
 
 
                     
@@ -34,7 +34,7 @@
                         <ul>3 semestre
                         <li>Lab. di Design della cultura digitale</li>
                         <li>Immagini II</li>
-                        <li>Teoria dei linguaggi audiovisi</li>
+                        <li>Teoria dei linguaggi audiovisivi</li>
                         <li>Attività a scelta</li>
                         </ul>    
                     </div>
