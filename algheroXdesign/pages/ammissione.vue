@@ -91,7 +91,7 @@
                     </div>
                 </div>
                 <div class="grid grid-cols-2 gap-x-6 mb-12 border-b border-black">
-                    <div class="bg-slate-100"><img src="/img/admission-a38.jpg" alt="" /></div>
+                    <div class="bg-slate-100"><img src="/img/admission-a53.jpg" alt="" /></div>
                     <div>
                         <p>La prova, relativa alla traccia A, visualizza le esperienze e le passioni che hanno motivato
                             la scelta di studiare design. Ogni riquadro sintetizza visivamente una passione
@@ -102,7 +102,7 @@
                     </div>
                 </div>
                 <div class="grid grid-cols-2 gap-x-6 mb-12 border-b border-black">
-                    <div class="bg-slate-100"><img src="/img/admission-a53.jpg" alt="" /></div>
+                    <div class="bg-slate-100"><img src="/img/admission-a38.jpg" alt="" /></div>
                     <div>
                         <p>La prova, relativa alla traccia B, visualizza il famoso proverbio
                             sfruttando le leggi della Gestalt. Attraverso un raffinato gioco di pieni e vuoti, la
