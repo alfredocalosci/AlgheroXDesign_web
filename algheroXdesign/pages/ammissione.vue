@@ -123,19 +123,20 @@
                 <p class="pb-4">
                 <h4> Una nota del presidente del corso di Laurea, Nicolò Ceccarelli</h4>
 
-                <p>Lo scorso settembre quasi 60 candidate/i sono state impegnate/i nelle prove per
-                    l'ammissione a Design qui ad Alghero. Prove (quella pratica grafico testuale, e il colloquio) con i
-                    risultati delle quali redigiamo la graduatoria delle ammesse/i.
-                </p>
                 <p>
 
-                    Siamo ben consci di come queste prove, e il percorso stesso di selezione, possa essere duro, anche
-                    frustrante, in particolar modo per chi poi non viene selezionato.
+                    Lo scorso settembre quasi 60 candidate/i sono state impegnate/i nelle prove per l’ammissione a
+                    Design qui ad Alghero. Una prova pratica grafico testuale, e un colloquio, grazie ai quali redigere
+                    la graduatoria delle ammesse/i.
                 </p>
                 <p>
-                    Anche per questo motivo abbiamo configurato le prove per coinvolgere i partecipanti in una
+                    Siamo ben consci di come queste prove, e il percorso stesso di selezione, possano essere duri, anche
+                    frustranti, in particolar modo per chi poi non viene selezionato.
+                </p>
+                <p>
+                    Anche per questo motivo abbiamo configurato le prove: per coinvolgere chi partecipa in una
                     esperienza, in un momento magari complesso, difficile, che però sia coinvolgente e inclusivo.
-                    E quindi la prova pratica vuol'essere una simulazione, quasi un'antipasto di una condizione tipo
+                    E quindi la prova pratica vuol’essere una simulazione, quasi un’antipasto di una condizione tipo
                     della quotidianità di questo lavoro: domande e tracce imprevedibili, al limite dello spiazzante, che
                     riproducono condizioni in cui designer immancabilmente si ritrova nella sua attività professionale.
                 </p>
@@ -150,9 +151,9 @@
                 <p>
                     A partire da quest'anno abbiamo deciso di chiedere a un collega, un amico designer, di cimentarsi
                     nella prova parallelamente a voi.
-                    Obiettivo è mostrare uno dei modi con cui risolvere il tema assegnato, è un assaggio di come, volta
-                    acquisiti gli elementi propri del mestiere, i designer e le designer mature può rispondere alle
-                    sfide, spesso davvero impreviste, del mestiere.
+                    Obiettivo è mostrare uno dei modi con cui risolvere il tema assegnato, è un assaggio di come, una
+                    volta acquisiti gli elementi propri del mestiere, i designer e le designer mature possano rispondere
+                    alle sfide, spesso davvero impreviste, del mestiere.
                 </p>
                 <p>
                     Parallelamente alla prova dello scorso settembre nel complesso di Santa Chiara Alghero, <a
@@ -162,6 +163,7 @@
                     delle
                     candidate – lo stesso tema.
                 </p>
+
                 <h4>
                     Non svegliare il can che dorme di Stuart Medley
                 </h4>
