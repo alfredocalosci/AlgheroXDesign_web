@@ -77,7 +77,7 @@
 
 
                 </h4>
-                <div class="grid grid-cols-2 gap-x-6 mb-12 border-b border-black">
+                <div class="sm:block sm:grid grid-cols-1 lg:grid grid-cols-2 gap-x-6 mb-12 border-b border-black">
                     <div class="bg-slate-100"><img src="/img/admission-a37.jpg" alt="" /></div>
                     <div>
                         <p>La prova, relativa alla traccia A, denota un'ottima capacità di sintesi e
@@ -85,7 +85,7 @@
                             hanno portato a scegliere il corso di laurea in design. Ottima la padronanza del tratto.</p>
                     </div>
                 </div>
-                <div class="grid grid-cols-2 gap-x-6 mb-12 border-b border-black">
+                <div class="sm:block sm:grid grid-cols-1 lg:grid grid-cols-2 gap-x-6 mb-12 border-b border-black">
                     <div class="bg-slate-100"><img src="/img/admission-a28.jpg" alt="" /></div>
                     <div>
                         <p>La prova, relativa alla traccia A, visualizza le esperienze e le passioni che hanno motivato
@@ -93,7 +93,7 @@
                             contorno, rivelano la curiosità e la passione per l'arte, così come per il design.</p>
                     </div>
                 </div>
-                <div class="grid grid-cols-2 gap-x-6 mb-12 border-b border-black">
+                <div class="sm:block sm:grid grid-cols-1 lg:grid grid-cols-2 gap-x-6 mb-12 border-b border-black">
                     <div class="bg-slate-100"><img src="/img/admission-a53.jpg" alt="" /></div>
                     <div>
                         <p>La prova, relativa alla traccia A, visualizza le esperienze e le passioni che hanno motivato
@@ -104,7 +104,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="grid grid-cols-2 gap-x-6 mb-12 border-b border-black">
+                <div class="sm:block sm:grid grid-cols-1 lg:grid grid-cols-2 gap-x-6 mb-12 border-b border-black">
                     <div class="bg-slate-100"><img src="/img/admission-a38.jpg" alt="" /></div>
                     <div>
                         <p>La prova, relativa alla traccia B, visualizza il famoso proverbio
