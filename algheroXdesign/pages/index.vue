@@ -59,7 +59,7 @@
             <!-- colonna sinistra-->
             <div>
                 <div class="blocco mb-0 sm:mb-4" id="perche">
-                    <img src="/img/studiare.png" alt="" class="w-full">
+                    <img src="/img/studiare.jpg" alt="" class="w-full">
                     <h2 class="px-4 absolute top-[5vh] left-0 text-white text-[70px] leading-[90%]  tracking-[-.05em]">
                         Perché design ad Alghero?</h2>
                     <NuxtLink to="/studiare-ad-alghero" class="button absolute bottom-4 left-4">Si può!</NuxtLink>
@@ -107,7 +107,6 @@
                     <a href="http://www.2coconference.org" target="_blank" class="button absolute bottom-4 left-4">Wow</a>
                 </div>
                 -->
-
             </div>
 
             <!-- colonna destra-->
@@ -119,6 +118,18 @@
                         la Sardegna.
                     </h2>
                 </div>
+                <!-- test ammissione -->
+                <div class="blocco mb-0 sm:mb-4" id="2co">
+                    <img src="/img/ammissione.jpg" alt="" class="w-full object-fit">
+                    <div class="absolute top-8 left-4 w-[90%] text-black">
+                        <h2>Guida al test di ammissione</h2>
+                        <p>Come funziona? Cosa serve fare? </p>
+                    </div>
+                    <a href="/ammissione" target="_blank"
+                        class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
+                </div>
+
+
                 <!-- 2co4 -->
                 <div class="blocco mb-0 sm:mb-4" id="2co">
                     <img src="/img/2co4.svg" alt="" class="w-full object-fit">
@@ -130,15 +141,6 @@
                         class="button absolute bottom-4 left-4">Wow</a>
                 </div>
 
-                <div class="blocco mb-0 sm:mb-4" id="2co">
-                    <img src="/img/ammissione.jpg" alt="" class="w-full object-fit">
-                    <div class="absolute top-8 left-4 w-[90%] text-black">
-                        <h2>Guida al test di ammissione</h2>
-                        <p>Come funziona? Cosa serve fare? </p>
-                    </div>
-                    <a href="/ammissione" target="_blank"
-                        class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
-                </div>
 
                 <!-- play alghero -->
                 <div class="blocco mb-0 sm:mb-4" id="play">
