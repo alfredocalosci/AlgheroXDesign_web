@@ -80,16 +80,17 @@
                     Per questa ragione, questa parecipazione dev'essere continuativa e attiva.
                 </p>
 
-                <h4 class="pt-8">Elenco dei laboratori attivati per lA.A. 24/25</h4>
+                <h4 class="pt-8">Elenco dei laboratori attivati per l'A.A. 24/25</h4>
 
                 <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">
                     <!-- WS-->
                     <div class="grid grid-cols-8 workshop mb-2  border-b border-black">
 
-                        <div class="col-span-6">
-                            <h4 class="pt-8">Lab. di Architettura Informative</h4>
-                            <p>Nicolò Ceccarelli, Nada Beretic</p>
-                            <p>Exhibit design, Engagement design, Information design, Heritage, Animazione</p>
+                        <div class="col-span-7">
+                            <h4 class="pt-8">Lab. di Architetture Informative</h4>
+                            <p>Nicolò Ceccarelli, Nađa Beretić, Sara Vignoli</p>
+                            <p class="small">Exhibit design, Engagement design, Information design, Heritage,
+                                Animazione, Design e Artigianato</p>
                         </div>
                         <div class="py-4 justify-self-end self-center ">
                             <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
@@ -97,24 +98,27 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
 
-                            <p>Il titolo del laboratorio rimanda a una felice termine di Richard Saul Wurman, architetto
+                            <p>Architetture informative rimanda a una felice termine di Richard Saul Wurman, architetto
                                 e poi influente designer dell'informazione (è uno dei fondatori, nel 1984, degli eventi
-                                TED), che per primo, proprio con questa definizione, tratteggiò l’esteso campo che
+                                TED), che per primo, proprio con questa definizione, tratteggiò l'esteso territorio che
                                 abbraccia il campo, e le professionalità, del progetto dell'informazione.
-
-                                Il laboratorio non si articola su una tematica principale ma abbraccia filoni.
-
+                            </p><br />
+                            <p>
+                                Il laboratorio non si articola su una tematica principale ma abbraccia più filoni:<br />
                                 exhibit design; design informativo e progettazione di architetture di informazioni;
                                 comunicazione audiovisuale, animazione; gamification, engagement ludico;
-                                design e artigianato; design per il territorio; heritage design
-
+                                design e artigianato; design per il territorio; heritage design.
+                            </p><br />
+                            <p>
                                 Questi gli indirizzi principali del laboratorio, che non escludono però di poter
-                                lavorare su altre aree, o di incrociare i temi.
-                                Un progetto di esposizione sull’artigianato, un progetto di 'animazione' informativa a
-                                lato di un’esposizione, per esempio potrebbero essere ugualmente interessanti.
+                                lavorare su altre aree, o su loro intrecci: un progetto di esposizione
+                                sull'artigianato…un progetto di 'animazione' informativa a lato di un'esposizione,
+                                potrebbero per esempio essere ugualmente interessanti e funzionare perfettamente.
+                            </p><br />
+                            <p>
                                 Non è da poi escludere la possibilità di interazioni con soggetti altri coinvolti come
-                                'co-relatori’, tipicamente, quando il lavoro che si affronta tocca tematiche, aspetti
-                                tecnologici specifici, ecc. che richiedono un supporto specifico…
+                                'co-relatori', tipicamente, quando il lavoro che si affronta tocca tematiche, aspetti
+                                tecnologici specifici, ecc. che richiedono un supporto specifico…<br />
                                 Il coinvolgimento di soggetti esterni – enti, aziende, artigiani, iniziative
                                 imprenditoriali – è anzi è del tutto auspicabile.</p>
                             <br />
@@ -123,10 +127,10 @@
 
                     <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
 
-                        <div class="col-span-6">
+                        <div class="col-span-7">
                             <h4 class="pt-8">Laboratorio di information experience</h4>
                             <p>Matteo Moretti</p>
-                            <p>Digital Design, Social Desig, Data storytelling</p>
+                            <p class="small">Digital Design, Social Design, Data storytelling</p>
                         </div>
                         <div class="py-4 justify-self-end self-center">
                             <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
@@ -216,8 +220,18 @@ useHead({
 
 
 <style lang="scss" scoped>
+.workshop h4 {
+    line-height: 100%;
+}
+
 .workshop p {
     font-size: 20px;
+}
+
+.workshop p.small {
+    font-size: 14px;
+    margin-bottom: 4px;
+    font-style: italic;
 }
 
 .info {
