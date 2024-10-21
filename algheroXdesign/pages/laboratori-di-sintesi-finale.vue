@@ -98,7 +98,7 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
 
-                            <p>Architetture informative rimanda a una felice termine di Richard Saul Wurman, architetto
+                            <p>Architetture informative rimanda a un felice termine di Richard Saul Wurman, architetto
                                 e poi influente designer dell'informazione (è uno dei fondatori, nel 1984, degli eventi
                                 TED), che per primo, proprio con questa definizione, tratteggiò l'esteso territorio che
                                 abbraccia il campo, e le professionalità, del progetto dell'informazione.
@@ -116,11 +116,11 @@
                                 potrebbero per esempio essere ugualmente interessanti e funzionare perfettamente.
                             </p><br />
                             <p>
-                                Non è da poi escludere la possibilità di interazioni con soggetti altri coinvolti come
+                                Non è poi da escludere la possibilità di interazioni con soggetti altri coinvolti come
                                 'co-relatori', tipicamente, quando il lavoro che si affronta tocca tematiche, aspetti
                                 tecnologici specifici, ecc. che richiedono un supporto specifico…<br />
                                 Il coinvolgimento di soggetti esterni – enti, aziende, artigiani, iniziative
-                                imprenditoriali – è anzi è del tutto auspicabile.</p>
+                                imprenditoriali – è anzi del tutto auspicabile.</p>
                             <br />
                         </div>
                     </div>
@@ -137,15 +137,51 @@
                         </div>
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
-                            <p>Il termine si riferisce a esperienze progettate per informare un pubblico su tematiche
-                                complesse attraverso media digitali, combinando design dell'informazione, esperienza
-                                utente e design dell'interazione. L'obiettivo è avvicinare le persone alle informazioni,
-                                stimolando nuove forme di cittadinanza attiva. La progettazione può avvenire tramite
-                                video, animazioni, o progetti digitali e phygital. Il laboratorio include
-                                lezioni sull'information experience e sessioni di revisione individuali per lo sviluppo
-                                del progetto finale, che prevede documentazione dettagliata e riflessioni critiche.
-                                Progetti collaborativi con aziende o organizzazioni sono incoraggiati, così come
-                                l'integrazione con esperti e altri docenti.
+                            <p>Il termine si riferisce a esperienze progettate per informare il pubblico su tematiche
+                                complesse utilizzando media digitali, combinando design dell’informazione, user
+                                experience e interaction design. <br />L’obiettivo principale è rendere le
+                                informazioni
+                                più accessibili, promuovendo nuove forme di cittadinanza attiva. Questi progetti possono
+                                essere sviluppati attraverso video, animazioni o soluzioni digitali e phygital.
+                                <br /><br />Il
+                                laboratorio offre lezioni dedicate all’information experience e prevede sessioni di
+                                revisione individuali per lo sviluppo del progetto finale, che richiede una
+                                documentazione dettagliata e riflessioni critiche. <br />Sono incoraggiati
+                                progetti
+                                collaborativi con aziende o organizzazioni, così come l’integrazione di esperti esterni
+                                e altri docenti.
+                            </p>
+
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
+
+                        <div class="col-span-7">
+                            <h4 class="pt-8">Laboratorio Design delle cose</h4>
+                            <p>Marco Sironi</p>
+                            <p class="small">Design del prodotto, Design e luoghi, fare-pensare</p>
+                        </div>
+                        <div class="py-4 justify-self-end self-center">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+                            <p>Il lavoro inizia dalla presa di coscienza del rapporto che ci unisce alle cose: non come
+                                oggetti inerti, ma strumenti, segni, supporti delle infinite pratiche di vita che a loro
+                                volta ci segnano, ci fanno essere “le cose che siamo”.<br />
+                                Propongo un “design delle cose” per distaccarci dall’accezione “produttiva” o
+                                “produttivistica”, e per inaugurare un modo di progettare che sia esercizio di ascolto
+                                attento alle condizioni dell’intorno in cui ci troviamo a operare; capace di cogliervi
+                                le sollecitazioni, le occasioni, gli innesti per azioni di progetto utile, o
+                                necessario.<br />
+                                L’attenzione va alle realtà produttive, alle risorse latenti e da riscoprire, ai saperi
+                                incarnati nel fare e nelle abitudini di tutti: i modi d’uso del mondo, l’intreccio tra
+                                fare e pensare sono le guide sottili che ci accompagnano dentro l’inestricabile
+                                complessità dei fattori culturali – produttivi ed economici, ecologici e sociali – per
+                                rinnovare ogni volta la domanda sul senso del fare progetto. Per inoltrarsi ancora e
+                                ancora nell’intrico delle contraddizioni che segnano l’epoca presente, e che con sempre
+                                maggiore urgenza chiamano in causa l’intervento responsabile del designer, ridefinendone
+                                il ruolo e la figura.
                             </p>
 
                         </div>
