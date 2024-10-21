@@ -77,7 +77,7 @@
                 <h4 class="pt-8">Come è riconosciuta la partecipazione a questi laboratori?</h4>
                 <p>
                     La partecipazione attiva ai laboratori per lo sviluppo dell'elaborato finale, da diritto al
-                    riconoscimento di CFU liberi, ed è assimilato a quelli a ciò previsti al 3 anno.
+                    riconoscimento di CFU liberi, ed è assimilato a quelli a ciò previsti al 3° anno.
                     Per questa ragione, questa partecipazione dev'essere continuativa e attiva.
                 </p>
 
