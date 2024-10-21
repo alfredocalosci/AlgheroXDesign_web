@@ -13,8 +13,8 @@
                 <p>A partire dall'autunno dell'a.a. 24/25 prendono il via le attività dei laboratori di sintesi finale
                     del corso di laurea Triennale in Design.
                     I laboratori sono strutture informali a guida dei docenti di design del corso – che di questo
-                    compito si fanno carico in forma volontaria – a supporto degli studenti impegnati nell'elaborazione
-                    dell'elaborato di fine carriera (già noto in passato come... Tesi di Laurea). Obbiettivo dei
+                    compito si fanno carico in forma volontaria – a supporto degli studenti impegnati nell'realizzazione
+                    dell'elaborato di fine carriera (già noto in passato come... Tesi di Laurea). Obiettivo dei
                     laboratori è offrire una guida alla popolazione studentesca, cercando contestualmente di ottimizzare
                     energie e risorse per il raggiungimento di un risultato importante costituito da un'esercitazione
                     che rappresenti una sintesi esauriente del loro percorso formativo Triennale.
@@ -30,7 +30,7 @@
                     anche interazioni e intrecci verso altre aree tematiche.
                     Non sono poi da escludere interazioni con soggetti altri, che possano seguire le ricerche come
                     'co-relatori'. Il coinvolgimento di soggetti esterni (“enti, aziende, artigiani, iniziative
-                    imprenditoriali”) è anzi è del tutto auspicabile.
+                    imprenditoriali”) è anzi del tutto auspicabile.
 
                 </p>
                 <p class="pt-4">
@@ -43,7 +43,7 @@
                 </p>
                 <p class="pt-4">
                     I laboratori possono quindi essere viste come strutture, 'spazi' di comunità in cui le candidate e i
-                    candidati si confrontano con loro stessi e con i propri relatori, presentando – al grado di
+                    candidati si confrontano con sé stessi e con i propri relatori, presentando – al grado di
                     elaborazione cui il loro lavoro si trova via via – gli sviluppi dei loro sforzi. Ma anche
                     confrontandosi con il come altre/i stanno lavorando.
                     Ai laboratori saranno probabilmente invitati esperti – a fare lezione, a partecipare alle revisioni,
@@ -53,7 +53,7 @@
 
 
                 <h4 class="pt-8">Ma come funzionano?</h4>
-                <p>Il laboratorio, ognuno dei quai si organizzerà indipendentemente, si articola idealmente in incontri
+                <p>Il laboratorio, ognuno dei quali si organizzerà indipendentemente, si articola idealmente in incontri
                     periodici, la cui frequenza può variare in funzione del periodo dell'anno.
                     Gli incontri possono essere plenari – comuni a tutti o a più laboratori per le comunicazioni più
                     generali – e specifici di laboratorio.<br />
@@ -64,7 +64,8 @@
 
 
                 <h4 class="pt-8">La cadenza? </h4>
-                <p>Da incontri ogni tre settimane/un mese a più fitti, in determinati periodi dell'anno (modo tra marzo
+                <p>Da incontri ogni tre settimane/un mese a più fitti, in determinati periodi dell'anno (idealmente tra
+                    marzo
                     e novembre…in preparazione delle sessioni).
 
                     Presenteremo in via generale l'offerta dei laboratori di sintesi nelle prossime settimane.
@@ -77,7 +78,7 @@
                 <p>
                     La partecipazione attiva ai laboratori per lo sviluppo dell'elaborato finale, da diritto al
                     riconoscimento di CFU liberi, ed è assimilato a quelli a ciò previsti al 3 anno.
-                    Per questa ragione, questa parecipazione dev'essere continuativa e attiva.
+                    Per questa ragione, questa partecipazione dev'essere continuativa e attiva.
                 </p>
 
                 <h4 class="pt-8">Elenco dei laboratori attivati per l'A.A. 24/25</h4>
