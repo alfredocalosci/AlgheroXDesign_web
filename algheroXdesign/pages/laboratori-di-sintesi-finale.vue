@@ -10,7 +10,7 @@
             <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 ">
 
 
-                <p>A partire dall'autunno dell'a.a. 23/23 prendono il via le attività dei laboratori di sintesi finale
+                <p>A partire dall'autunno dell'a.a. 24/25 prendono il via le attività dei laboratori di sintesi finale
                     del corso di laurea Triennale in Design.
                     I laboratori sono strutture informali a guida dei docenti di design del corso – che di questo
                     compito si fanno carico in forma volontaria – a supporto degli studenti impegnati nell'elaborazione
