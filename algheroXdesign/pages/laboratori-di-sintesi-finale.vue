@@ -128,7 +128,7 @@
                     <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
 
                         <div class="col-span-7">
-                            <h4 class="pt-8">Laboratorio di information experience</h4>
+                            <h4 class="pt-8">Lab. di Information experience</h4>
                             <p>Matteo Moretti</p>
                             <p class="small">Digital Design, Social Design, Data storytelling</p>
                         </div>
@@ -157,7 +157,7 @@
                     <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
 
                         <div class="col-span-7">
-                            <h4 class="pt-8">Laboratorio Design delle cose</h4>
+                            <h4 class="pt-8">Lab. Design delle cose</h4>
                             <p>Marco Sironi</p>
                             <p class="small">Design del prodotto, Design e luoghi, fare-pensare</p>
                         </div>
