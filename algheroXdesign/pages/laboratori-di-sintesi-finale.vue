@@ -203,9 +203,9 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
                             
-                            <p>Il tema centrale del laboratorio è l’esplorazione delle potenzialità della programmazione creativa nella progettazione di prodotti e servizi digitali per la comunicazione.</p>
+                            <p class="mb-2">Il tema centrale del laboratorio è l’esplorazione delle potenzialità della programmazione creativa nella progettazione di prodotti e servizi digitali per la comunicazione.</p>
 
-                            <p>Le enormi possibilità espressive offerte dal remix dei media digitali, unite alla sperimentazione di nuove modalità e dispositivi per l’interazione, configurano un campo della progettazione diffuso che si muove a cavallo tra la pura sperimentazione tecnologica, il design expositivo, l’arte concettuale e il design critico, adottando un quadro concettuale di riferimento che si sta progressivamente consolidando intorno all’archeologia dei media.</p>
+                            <p class="mb-2">Le enormi possibilità espressive offerte dal remix dei media digitali, unite alla sperimentazione di nuove modalità e dispositivi per l’interazione, configurano un campo della progettazione diffuso che si muove a cavallo tra la pura sperimentazione tecnologica, il design expositivo, l’arte concettuale e il design critico, adottando un quadro concettuale di riferimento che si sta progressivamente consolidando intorno all’archeologia dei media.</p>
 
                             <p>Nonostante il forte carattere sperimentale, la linea di ricerca del laboratorio ha un orientamento applicato e prende le distanze da attività puramente speculative o autoreferenziali. Gli studenti sono vivamente invitati a individuare un contesto e interlocutori reali con cui sviluppare la parte progettuale della ricerca, rispondendo a un quadro di esigenze concrete.</p>
 
