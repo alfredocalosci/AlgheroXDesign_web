@@ -98,6 +98,16 @@
                     <a href="http://designduo.it/" class="button absolute bottom-4 left-4 text-black border-black"
                         target="_blank">Scopri di più</a>
                 </div>
+                <div class="blocco mb-0 sm:mb-4" id="expo">
+                    <img src="/img/expo-2.jpg" alt="" class="w-full object-fit">
+                    <div class="absolute top-8 left-4 w-[90%]">
+                        <h2>Animazione e Design</h2>
+                        <p>L'esperienza di AlgheroXDesign al servizio dell'expo di Milano</p>
+                    </div>
+
+                    <a href="https://www.youtube.com/watch?v=4WbXogfzRUw"
+                        class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
+                </div>
                 <!--
                 <div class="blocco mb-0 sm:mb-4" id="2co">
                     <img src="@/assets/img/2co.svg" alt="" class="w-full object-fit">
@@ -117,6 +127,16 @@
                         designer di prodotto, della comunicazione e dei servizi, per immaginare, comunicare e innovare
                         la Sardegna.
                     </h2>
+                </div>
+                <!-- BIP -->
+                <div class="blocco mb-0 sm:mb-4" id="2co">
+                    <img src="/img/BIP.jpg" alt="" class="w-full object-fit">
+                    <div class="absolute top-8 left-4 w-[90%] text-white">
+                        <h2>Erasmus Blended Intensive Programme (BIP)</h2>
+                        <p>Un’esperienza internazionale, formativa e creativa!</p>
+                    </div>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSevsbQVM3HThnC-NDzaFne9wqTJkc1pYCap-RYySnVDPhdUHg/viewform?fbclid=PAZXh0bgNhZW0CMTEAAaberIw5Y6xpghk7lMxOkYINfZcRbTdkMtHry9nEcS2ipu7FWDs0jszH-ko_aem_689Nf2dXjmsBxmhTbU8D3A"
+                        target="_blank" class="button absolute bottom-4 left-4 text-white border-white">Iscriviti!</a>
                 </div>
                 <!-- test ammissione -->
                 <div class="blocco mb-0 sm:mb-4" id="2co">
@@ -170,16 +190,7 @@
 
 
 
-                <div class="blocco mb-0 sm:mb-4" id="expo">
-                    <img src="/img/expo-2.jpg" alt="" class="w-full object-fit">
-                    <div class="absolute top-8 left-4 w-[90%]">
-                        <h2>Animazione e Design</h2>
-                        <p>L'esperienza di AlgheroXDesign al servizio dell'expo di Milano</p>
-                    </div>
 
-                    <a href="https://www.youtube.com/watch?v=4WbXogfzRUw"
-                        class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
-                </div>
 
 
 
