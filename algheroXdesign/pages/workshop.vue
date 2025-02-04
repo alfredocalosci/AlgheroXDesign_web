@@ -55,8 +55,22 @@
                     soggetti
                     esterni (enti, aziende, artigiani, iniziative imprenditoriali). </p>
 
-
                 <h4 class="pt-4 pb-4">Edizione 2025 </h4>
+
+
+                <p class="date">Gio 27 Feb | 17.00–19.00</p>
+                <p class="topic">Serata di presentazione</p>
+
+                <p class="date">Ven 28 Feb | 09.00–17.00</p>
+                <p class="topic">Protesta?  Sessione di Warmup</p>
+
+                <p class="date">Ven 28 Feb | 17.00–19.00</p>
+                <p class="topic">Bam Design Talk</p>
+                <p class="date">Lun 3 – Ven 7 Mar | 09.00 - 19.00 </p>
+                <p class="topic">Workshop</p>
+
+
+                <h4 class="pt-4 pb-4">Workshop </h4>
                 <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">
                     <!-- WS-->
 
@@ -64,7 +78,8 @@
                         <img class="pic hidden sm:block " alt="foto di Martina Labarta" src="/img/ws-25-labarta.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Martina Labarta</strong></p>
-                            <p class="italic">Design e Gender: per una maggiore consapevolezza progettuale
+                            <p class="italic">Design e Gender: per una maggiore consapevolezza
+                                progettuale
                             </p>
                         </div>
                         <div class="py-4 justify-self-end self-center ">
@@ -73,23 +88,35 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
 
-                            <p>Il workshop esplora il tema della rappresentazione di genere nel design dei prodotti, per
-                                sfidare convenzioni e pregiudizi e promuovere un approccio progettuale più inclusivo.
-                                Attraverso analisi critiche, esercizi pratici e discussioni, impareremo a riconoscere
-                                elementi di genere nei prodotti e acquisiremo strumenti per integrare la consapevolezza
-                                di genere nel processo progettuale, sviluppando strategie in grado incidere sul piano
+                            <p>Il workshop esplora il tema della rappresentazione di genere nel design
+                                dei prodotti, per
+                                sfidare convenzioni e pregiudizi e promuovere un approccio progettuale
+                                più inclusivo.
+                                Attraverso analisi critiche, esercizi pratici e discussioni, impareremo
+                                a riconoscere
+                                elementi di genere nei prodotti e acquisiremo strumenti per integrare la
+                                consapevolezza
+                                di genere nel processo progettuale, sviluppando strategie in grado
+                                incidere sul piano
                                 sociale e culturale.
 
                             </p>
                             <br />
-                            <p class="italic">Martina Labarta è una designer e ricercatrice specializzata in
-                                sostenibilità, product design e processi inclusivi. Dottoranda in Design Research al
-                                Politecnico di Milano, si occupa di design di prodotto per soluzioni sostenibili.
-                                Ha una laurea magistrale in Design & Engineering (Politecnico di Milano) e una triennale
-                                in Ingegneria Industriale (Università di Saragozza). Ha presentato ricerche su design
+                            <p class="italic">Martina Labarta è una designer e ricercatrice
+                                specializzata in
+                                sostenibilità, product design e processi inclusivi. Dottoranda in Design
+                                Research al
+                                Politecnico di Milano, si occupa di design di prodotto per soluzioni
+                                sostenibili.
+                                Ha una laurea magistrale in Design & Engineering (Politecnico di Milano)
+                                e una triennale
+                                in Ingegneria Industriale (Università di Saragozza). Ha presentato
+                                ricerche su design
                                 gender-neutral e pratiche sostenibili in conferenze come Cumulus.
-                                Con esperienza come assistente alla didattica e tutor di workshop per aziende come
-                                Brembo e Barilla, Martina combina competenze tecniche in CAD e LCA con un approccio
+                                Con esperienza come assistente alla didattica e tutor di workshop per
+                                aziende come
+                                Brembo e Barilla, Martina combina competenze tecniche in CAD e LCA con
+                                un approccio
                                 creativo per affrontare sfide complesse.
                             </p>
                             <br />
@@ -101,7 +128,7 @@
                         <div class="col-span-6 p-4">
                             <p><strong>Claudia Piredda</strong></p>
 
-                            <p class="italic">Mostrare l’introvabile
+                            <p class="italic">Mostrare l'introvabile
                             </p>
                         </div>
                         <div class="py-4 justify-self-end self-center">
@@ -109,21 +136,32 @@
                         </div>
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
-                            <p>Nel suo Catalogo di oggetti introvabili (1969), l’illustratore, artista e designer,
-                                Jaques Carelman si proponeva– in perfetta aderenza con le esplorazioni del movimento
-                                Francese patafisico cui aderiva – di dirottare l’uso corrente di oggetti comuni.
-                                Ripercorrerne le provocazioni e metterle in mostra può essere un’occasione per
-                                riflettere sull’universo trovabilissimo della super-produzione di oggetti in cui oggi il
+                            <p>Nel suo Catalogo di oggetti introvabili (1969), l'illustratore, artista e
+                                designer,
+                                Jaques Carelman si proponeva– in perfetta aderenza con le esplorazioni
+                                del movimento
+                                Francese patafisico cui aderiva – di dirottare l'uso corrente di oggetti
+                                comuni.
+                                Ripercorrerne le provocazioni e metterle in mostra può essere
+                                un'occasione per
+                                riflettere sull'universo trovabilissimo della super-produzione di
+                                oggetti in cui oggi il
                                 pianeta va sprofondando.
                             </p><br />
-                            <p class="italic">Claudia Piredda, architetta laureata presso l'Università degli Studi di
-                                Alghero, lavora dal 2021 a Stoccarda come interior architect ed exhibition designer
-                                presso Atelier Brückner. Ha contribuito a progetti internazionali di rilievo, tra cui
-                                EUROPA EXPERIENCE, il State Museum of Arts of Uzbekistan di Tadao Ando e il Lindt Museum
+                            <p class="italic">Claudia Piredda, architetta laureata presso l'Università
+                                degli Studi di
+                                Alghero, lavora dal 2021 a Stoccarda come interior architect ed
+                                exhibition designer
+                                presso Atelier Brückner. Ha contribuito a progetti internazionali di
+                                rilievo, tra cui
+                                EUROPA EXPERIENCE, il State Museum of Arts of Uzbekistan di Tadao Ando e
+                                il Lindt Museum
                                 di Vienna.
                                 <br />
-                                Grazie alla sua esperienza internazionale, adotta un approccio progettuale distintivo,
-                                combinando estetica, funzionalità e narrazione per creare spazi innovativi e
+                                Grazie alla sua esperienza internazionale, adotta un approccio
+                                progettuale distintivo,
+                                combinando estetica, funzionalità e narrazione per creare spazi
+                                innovativi e
                                 coinvolgenti.
 
 
@@ -143,22 +181,34 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
 
-                            <p>Tema del laboratorio è la progettazione di esperienze ludiche grazie cui stimolando,
-                                incuriosendo e motivando il pubblico, promuovere il patrimonio dei Beni Culturali.
-                                Lavorando per gruppi su un argomento specifico e attorno a un target di destinatari,
-                                progetteremo un percorso d’interazione sulla base del quale sviluppare un prototipo,
-                                caratterizzato da azioni semplici e coinvolgenti che, sulla base di meccaniche ed
+                            <p>Tema del laboratorio è la progettazione di esperienze ludiche grazie cui
+                                stimolando,
+                                incuriosendo e motivando il pubblico, promuovere il patrimonio dei Beni
+                                Culturali.
+                                Lavorando per gruppi su un argomento specifico e attorno a un target di
+                                destinatari,
+                                progetteremo un percorso d'interazione sulla base del quale sviluppare
+                                un prototipo,
+                                caratterizzato da azioni semplici e coinvolgenti che, sulla base di
+                                meccaniche ed
                                 elementi di gioco “aperto”, possa innescare un dialogo con il pubblico.
 
                             </p><br />
 
-                            <p class="italic">PhD in Architettura e Ambiente, RTDA in Design presso l’Università di
-                                Sassari. Il suo lavoro di ricerca si articola tra i temi del paesaggio culturale e
-                                dell’urban design come strumento per valorizzare le identità locali e la promozione dei
-                                territori. Dal 2012 condivide la responsabilità del programma Public art & Public space
-                                – PaPs, alla Facoltà di Architettura dell’Università di Belgrado. Collabora da anni ai
-                                progetti e alle ricerche del Laboratorio AnimazioneDesign, esplorando le modalità con
-                                cui l’unione tra design ed esperienze ludiche possa contribuire a promuovere l’idea di
+                            <p class="italic">PhD in Architettura e Ambiente, RTDA in Design presso
+                                l'Università di
+                                Sassari. Il suo lavoro di ricerca si articola tra i temi del paesaggio
+                                culturale e
+                                dell'urban design come strumento per valorizzare le identità locali e la
+                                promozione dei
+                                territori. Dal 2012 condivide la responsabilità del programma Public art
+                                & Public space
+                                – PaPs, alla Facoltà di Architettura dell'Università di Belgrado.
+                                Collabora da anni ai
+                                progetti e alle ricerche del Laboratorio AnimazioneDesign, esplorando le
+                                modalità con
+                                cui l'unione tra design ed esperienze ludiche possa contribuire a
+                                promuovere l'idea di
                                 heritage.
 
                             </p>
@@ -180,35 +230,53 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
 
-                            <p>Branca dell’animazione stop-motion nella quale ad essere animato è il corpo umano, dal
-                                magistrale Neighbours di Norman Mclaren nel 1952, la Pixillation compare regolarmente in
-                                film, corti animati, videoclip. L’impiego di personaggi in carne ed ossa,
-                                meticolosamente animati come pupazzi di fronte alla fotocamera, permette infatti di
-                                ottenere effetti di straordinario impatto visivo. Nel workshop esploreremo questa
-                                tecnica, animando, ma anche recitando direttamente…per realizzare storie che si
-                                fonderanno, come in un bazaar… con i linguaggi di altri due precedenti illustri: i
-                                geniali spot televisivi degli anni ’60 e ’70 della serie Gringo, e l’interpretazione
-                                tipo-fotografica della pièce teatrale di Eugene Ionesco ‘La cantante calva’ realizzata
+                            <p>Branca dell'animazione stop-motion nella quale ad essere animato è il
+                                corpo umano, dal
+                                magistrale Neighbours di Norman Mclaren nel 1952, la Pixillation compare
+                                regolarmente in
+                                film, corti animati, videoclip. L'impiego di personaggi in carne ed
+                                ossa,
+                                meticolosamente animati come pupazzi di fronte alla fotocamera, permette
+                                infatti di
+                                ottenere effetti di straordinario impatto visivo. Nel workshop
+                                esploreremo questa
+                                tecnica, animando, ma anche recitando direttamente…per realizzare storie
+                                che si
+                                fonderanno, come in un bazaar… con i linguaggi di altri due precedenti
+                                illustri: i
+                                geniali spot televisivi degli anni '60 e '70 della serie Gringo, e
+                                l'interpretazione
+                                tipo-fotografica della pièce teatrale di Eugene Ionesco 'La cantante
+                                calva' realizzata
                                 da Massin in quegli stessi anni.
 
 
                             </p>
                             <br />
-                            <p class="italic">Nicolo Ceccarelli<br />Insegna Design presso il DADU di Alghero
-                                (Università di Sassari), dove dirige l’unità di ricerca AnimazioneDesign ed è presidente
-                                del nuovo corso di studi Triennale in Design. La sua passione per l’architettura delle
-                                informazioni lo ha portato a fondare l’iniziativa internazionale 2CO COmmunicating
-                                COmplexity, di cui è chair. Si occupa di animazione, visual design e design
-                                dell’identità, design e artigianato, design di allestimenti,
-                                mentre è molto incuriosito dalle ‘nuove’ modalità didattiche a distanza. Più
-                                recentemente, si è occupato di gamification per la divulgazione dei beni culturali e del
+                            <p class="italic">Nicolo Ceccarelli<br />Insegna Design presso il DADU di
+                                Alghero
+                                (Università di Sassari), dove dirige l'unità di ricerca AnimazioneDesign
+                                ed è presidente
+                                del nuovo corso di studi Triennale in Design. La sua passione per
+                                l'architettura delle
+                                informazioni lo ha portato a fondare l'iniziativa internazionale 2CO
+                                COmmunicating
+                                COmplexity, di cui è chair. Si occupa di animazione, visual design e
+                                design
+                                dell'identità, design e artigianato, design di allestimenti,
+                                mentre è molto incuriosito dalle 'nuove' modalità didattiche a distanza.
+                                Più
+                                recentemente, si è occupato di gamification per la divulgazione dei beni
+                                culturali e del
                                 sapere scientifico.
 
 
                             </p><br />
                             <p class="italic">Ilaria Mundula<br />
-                                Laureata magistrale in architettura con indirizzo design presso il DADU con una tesi
-                                sull'animazione informativa, collabora con il laboratorio di AnimazioneDesign dove porta
+                                Laureata magistrale in architettura con indirizzo design presso il DADU
+                                con una tesi
+                                sull'animazione informativa, collabora con il laboratorio di
+                                AnimazioneDesign dove porta
                                 avanti la sua passione per questa forma di comunicazione.
 
 
@@ -237,12 +305,15 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
 
-                            <p>Dall’<i>atelier populaire</i> ai <i>disobedient objects</i>, la sessione di Warmup invita
+                            <p>Dall'<i>atelier populaire</i> ai <i>disobedient objects</i>, la sessione
+                                di Warmup invita
                                 gli studenti
-                                a confrontarsi con gli strumenti della comunicazione visiva per protestare, manifestare
-                                le proprie istanze, negli spazi dell’università.
+                                a confrontarsi con gli strumenti della comunicazione visiva per
+                                protestare, manifestare
+                                le proprie istanze, negli spazi dell'università.
 
-                                Otto ore di tempo, e quattro docenti a disposizione, ognuno dei quali si confronta con
+                                Otto ore di tempo, e quattro docenti a disposizione, ognuno dei quali si
+                                confronta con
                                 il proprio gruppo di studenti su un medium specifico.
 
 
@@ -271,7 +342,8 @@
                         <div class="col-span-6 p-4">
                             <p><strong>Viola Orgiano</strong></p>
                             <p>Pop-up e Realtà Aumentata</p>
-                            <p class="italic">In collaborazione con l'amministrazione Comunale di Aggius</p>
+                            <p class="italic">In collaborazione con l'amministrazione Comunale di Aggius
+                            </p>
                         </div>
                         <div class="py-4 justify-self-end self-center ">
                             <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
@@ -279,29 +351,44 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
 
-                            <p>I due laboratori <strong>Pop-up</strong> e <strong>Realtà Aumentata</strong> lavoreranno,
-                                in collaborazione con l'Amministrazione Comunale, sul territorio di Aggius, in Gallura,
-                                sviluppando in parallelo artefatti di comunicazione interattiva per raccontare i luoghi,
-                                le storie, le persone, sulle tracce della cultura materiale e immateriale locale.
+                            <p>I due laboratori <strong>Pop-up</strong> e <strong>Realtà
+                                    Aumentata</strong> lavoreranno,
+                                in collaborazione con l'Amministrazione Comunale, sul territorio di
+                                Aggius, in Gallura,
+                                sviluppando in parallelo artefatti di comunicazione interattiva per
+                                raccontare i luoghi,
+                                le storie, le persone, sulle tracce della cultura materiale e
+                                immateriale locale.
                             </p>
                             <p>
-                                Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo comunicativo è
-                                prodotto dall'integrazione tra le dimensioni tutta analogica del pop-up, e virtuale
+                                Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo
+                                comunicativo è
+                                prodotto dall'integrazione tra le dimensioni tutta analogica del pop-up,
+                                e virtuale
                                 della realtà aumentata.
-                                I primi giorni di lavoro saranno quindi dedicati ad apprendere – in parallelo – le
-                                tecniche base per la realizzazione di composizioni pop-up e di piccole integrazioni
+                                I primi giorni di lavoro saranno quindi dedicati ad apprendere – in
+                                parallelo – le
+                                tecniche base per la realizzazione di composizioni pop-up e di piccole
+                                integrazioni
                                 narrative in realtà aumentata.
-                                In una seconda fase i due laboratori si fonderanno, dando vita a gruppi ibridi in cui le
-                                le due competenze si fonderanno, per realizzare alcuni prodotti finiti di pop-up
+                                In una seconda fase i due laboratori si fonderanno, dando vita a gruppi
+                                ibridi in cui le
+                                le due competenze si fonderanno, per realizzare alcuni prodotti finiti
+                                di pop-up
                                 aumentati. </p><br />
-                            <p class="italic">Laureata in architettura, Viola Orgiano è una visual designer con un focus
+                            <p class="italic">Laureata in architettura, Viola Orgiano è una visual
+                                designer con un focus
                                 distintivo sul
-                                design multisensoriale. Viola ha collaborato stabilmente con il laboratorio
+                                design multisensoriale. Viola ha collaborato stabilmente con il
+                                laboratorio
                                 animazionedesign
-                                del DADU negli ultimi due anni, partecipando a vari progetti di ricerca e ricerca
+                                del DADU negli ultimi due anni, partecipando a vari progetti di ricerca
+                                e ricerca
                                 applicata.
-                                Ha presentato il suo progetto di laurea Magistrale, incentrato sul paper design nel
-                                corso della 10 edizione della conferenza internazionale CONFIA23 in Portogallo.</p>
+                                Ha presentato il suo progetto di laurea Magistrale, incentrato sul paper
+                                design nel
+                                corso della 10 edizione della conferenza internazionale CONFIA23 in
+                                Portogallo.</p>
                             <br />
                         </div>
                     </div>
@@ -311,35 +398,51 @@
                         <div class="col-span-6 p-4">
                             <p><strong>Daniele Murgia</strong></p>
                             <p>Pop-up e Realtà Aumentata</p>
-                            <p class="italic">In collaborazione con l'amministrazione Comunale di Aggius</p>
+                            <p class="italic">In collaborazione con l'amministrazione Comunale di Aggius
+                            </p>
                         </div>
                         <div class="py-4 justify-self-end self-center">
                             <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
                         </div>
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
-                            <p>I due laboratori <strong>Pop-up</strong> e <strong>Realtà Aumentata</strong> lavoreranno,
-                                in collaborazione con l'Amministrazione Comunale, sul territorio di Aggius, in Gallura,
-                                sviluppando in parallelo artefatti di comunicazione interattiva per raccontare i luoghi,
-                                le storie, le persone, sulle tracce della cultura materiale e immateriale locale.
+                            <p>I due laboratori <strong>Pop-up</strong> e <strong>Realtà
+                                    Aumentata</strong> lavoreranno,
+                                in collaborazione con l'Amministrazione Comunale, sul territorio di
+                                Aggius, in Gallura,
+                                sviluppando in parallelo artefatti di comunicazione interattiva per
+                                raccontare i luoghi,
+                                le storie, le persone, sulle tracce della cultura materiale e
+                                immateriale locale.
                             </p>
                             <p>
-                                Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo comunicativo è
-                                prodotto dall'integrazione tra le dimensioni tutta analogica del pop-up, e virtuale
+                                Obiettivo finale sarà realizzare alcune cartoline animate, il cui nucleo
+                                comunicativo è
+                                prodotto dall'integrazione tra le dimensioni tutta analogica del pop-up,
+                                e virtuale
                                 della realtà aumentata.</p>
                             <p>
-                                I primi giorni di lavoro saranno quindi dedicati ad apprendere – in parallelo – le
-                                tecniche base per la realizzazione di composizioni pop-up e di piccole integrazioni
+                                I primi giorni di lavoro saranno quindi dedicati ad apprendere – in
+                                parallelo – le
+                                tecniche base per la realizzazione di composizioni pop-up e di piccole
+                                integrazioni
                                 narrative in realtà aumentata. </p>
                             <p>
-                                In una seconda fase i due laboratori si fonderanno, dando vita a gruppi ibridi in cui le
-                                le due competenze si fonderanno, per realizzare alcuni prodotti finiti di pop-up
+                                In una seconda fase i due laboratori si fonderanno, dando vita a gruppi
+                                ibridi in cui le
+                                le due competenze si fonderanno, per realizzare alcuni prodotti finiti
+                                di pop-up
                                 aumentati. </p><br />
-                            <p class="italic">Dottorando in Architettura e Ambiente presso l'Università di Sassari,
-                                concentra la sua ricerca sugli artefatti digitali per favorire l'accesso alla conoscenza
-                                e la comprensione di fenomeni complessi. Ha lavorato come assistente di Interaction
-                                Design presso il Dipartimento Ambiente Costruzione e Design SUPSI di Mendrisio e
-                                insegnato Creative Coding presso l'Accademia di Belle Arti di Genova. In qualità di
+                            <p class="italic">Dottorando in Architettura e Ambiente presso l'Università
+                                di Sassari,
+                                concentra la sua ricerca sugli artefatti digitali per favorire l'accesso
+                                alla conoscenza
+                                e la comprensione di fenomeni complessi. Ha lavorato come assistente di
+                                Interaction
+                                Design presso il Dipartimento Ambiente Costruzione e Design SUPSI di
+                                Mendrisio e
+                                insegnato Creative Coding presso l'Accademia di Belle Arti di Genova. In
+                                qualità di
                                 libero professionista lavora nel campo dell'Interaction e Sound Design.
                             </p>
 
@@ -360,38 +463,57 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
 
-                            <p>Grande protagonista delle sperimentazioni ludiche del progetto Play-Alghero è una miscela
-                                di granuli di gomma e resina il cui uso primario si incontra nei campi sportivi e parchi
-                                giochi. Malleabile, morbida ed estremamente plasmabile, la mescola – il progetto
-                                Algherese lo ha dimostrato in modo eloquente –si presta ad essere trattata come sistema
+                            <p>Grande protagonista delle sperimentazioni ludiche del progetto
+                                Play-Alghero è una miscela
+                                di granuli di gomma e resina il cui uso primario si incontra nei campi
+                                sportivi e parchi
+                                giochi. Malleabile, morbida ed estremamente plasmabile, la mescola – il
+                                progetto
+                                Algherese lo ha dimostrato in modo eloquente –si presta ad essere
+                                trattata come sistema
                                 di comunicazione.</p>
                             <p>
-                                L'obiettivo del workshop è continuare a esplorare le potenzialità di questo materiale,
-                                reinventandolo, in collaborazione con la Fondazione Meta, per realizzare un prototipo di
+                                L'obiettivo del workshop è continuare a esplorare le potenzialità di
+                                questo materiale,
+                                reinventandolo, in collaborazione con la Fondazione Meta, per realizzare
+                                un prototipo di
                                 installazione ludica urbana. Attenzione: ci sarà da sporcarsi le mani!
                             </p>
                             <p>
                                 Il workshop è reso possibile anche grazie a Gommamica e Giochi Infiniti.
                             </p><br />
-                            <p class="italic">Nicolò Ceccarelli insegna Design presso il DADU di Alghero (Università di
+                            <p class="italic">Nicolò Ceccarelli insegna Design presso il DADU di Alghero
+                                (Università di
                                 Sassari), dove
-                                dirige l'unità di ricerca animazioneDesign ed è presidente del nuovo corso di studi
-                                Triennale in Design. La sua passione per l'architettura delle informazioni lo ha portato
+                                dirige l'unità di ricerca animazioneDesign ed è presidente del nuovo
+                                corso di studi
+                                Triennale in Design. La sua passione per l'architettura delle
+                                informazioni lo ha portato
                                 a fondare l'iniziativa internazionale 2CO COmmunicating
-                                COmplexity, di cui è chair. Si occupa di animazione, visual design e design
+                                COmplexity, di cui è chair. Si occupa di animazione, visual design e
+                                design
                                 dell'identità, design e artigianato, design di allestimenti,
-                                mentre è molto incuriosito dalle 'nuove' modalità didattiche a distanza. Con i progetti
-                                Play Alghero e Culturgame, più recentemente, si è occupato di gamification per la
+                                mentre è molto incuriosito dalle 'nuove' modalità didattiche a distanza.
+                                Con i progetti
+                                Play Alghero e Culturgame, più recentemente, si è occupato di
+                                gamification per la
                                 divulgazione dei i beni culturali e del sapere scientifico.</p><br />
-                            <p class="italic">Nada Beretic, PhD in Architettura e Ambiente, RTDA in Design presso
+                            <p class="italic">Nada Beretic, PhD in Architettura e Ambiente, RTDA in
+                                Design presso
                                 l'Università di Sassari.
-                                Il suo lavoro di ricerca si articola tra i temi del paesaggio culturale e dell'urban
-                                design come strumento per valorizzare le identità locali e la promozione dei territori.
+                                Il suo lavoro di ricerca si articola tra i temi del paesaggio culturale
+                                e dell'urban
+                                design come strumento per valorizzare le identità locali e la promozione
+                                dei territori.
 
-                                Dal 2012 condivide la responsabilità del programma Public art & Public space – PaPs,
-                                alla Facoltà di Architettura dell'Università di Belgrado. Collabora da anni ai progetti
-                                e alle ricerche del Laboratorio AnimazioneDesign, esplorando le modalità con cui
-                                l'unione tra design ed esperienze ludiche possa contribuire a promuovere l'idea di
+                                Dal 2012 condivide la responsabilità del programma Public art & Public
+                                space – PaPs,
+                                alla Facoltà di Architettura dell'Università di Belgrado. Collabora da
+                                anni ai progetti
+                                e alle ricerche del Laboratorio AnimazioneDesign, esplorando le modalità
+                                con cui
+                                l'unione tra design ed esperienze ludiche possa contribuire a promuovere
+                                l'idea di
                                 heritage. </p>
                             <br />
 
@@ -418,22 +540,31 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
 
-                            <p>Un workshop con cui esplorare e prototipare il design delle informazioni impiegando le
+                            <p>Un workshop con cui esplorare e prototipare il design delle informazioni
+                                impiegando le
                                 icone del sistema Guemil per l'Emergenza.
 
                             </p>
                             <br />
-                            <p class="italic">Rodrigo Ramírez ha conseguito un MA in Information Design presso
-                                l'Università di Reading nel Regno Unito, dopo aver studiato Design all'UCV di
+                            <p class="italic">Rodrigo Ramírez ha conseguito un MA in Information Design
+                                presso
+                                l'Università di Reading nel Regno Unito, dopo aver studiato Design
+                                all'UCV di
                                 Valparaíso, Cile.
-                                È Professore Associato alla School of Design di UC Chile, dove insegna nel Master in
-                                Advanced Design MADA UC. E' Design leader, del progetto Guemil–Icons for emergencies e
+                                È Professore Associato alla School of Design di UC Chile, dove insegna
+                                nel Master in
+                                Advanced Design MADA UC. E' Design leader, del progetto Guemil–Icons for
+                                emergencies e
                                 Membro del Board di Design for Emergency Management (dnem.org).</p>
                             <p>
-                                Rodrigo ha una estesa esperienza come Visting Professor e ha diretto progetti di Design
-                                dell'informazione per sistemi di informazioni, brands, organizzazioni pubbliche e
-                                iniziative editoriali. Si interessa, sia sul piano operativo che della ricerca, di
-                                Information Design e di Tipografia. Al momento sta seguendo un PhD in Comunicazione
+                                Rodrigo ha una estesa esperienza come Visting Professor e ha diretto
+                                progetti di Design
+                                dell'informazione per sistemi di informazioni, brands, organizzazioni
+                                pubbliche e
+                                iniziative editoriali. Si interessa, sia sul piano operativo che della
+                                ricerca, di
+                                Information Design e di Tipografia. Al momento sta seguendo un PhD in
+                                Comunicazione
                                 presso UC Cile.
                             </p>
 
@@ -468,10 +599,13 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
                             <p>
-                                Curro Claret è un designer con base a Barcellona, dove svolge la sua attività
-                                progettando oggetti utili e sostenibili, che funzionano spesso da innesco per processi
+                                Curro Claret è un designer con base a Barcellona, dove svolge la sua
+                                attività
+                                progettando oggetti utili e sostenibili, che funzionano spesso da
+                                innesco per processi
                                 di creazione sociale partecipata. Molto attivo anche in campo didattico,
-                                Curro collabora con il DADU da anni, in qualità di visiting professor e come ospite al
+                                Curro collabora con il DADU da anni, in qualità di visiting professor e
+                                come ospite al
                                 ciclo di incontri “DesignDuo: conversazioni sul design”.
                             </p>
                         </div>
@@ -490,11 +624,16 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
                             <p>
-                                Visual e Motion Designer, João Schlitter Amaral insegna all'Università di Sao Paulo in
-                                Brasile. Con alle spalle una lunga carriera professionale in Brasile e negli USA, João è
-                                stato testimone dell'entrata in scena, tra gli '80 e '90, dei primi leggendari sistemi
-                                grafici digitali per la post-produzione video, con cui ha creato sigle e animazioni per
-                                committenti come HBO, Discovery Channel, Cinemateca Brasileira. Più recentemente si è
+                                Visual e Motion Designer, João Schlitter Amaral insegna all'Università
+                                di Sao Paulo in
+                                Brasile. Con alle spalle una lunga carriera professionale in Brasile e
+                                negli USA, João è
+                                stato testimone dell'entrata in scena, tra gli '80 e '90, dei primi
+                                leggendari sistemi
+                                grafici digitali per la post-produzione video, con cui ha creato sigle e
+                                animazioni per
+                                committenti come HBO, Discovery Channel, Cinemateca Brasileira. Più
+                                recentemente si è
                                 occupato di regia tv.
                             </p>
 
@@ -513,10 +652,14 @@
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
                             <p>
-                                Ricercatore e professionista nel campo dell'info-design e del visual journalism, Matteo
-                                Moretti è ormai parte della squadra di Alghero Design. Autore di progetti di
-                                data-visualization importanti e premiati, Matteo ha una grande esperienza didattica,
-                                costruita in anni di insegnamento e conduzione di workshop in molte Università italiane
+                                Ricercatore e professionista nel campo dell'info-design e del visual
+                                journalism, Matteo
+                                Moretti è ormai parte della squadra di Alghero Design. Autore di
+                                progetti di
+                                data-visualization importanti e premiati, Matteo ha una grande
+                                esperienza didattica,
+                                costruita in anni di insegnamento e conduzione di workshop in molte
+                                Università italiane
                                 e internazionali.
                             </p>
                         </div>
@@ -679,5 +822,16 @@ useHead({
         height: auto;
         padding: 0.75rem 0;
     }
+}
+
+.date {
+    margin-top: .5rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+
+.topic {
+    margin-bottom: 1rem;
 }
 </style>
