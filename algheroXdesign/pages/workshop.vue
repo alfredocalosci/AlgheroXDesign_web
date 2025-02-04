@@ -56,6 +56,212 @@
                     esterni (enti, aziende, artigiani, iniziative imprenditoriali). </p>
 
 
+                <h4 class="pt-4 pb-4">Edizione 2025 </h4>
+                <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">
+                    <!-- WS-->
+
+                    <div class="grid grid-cols-8 workshop mb-2  border-b border-black">
+                        <img class="pic hidden sm:block " alt="foto di Martina Labarta" src="/img/ws-25-labarta.png" />
+                        <div class="col-span-6 p-4">
+                            <p><strong>Martina Labarta</strong></p>
+                            <p class="italic">Design e Gender: per una maggiore consapevolezza progettuale
+                            </p>
+                        </div>
+                        <div class="py-4 justify-self-end self-center ">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+
+                            <p>Il workshop esplora il tema della rappresentazione di genere nel design dei prodotti, per
+                                sfidare convenzioni e pregiudizi e promuovere un approccio progettuale più inclusivo.
+                                Attraverso analisi critiche, esercizi pratici e discussioni, impareremo a riconoscere
+                                elementi di genere nei prodotti e acquisiremo strumenti per integrare la consapevolezza
+                                di genere nel processo progettuale, sviluppando strategie in grado incidere sul piano
+                                sociale e culturale.
+
+                            </p>
+                            <br />
+                            <p class="italic">Martina Labarta è una designer e ricercatrice specializzata in
+                                sostenibilità, product design e processi inclusivi. Dottoranda in Design Research al
+                                Politecnico di Milano, si occupa di design di prodotto per soluzioni sostenibili.
+                                Ha una laurea magistrale in Design & Engineering (Politecnico di Milano) e una triennale
+                                in Ingegneria Industriale (Università di Saragozza). Ha presentato ricerche su design
+                                gender-neutral e pratiche sostenibili in conferenze come Cumulus.
+                                Con esperienza come assistente alla didattica e tutor di workshop per aziende come
+                                Brembo e Barilla, Martina combina competenze tecniche in CAD e LCA con un approccio
+                                creativo per affrontare sfide complesse.
+                            </p>
+                            <br />
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
+                        <img class="pic hidden sm:block " alt="foto di Claudia Piredda" src="/img/ws-25-piredda.png" />
+                        <div class="col-span-6 p-4">
+                            <p><strong>Claudia Piredda</strong></p>
+
+                            <p class="italic">Mostrare l’introvabile
+                            </p>
+                        </div>
+                        <div class="py-4 justify-self-end self-center">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+                            <p>Nel suo Catalogo di oggetti introvabili (1969), l’illustratore, artista e designer,
+                                Jaques Carelman si proponeva– in perfetta aderenza con le esplorazioni del movimento
+                                Francese patafisico cui aderiva – di dirottare l’uso corrente di oggetti comuni.
+                                Ripercorrerne le provocazioni e metterle in mostra può essere un’occasione per
+                                riflettere sull’universo trovabilissimo della super-produzione di oggetti in cui oggi il
+                                pianeta va sprofondando.
+                            </p><br />
+                            <p class="italic">Claudia Piredda, architetta laureata presso l'Università degli Studi di
+                                Alghero, lavora dal 2021 a Stoccarda come interior architect ed exhibition designer
+                                presso Atelier Brückner. Ha contribuito a progetti internazionali di rilievo, tra cui
+                                EUROPA EXPERIENCE, il State Museum of Arts of Uzbekistan di Tadao Ando e il Lindt Museum
+                                di Vienna.
+                                <br />
+                                Grazie alla sua esperienza internazionale, adotta un approccio progettuale distintivo,
+                                combinando estetica, funzionalità e narrazione per creare spazi innovativi e
+                                coinvolgenti.
+
+
+                            </p>
+
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
+                        <img class="pic hidden sm:block " alt="foto di Nađa Beretić" src="/img/ws-25-beretic.png" />
+                        <div class="col-span-6 p-4">
+                            <p><strong>Nađa Beretić</strong></p>
+                            <p class="italic">Playful Experience Design</p>
+                        </div>
+                        <div class="py-4 justify-self-end self-center">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+
+                            <p>Tema del laboratorio è la progettazione di esperienze ludiche grazie cui stimolando,
+                                incuriosendo e motivando il pubblico, promuovere il patrimonio dei Beni Culturali.
+                                Lavorando per gruppi su un argomento specifico e attorno a un target di destinatari,
+                                progetteremo un percorso d’interazione sulla base del quale sviluppare un prototipo,
+                                caratterizzato da azioni semplici e coinvolgenti che, sulla base di meccaniche ed
+                                elementi di gioco “aperto”, possa innescare un dialogo con il pubblico.
+
+                            </p><br />
+
+                            <p class="italic">PhD in Architettura e Ambiente, RTDA in Design presso l’Università di
+                                Sassari. Il suo lavoro di ricerca si articola tra i temi del paesaggio culturale e
+                                dell’urban design come strumento per valorizzare le identità locali e la promozione dei
+                                territori. Dal 2012 condivide la responsabilità del programma Public art & Public space
+                                – PaPs, alla Facoltà di Architettura dell’Università di Belgrado. Collabora da anni ai
+                                progetti e alle ricerche del Laboratorio AnimazioneDesign, esplorando le modalità con
+                                cui l’unione tra design ed esperienze ludiche possa contribuire a promuovere l’idea di
+                                heritage.
+
+                            </p>
+
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-8 workshop mb-2  border-b border-black">
+                        <img class="pic hidden sm:block " alt="foto di Nicolò Ceccarelli e Ilaria Mundula"
+                            src="/img/ws-25-ceccarelli-mundula.png" />
+                        <div class="col-span-6 p-4">
+                            <p><strong>Nicolò Ceccarelli e Ilaria Mundula</strong></p>
+                            <p class="italic">Pixillation BAZAAR
+                            </p>
+                        </div>
+                        <div class="py-4 justify-self-end self-center ">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+
+                            <p>Branca dell’animazione stop-motion nella quale ad essere animato è il corpo umano, dal
+                                magistrale Neighbours di Norman Mclaren nel 1952, la Pixillation compare regolarmente in
+                                film, corti animati, videoclip. L’impiego di personaggi in carne ed ossa,
+                                meticolosamente animati come pupazzi di fronte alla fotocamera, permette infatti di
+                                ottenere effetti di straordinario impatto visivo. Nel workshop esploreremo questa
+                                tecnica, animando, ma anche recitando direttamente…per realizzare storie che si
+                                fonderanno, come in un bazaar… con i linguaggi di altri due precedenti illustri: i
+                                geniali spot televisivi degli anni ’60 e ’70 della serie Gringo, e l’interpretazione
+                                tipo-fotografica della pièce teatrale di Eugene Ionesco ‘La cantante calva’ realizzata
+                                da Massin in quegli stessi anni.
+
+
+                            </p>
+                            <br />
+                            <p class="italic">Nicolo Ceccarelli<br />Insegna Design presso il DADU di Alghero
+                                (Università di Sassari), dove dirige l’unità di ricerca AnimazioneDesign ed è presidente
+                                del nuovo corso di studi Triennale in Design. La sua passione per l’architettura delle
+                                informazioni lo ha portato a fondare l’iniziativa internazionale 2CO COmmunicating
+                                COmplexity, di cui è chair. Si occupa di animazione, visual design e design
+                                dell’identità, design e artigianato, design di allestimenti,
+                                mentre è molto incuriosito dalle ‘nuove’ modalità didattiche a distanza. Più
+                                recentemente, si è occupato di gamification per la divulgazione dei beni culturali e del
+                                sapere scientifico.
+
+
+                            </p><br />
+                            <p class="italic">Ilaria Mundula<br />
+                                Laureata magistrale in architettura con indirizzo design presso il DADU con una tesi
+                                sull'animazione informativa, collabora con il laboratorio di AnimazioneDesign dove porta
+                                avanti la sua passione per questa forma di comunicazione.
+
+
+
+
+                            </p>
+                            <br />
+                        </div>
+                    </div>
+
+
+
+                    <h4 class="pt-4">Sessione di warmup</h4>
+
+                    <div class="grid grid-cols-8 workshop mb-2 border-b border-t border-black">
+                        <img class="pic hidden sm:block " alt="foto di workshop protesta"
+                            src="/img/ws-25-protesta.png" />
+                        <div class="col-span-6 p-4">
+                            <p><strong>Protesta?</strong></p>
+                            <p></p>
+
+                        </div>
+                        <div class="py-4 justify-self-end self-center">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+
+                            <p>Dall’<i>atelier populaire</i> ai <i>disobedient objects</i>, la sessione di Warmup invita
+                                gli studenti
+                                a confrontarsi con gli strumenti della comunicazione visiva per protestare, manifestare
+                                le proprie istanze, negli spazi dell’università.
+
+                                Otto ore di tempo, e quattro docenti a disposizione, ognuno dei quali si confronta con
+                                il proprio gruppo di studenti su un medium specifico.
+
+
+                            </p>
+                            <br />
+                            <p class="italic">
+                            </p>
+
+
+
+
+                        </div>
+                    </div>
+
+
+
+
+
+                </div>
 
                 <h4 class="pt-4 pb-4">Edizione 2024 </h4>
                 <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">
