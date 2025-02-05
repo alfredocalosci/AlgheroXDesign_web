@@ -195,21 +195,14 @@
 
                             </p><br />
 
-                            <p class="italic">PhD in Architettura e Ambiente, RTDA in Design presso
-                                l'Università di
-                                Sassari. Il suo lavoro di ricerca si articola tra i temi del paesaggio
-                                culturale e
-                                dell'urban design come strumento per valorizzare le identità locali e la
-                                promozione dei
-                                territori. Dal 2012 condivide la responsabilità del programma Public art
-                                & Public space
-                                – PaPs, alla Facoltà di Architettura dell'Università di Belgrado.
-                                Collabora da anni ai
-                                progetti e alle ricerche del Laboratorio AnimazioneDesign, esplorando le
-                                modalità con
-                                cui l'unione tra design ed esperienze ludiche possa contribuire a
-                                promuovere l'idea di
-                                heritage.
+                            <p class="italic">PhD in Architettura e Ambiente, RTDA in Design presso l’Università di
+                                Sassari. Da anni collabora ai progetti e alle ricerche del Laboratorio AnimazioneDesign,
+                                esplorando le modalità con cui l’unione tra design ed esperienze ludiche possa
+                                contribuire a promuovere l’idea di heritage e identità locale. Nel corso del tempo, ha
+                                sviluppato la sua ricerca attorno al playful design come mezzo di esplorazione e
+                                interazione libera e gioiosa con i contenuti, utilizzando elementi di gioco traslati
+                                nell’ambito della progettazione per evocare un senso di “gioco aperto” che va oltre gli
+                                obiettivi strutturati.
 
                             </p>
 
