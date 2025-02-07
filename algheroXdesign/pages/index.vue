@@ -84,8 +84,7 @@
                         <p>Martina Labarta, Claudia Piredda, Nicolò Ceccarelli, Ilaria Mundula, Nada Beretic</p>
                     </div>
 
-                    <a href="/workshop"
-                        class="button absolute bottom-4 left-4 text-black border-black border-[#38FF6A] text-[#38FF6A]">Edizione
+                    <a href="/workshop" class="button absolute bottom-4 left-4 border-[#38FF6A] text-[#38FF6A]">Edizione
                         2025</a>
                 </div>
 
