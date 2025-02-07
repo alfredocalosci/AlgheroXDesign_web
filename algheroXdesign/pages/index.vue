@@ -78,14 +78,15 @@
                 </div>
 
                 <div class="blocco mb-0 sm:mb-4" id="workshop">
-                    <img src="/img/ws-24-cover.png" alt="" class="w-full">
-                    <div class="absolute top-8 left-4 w-[90%]">
+                    <img src="/img/ws-25-cover.png" alt="" class="w-full">
+                    <div class="absolute top-8 left-4 w-[90%] text-[#38FF6A]">
                         <h2>Workshops</h2>
-                        <p>Viola Orgiano, Daniele Murgia, Nicolò Ceccarelli, Nada Beretic</p>
+                        <p>Martina Labarta, Claudia Piredda, Nicolò Ceccarelli, Ilaria Mundula, Nada Beretic</p>
                     </div>
 
-                    <a href="/workshop" class="button absolute bottom-4 left-4 text-black border-black">Edizione
-                        2024</a>
+                    <a href="/workshop"
+                        class="button absolute bottom-4 left-4 text-black border-black border-[#38FF6A] text-[#38FF6A]">Edizione
+                        2025</a>
                 </div>
 
                 <div class="blocco mb-0 sm:mb-4" id="design-duo">

@@ -12,7 +12,8 @@
 
                     Caratteristica dell'iniziativa è la sua articolazione: per una breve finestra temporale (e ben tre
                     volte
-                    nel loro percorso formativo), i nostri studenti non si dunque in aula “per classe”, ma raggruppati
+                    nel loro percorso formativo), i nostri studenti non progettano dunque in aula “per classe”, ma
+                    raggruppati
                     per
                     tema, interesse, curiosità o passione.
                 </p>
