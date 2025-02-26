@@ -57,6 +57,8 @@
                     esterni (enti, aziende, artigiani, iniziative imprenditoriali). </p>
 
                 <h4 class="pt-4 pb-4">Edizione 2025 </h4>
+                <h4 class="pt-4 pb-4"><a href="/img/calendario_workshop_completo.pdf" target="_blank">Consulta il
+                        programma dettagliato (PDF)</a></h4>
 
 
                 <p class="date">Gio 27 Feb | 17.00–19.00</p>
