@@ -91,7 +91,7 @@
                             <h4 class="pt-8">Lab. di Architetture Informative</h4>
                             <p>Nicolò Ceccarelli, Nađa Beretić, Sara Vignoli</p>
                             <p class="small">Exhibit design, Engagement design, Information design, Heritage,
-                                Animazione, Design e Artigianato</p>
+                                Animazione, Design e artigianato</p>
                         </div>
                         <div class="py-4 justify-self-end self-center ">
                             <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
@@ -131,7 +131,7 @@
                         <div class="col-span-7">
                             <h4 class="pt-8">Lab. di Information experience</h4>
                             <p>Matteo Moretti</p>
-                            <p class="small">Digital Design, Social Design, Data storytelling</p>
+                            <p class="small">Digital design, Social design, Data storytelling</p>
                         </div>
                         <div class="py-4 justify-self-end self-center">
                             <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
@@ -161,7 +161,7 @@
                         <div class="col-span-7">
                             <h4 class="pt-8">Lab. Design delle cose</h4>
                             <p>Marco Sironi</p>
-                            <p class="small">Design del prodotto, Design e luoghi, fare-pensare</p>
+                            <p class="small">Design del prodotto, Design e luoghi, Fare-pensare</p>
                         </div>
                         <div class="py-4 justify-self-end self-center">
                             <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
@@ -195,19 +195,30 @@
                         <div class="col-span-7">
                             <h4 class="pt-8">Lab. Media digitali</h4>
                             <p>Alfredo Calosci</p>
-                            <p class="small">creative coding, generative, IoT</p>
+                            <p class="small">Creative coding, Generative, IoT</p>
                         </div>
                         <div class="py-4 justify-self-end self-center">
                             <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
                         </div>
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
-                            
-                            <p class="mb-2">Il tema centrale del laboratorio è l’esplorazione delle potenzialità della programmazione creativa nella progettazione di prodotti e servizi digitali per la comunicazione.</p>
 
-                            <p class="mb-2">Le enormi possibilità espressive offerte dal remix dei media digitali, unite alla sperimentazione di nuove modalità e dispositivi per l’interazione, configurano un campo della progettazione diffuso che si muove a cavallo tra la pura sperimentazione tecnologica, il design expositivo, l’arte concettuale e il design critico, adottando un quadro concettuale di riferimento che si sta progressivamente consolidando intorno all’archeologia dei media.</p>
+                            <p class="mb-2">Il tema centrale del laboratorio è l’esplorazione delle potenzialità della
+                                programmazione creativa nella progettazione di prodotti e servizi digitali per la
+                                comunicazione.</p>
 
-                            <p>Nonostante il forte carattere sperimentale, la linea di ricerca del laboratorio ha un orientamento applicato e prende le distanze da attività puramente speculative o autoreferenziali. Gli studenti sono vivamente invitati a individuare un contesto e interlocutori reali con cui sviluppare la parte progettuale della ricerca, rispondendo a un quadro di esigenze concrete.</p>
+                            <p class="mb-2">Le enormi possibilità espressive offerte dal remix dei media digitali, unite
+                                alla sperimentazione di nuove modalità e dispositivi per l’interazione, configurano un
+                                campo della progettazione diffuso che si muove a cavallo tra la pura sperimentazione
+                                tecnologica, il design expositivo, l’arte concettuale e il design critico, adottando un
+                                quadro concettuale di riferimento che si sta progressivamente consolidando intorno
+                                all’archeologia dei media.</p>
+
+                            <p>Nonostante il forte carattere sperimentale, la linea di ricerca del laboratorio ha un
+                                orientamento applicato e prende le distanze da attività puramente speculative o
+                                autoreferenziali. Gli studenti sono vivamente invitati a individuare un contesto e
+                                interlocutori reali con cui sviluppare la parte progettuale della ricerca, rispondendo a
+                                un quadro di esigenze concrete.</p>
 
                         </div>
                     </div>
