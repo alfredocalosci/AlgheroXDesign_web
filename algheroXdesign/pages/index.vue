@@ -129,14 +129,14 @@
                     </h2>
                 </div>
                 <!-- BIP -->
-                <div class="blocco mb-0 sm:mb-4" id="2co">
-                    <img src="/img/BIP.jpg" alt="" class="w-full object-fit">
-                    <div class="absolute top-8 left-4 w-[90%] text-white">
-                        <h2>Erasmus Blended Intensive Programme (BIP)</h2>
-                        <p>Un’esperienza internazionale, formativa e creativa!</p>
+                <div class="blocco mb-0 sm:mb-4" id="prova-finale">
+                    <img src="/img/prova-finale.jpg" alt="" class="w-full object-fit">
+                    <div class="absolute top-8 left-4 w-[90%] text-black">
+                        <h2>Prova finale</h2>
+                        <p>Tutto quello che serve sapere!</p>
                     </div>
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSevsbQVM3HThnC-NDzaFne9wqTJkc1pYCap-RYySnVDPhdUHg/viewform?fbclid=PAZXh0bgNhZW0CMTEAAaberIw5Y6xpghk7lMxOkYINfZcRbTdkMtHry9nEcS2ipu7FWDs0jszH-ko_aem_689Nf2dXjmsBxmhTbU8D3A"
-                        target="_blank" class="button absolute bottom-4 left-4 text-white border-white">Iscriviti!</a>
+                    <a href="https://algheroxdesign.it/prova-finale/" target="_blank"
+                        class="button absolute bottom-4 left-4 text-black border-black">Scopri di più</a>
                 </div>
                 <!-- test ammissione -->
                 <div class="blocco mb-0 sm:mb-4" id="2co">
@@ -234,6 +234,7 @@ useHead({
 #footer {
     margin-top: 10rem;
 }
+
 
 h2 {
     letter-spacing: -.08rem;

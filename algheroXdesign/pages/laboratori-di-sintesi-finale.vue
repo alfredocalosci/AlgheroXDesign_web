@@ -14,7 +14,8 @@
                     del corso di laurea Triennale in Design.
                     I laboratori sono strutture informali a guida dei docenti di design del corso – che di questo
                     compito si fanno carico in forma volontaria – a supporto degli studenti impegnati nell'realizzazione
-                    dell'elaborato di fine carriera (già noto in passato come... Tesi di Laurea). Obiettivo dei
+                    dell'<a href="/prova-finale">elaborato di fine carriera</a> (già noto in passato come... Tesi di
+                    Laurea). Obiettivo dei
                     laboratori è offrire una guida alla popolazione studentesca, cercando contestualmente di ottimizzare
                     energie e risorse per il raggiungimento di un risultato importante costituito da un'esercitazione
                     che rappresenti una sintesi esauriente del loro percorso formativo Triennale.
