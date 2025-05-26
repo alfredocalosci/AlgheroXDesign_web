@@ -162,26 +162,25 @@
                     più significative per la loro maturazione formativa, anche in relazione ai temi della loro prova
                     finale.
                 </p><br />
-                <p>
-                    <a class="button-box" href="/img/allegato-prova-finale.pdf" target="_blank"> <svg
-                            id="arrow-horizontal" xmlns="http://www.w3.org/2000/svg" width="30" height="10"
-                            viewBox="0 0 46 16">
-                            <path id="Path_10" data-name="Path 10"
-                                d="M8,0,6.545,1.455l5.506,5.506H-30V9.039H12.052L6.545,14.545,8,16l8-8Z"
-                                transform="translate(30)"></path>
-                        </svg> Scarica la
+
+                <div
+                    class="bg-gray-100 text-2xl p-2 pl-3 pr-3 rounded-md border-0 hover:bg-black hover:text-white max-w-xl text-center tracking-tight leading-6 mb-3">
+                    <a class="border-0" href="/img/allegato-prova-finale.pdf" target="_blank"> Scarica
+                        la
                         traccia
                         per la
                         relazione di
                         tirocinio</a>
-                </p><br />
-                <p>
-                    <a class="button-box"
+                </div>
+
+                <div
+                    class="bg-gray-100 text-2xl p-2 pl-3 pr-3 rounded-md border-0 hover:bg-black hover:text-white max-w-xl text-center tracking-tight leading-6 mb-3">
+                    <a class="border-0"
                         href="https://www.uniss.it/it/didattica/servizi-agli-studenti/guide-studenti/ammissione-allesame-di-laurea"
                         target="_blank">Consula la guida all'ammissione all'esame di
                         laurea</a>
 
-                </p>
+                </div>
 
 
 
@@ -230,12 +229,6 @@ useHead({
     border-radius: 4px;
     padding: 5px 20px;
     border-bottom: 0px;
-
-    svg {
-        transform: translateY(8px);
-        float: left;
-        padding-right: 5px;
-    }
 }
 
 .button-box:hover {
