@@ -43,6 +43,10 @@
                         <NuxtLink to="/laboratori-di-sintesi-finale" @click.native="closeNav()">Lab. di sintesi finale
                         </NuxtLink>
                     </li>
+                    <li>
+                        <NuxtLink to="/prova-finale" @click.native="closeNav()">Prova finale
+                        </NuxtLink>
+                    </li>
 
                 </ul>
             </nav>

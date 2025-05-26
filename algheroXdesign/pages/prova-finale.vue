@@ -163,10 +163,22 @@
                     finale.
                 </p><br />
                 <p>
-                    <a href="/img/allegato-prova-finale.pdf" target="_blank">Traccia per la relazione di
-                        tirocinio</a><br />
-                    <a href="https://www.uniss.it/it/didattica/servizi-agli-studenti/guide-studenti/ammissione-allesame-di-laurea"
-                        target="_blank">Guida all'ammissione all'esame di
+                    <a class="button-box" href="/img/allegato-prova-finale.pdf" target="_blank"> <svg
+                            id="arrow-horizontal" xmlns="http://www.w3.org/2000/svg" width="30" height="10"
+                            viewBox="0 0 46 16">
+                            <path id="Path_10" data-name="Path 10"
+                                d="M8,0,6.545,1.455l5.506,5.506H-30V9.039H12.052L6.545,14.545,8,16l8-8Z"
+                                transform="translate(30)"></path>
+                        </svg> Scarica la
+                        traccia
+                        per la
+                        relazione di
+                        tirocinio</a>
+                </p><br />
+                <p>
+                    <a class="button-box"
+                        href="https://www.uniss.it/it/didattica/servizi-agli-studenti/guide-studenti/ammissione-allesame-di-laurea"
+                        target="_blank">Consula la guida all'ammissione all'esame di
                         laurea</a>
 
                 </p>
@@ -210,6 +222,27 @@ useHead({
 
 
 <style lang="scss" scoped>
+.button-box {
+    transition: all .35s;
+    background-color: #EEEAEC;
+    text-decoration: none;
+    color: black;
+    border-radius: 4px;
+    padding: 5px 20px;
+    border-bottom: 0px;
+
+    svg {
+        transform: translateY(8px);
+        float: left;
+        padding-right: 5px;
+    }
+}
+
+.button-box:hover {
+    background-color: #000;
+    color: #EEEAEC;
+}
+
 .workshop h4 {
     line-height: 100%;
 }
