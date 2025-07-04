@@ -152,13 +152,13 @@
 
                 <!-- 2co4 -->
                 <div class="blocco mb-0 sm:mb-4" id="2co">
-                    <img src="/img/2co4.svg" alt="" class="w-full object-fit">
+                    <img src="/img/2co25.jpg" alt="" class="w-full object-fit">
                     <div class="absolute top-8 left-4 w-[90%] text-white">
-                        <h2><strong>2CO4 </strong> Barcellona</h2>
-                        <p>In collaborazione con <strong>ELISAVA</strong></p>
+                        <h2><strong>2CO </strong> Saõ Paulo</h2>
+                        <p>L'edizione Everyday vola in Brasile</p>
                     </div>
-                    <a href="http://www.2coconference.org" target="_blank"
-                        class="button absolute bottom-4 left-4">Wow</a>
+                    <a href="https://2coconference.org/saopaulo/" target="_blank"
+                        class="button absolute bottom-4 left-4 text-black border-black">Eu gosto!</a>
                 </div>
 
 
