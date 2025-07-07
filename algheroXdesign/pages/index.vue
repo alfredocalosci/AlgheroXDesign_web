@@ -152,7 +152,7 @@
 
                 <!-- 2co4 -->
                 <div class="blocco mb-0 sm:mb-4" id="2co">
-                    <img src="/img/2co25.jpg" alt="" class="w-full object-fit">
+                    <img src="/img/2CO25.jpg" alt="" class="w-full object-fit">
                     <div class="absolute top-8 left-4 w-[90%] text-white">
                         <h2><strong>2CO </strong> Saõ Paulo</h2>
                         <p>L'edizione Everyday vola in Brasile</p>
