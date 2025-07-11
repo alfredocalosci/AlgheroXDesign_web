@@ -35,453 +35,459 @@
     -->
 </head>
 
-<body>
-    <script>
-        // Add random circles to the background using an SVG
-        document.addEventListener("DOMContentLoaded", function () {
-            const numCircles = 60;
-            const minRadius = 2;
-            const maxRadius = 20;
-            const colors = [
-                "#00BDFF", "#FF3C00", "#0021FF", "#DAF390", "#FADBD4",
-                "#FFFFFF", "#DBAEDA", "#80E8B0", "#8200FF"
-            ];
 
-            // Create SVG element
-            const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-            svg.setAttribute("id", "bg-circles");
-            svg.style.position = "absolute";
-            svg.style.top = "0";
-            svg.style.left = "0";
-            svg.style.width = "100vw";
-            svg.style.height = getPageHeight() + "px";
-            svg.style.zIndex = "1";
-            svg.style.pointerEvents = "none";
-            svg.style.opacity = "1";
+<script>
+    // Add random circles to the background using an SVG
+    document.addEventListener("DOMContentLoaded", function () {
+        const numCircles = 60;
+        const minRadius = 2;
+        const maxRadius = 20;
+        const colors = [
+            "#00BDFF", "#FF3C00", "#0021FF", "#DAF390", "#FADBD4",
+            "#FFFFFF", "#DBAEDA", "#80E8B0", "#8200FF"
+        ];
 
-            // Helper to get the full page height (not just viewport)
-            function getPageHeight() {
-                return Math.max(
-                    document.body.scrollHeight,
-                    document.documentElement.scrollHeight,
-                    document.body.offsetHeight,
-                    document.documentElement.offsetHeight,
-                    document.body.clientHeight,
-                    document.documentElement.clientHeight
-                );
-            }
+        // Create SVG element
+        const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+        svg.setAttribute("id", "bg-circles");
+        svg.style.position = "absolute";
+        svg.style.top = "0";
+        svg.style.left = "0";
+        svg.style.width = "100vw";
+        svg.style.height = getPageHeight() + "px";
+        svg.style.zIndex = "1";
+        svg.style.pointerEvents = "none";
+        svg.style.opacity = "1";
 
-            // Set viewBox to cover the full page (not just viewport)
-            function setSVGSize() {
-                const width = window.innerWidth;
-                const height = getPageHeight();
-                svg.setAttribute("width", width);
-                svg.setAttribute("height", height);
-                svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
-            }
+        // Helper to get the full page height (not just viewport)
+        function getPageHeight() {
+            return Math.max(
+                document.body.scrollHeight,
+                document.documentElement.scrollHeight,
+                document.body.offsetHeight,
+                document.documentElement.offsetHeight,
+                document.body.clientHeight,
+                document.documentElement.clientHeight
+            );
+        }
 
-            // Generate random circles along the whole page length
-            function generateCircles() {
-                // Remove old circles if any
-                while (svg.firstChild) svg.removeChild(svg.firstChild);
+        // Set viewBox to cover the full page (not just viewport)
+        function setSVGSize() {
+            const width = window.innerWidth;
+            const height = getPageHeight();
+            svg.setAttribute("width", width);
+            svg.setAttribute("height", height);
+            svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
+        }
 
-                // Reset the global array for animation
-                window._bgWiggleCircles = [];
+        // Generate random circles along the whole page length
+        function generateCircles() {
+            // Remove old circles if any
+            while (svg.firstChild) svg.removeChild(svg.firstChild);
 
-                const width = window.innerWidth;
-                const height = getPageHeight();
+            // Reset the global array for animation
+            window._bgWiggleCircles = [];
 
-                for (let i = 0; i < numCircles; i++) {
-                    const cx = Math.random() * width;
-                    const cy = Math.random() * height;
-                    const r = minRadius + Math.random() * (maxRadius - minRadius);
-                    const colorArray = [
-                        [0 / 255, 189 / 255, 255 / 255], // #00BDFF
-                        [255 / 255, 60 / 255, 0 / 255], // #FF3C00
-                        [0 / 255, 33 / 255, 255 / 255], // #0021FF
-                        [218 / 255, 243 / 255, 144 / 255], // #DAF390
-                        [250 / 255, 219 / 255, 212 / 255], // #FADBD4
-                        [255 / 255, 255 / 255, 255 / 255], // #FFFFFF
-                        [219 / 255, 174 / 255, 218 / 255], // #DBAEDA
-                        [128 / 255, 232 / 255, 176 / 255], // #80E8B0
-                        [130 / 255, 0 / 255, 255 / 255],  // #8200FF
-                    ];
-                    const rgb = colorArray[Math.floor(Math.random() * colorArray.length)];
-                    const color = `rgb(${Math.round(rgb[0] * 255)},${Math.round(rgb[1] * 255)},${Math.round(rgb[2] * 255)})`;
-                    const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
-                    // Randomly assign class "circle-multiply" to some circles (e.g., 40% chance)
-                    if (Math.random() < 0.6) {
-                        circle.classList.add("circle-multiply");
-                    }
-                    circle.setAttribute("r", r);
-                    circle.setAttribute("fill", color);
-                    circle.setAttribute("stroke", "#000");
-                    circle.setAttribute("stroke-width", "2");
-                    // Start invisible
-                    circle.setAttribute("opacity", 0);
+            const width = window.innerWidth;
+            const height = getPageHeight();
 
-                    // Store base position for animation
-                    circle._baseCx = cx;
-                    circle._baseCy = cy;
-                    // Each circle gets its own random phase and speed for x/y wiggle
-                    circle._wiggleXPhase = Math.random() * Math.PI * 2;
-                    circle._wiggleYPhase = Math.random() * Math.PI * 2;
-                    circle._wiggleXSpeed = 0.5 + Math.random() * 0.7; // radians/sec
-                    circle._wiggleYSpeed = 0.5 + Math.random() * 0.7;
-                    circle._wiggleXRange = 15 + Math.random() * 15; // up to 30px
-                    circle._wiggleYRange = 15 + Math.random() * 15;
+            for (let i = 0; i < numCircles; i++) {
+                const cx = Math.random() * width;
+                const cy = Math.random() * height;
+                const r = minRadius + Math.random() * (maxRadius - minRadius);
+                const colorArray = [
+                    [0 / 255, 189 / 255, 255 / 255], // #00BDFF
+                    [255 / 255, 60 / 255, 0 / 255], // #FF3C00
+                    [0 / 255, 33 / 255, 255 / 255], // #0021FF
+                    [218 / 255, 243 / 255, 144 / 255], // #DAF390
+                    [250 / 255, 219 / 255, 212 / 255], // #FADBD4
+                    [255 / 255, 255 / 255, 255 / 255], // #FFFFFF
+                    [219 / 255, 174 / 255, 218 / 255], // #DBAEDA
+                    [128 / 255, 232 / 255, 176 / 255], // #80E8B0
+                    [130 / 255, 0 / 255, 255 / 255],  // #8200FF
+                ];
+                const rgb = colorArray[Math.floor(Math.random() * colorArray.length)];
+                const color = `rgb(${Math.round(rgb[0] * 255)},${Math.round(rgb[1] * 255)},${Math.round(rgb[2] * 255)})`;
+                const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
 
-                    // Set initial position
-                    circle.setAttribute("cx", cx);
-                    circle.setAttribute("cy", cy);
+                // Randomly assign class "circle-multiply" to some circles (e.g., 40% chance)
+                if (Math.random() < 0.5) {
+                    circle.classList.add("circle-multiply");
 
-                    // Add to a global array for animation
-                    window._bgWiggleCircles.push(circle);
-
-                    svg.appendChild(circle);
                 }
+                circle.setAttribute("r", r);
+                circle.setAttribute("fill", color);
+                circle.setAttribute("stroke", "#000");
+                circle.setAttribute("stroke-width", "2");
+                // Start invisible
+
+
+                // Store base position for animation
+                circle._baseCx = cx;
+                circle._baseCy = cy;
+                // Each circle gets its own random phase and speed for x/y wiggle
+                circle._wiggleXPhase = Math.random() * Math.PI * 2;
+                circle._wiggleYPhase = Math.random() * Math.PI * 2;
+                circle._wiggleXSpeed = 0.5 + Math.random() * 0.7; // radians/sec
+                circle._wiggleYSpeed = 0.5 + Math.random() * 0.7;
+                circle._wiggleXRange = 15 + Math.random() * 15; // up to 30px
+                circle._wiggleYRange = 15 + Math.random() * 15;
+
+                // Set initial position
+                circle.setAttribute("cx", cx);
+                circle.setAttribute("cy", cy);
+
+                // Add to a global array for animation
+                window._bgWiggleCircles.push(circle);
+
+                svg.appendChild(circle);
             }
+        }
 
-            document.body.prepend(svg);
+        document.body.prepend(svg);
 
-            // Responsive: update SVG size and regenerate circles on resize or content change
-            function updateSVG() {
-                setSVGSize();
-                // generateCircles();
-            }
-
-            window.addEventListener("resize", updateSVG);
-
-            // Also update if page content changes and height increases (e.g., images load)
-            let lastHeight = getPageHeight();
-            setInterval(function () {
-                const currentHeight = getPageHeight();
-                if (currentHeight !== lastHeight) {
-                    lastHeight = currentHeight;
-                    updateSVG();
-                }
-            }, 500);
-
+        // Responsive: update SVG size and regenerate circles on resize or content change
+        function updateSVG() {
             setSVGSize();
-            generateCircles();
+            // generateCircles();
+        }
 
-            // Animate circles to move continuously and fade in
-            if (!window._bgWiggleAnimationStarted) {
-                window._bgWiggleAnimationStarted = true;
-                // For fade-in: keep track of fade progress for each circle
-                const fadeDuration = 1200; // ms
-                const fadeStartTimes = new WeakMap();
+        window.addEventListener("resize", updateSVG);
 
-                function animateCircles() {
-                    if (window._bgWiggleCircles) {
-                        const now = performance.now();
-                        const t = now / 1000;
-                        for (const c of window._bgWiggleCircles) {
-                            const x = c._baseCx + Math.sin(t * c._wiggleXSpeed + c._wiggleXPhase) * c._wiggleXRange;
-                            const y = c._baseCy + Math.sin(t * c._wiggleYSpeed + c._wiggleYPhase) * c._wiggleYRange;
-                            c.setAttribute("cx", x);
-                            c.setAttribute("cy", y);
+        // Also update if page content changes and height increases (e.g., images load)
+        let lastHeight = getPageHeight();
+        setInterval(function () {
+            const currentHeight = getPageHeight();
+            if (currentHeight !== lastHeight) {
+                lastHeight = currentHeight;
+                updateSVG();
+            }
+        }, 500);
 
-                            // Fade in logic
-                            if (!fadeStartTimes.has(c)) {
-                                fadeStartTimes.set(c, now + Math.random() * 400); // randomize fade start a bit
-                            }
-                            const fadeStart = fadeStartTimes.get(c);
-                            let opacity;
-                            if (now < fadeStart) {
-                                opacity = 0;
-                            } else if (now < fadeStart + fadeDuration) {
-                                opacity = (now - fadeStart) / fadeDuration;
-                            } else {
-                                opacity = 1;
-                            }
-                            c.setAttribute("opacity", opacity);
+        setSVGSize();
+        generateCircles();
+
+        // Animate circles to move continuously and fade in
+        if (!window._bgWiggleAnimationStarted) {
+            window._bgWiggleAnimationStarted = true;
+            // For fade-in: keep track of fade progress for each circle
+            const fadeDuration = 1200; // ms
+            const fadeStartTimes = new WeakMap();
+
+            function animateCircles() {
+                if (window._bgWiggleCircles) {
+                    const now = performance.now();
+                    const t = now / 1000;
+                    for (const c of window._bgWiggleCircles) {
+                        const x = c._baseCx + Math.sin(t * c._wiggleXSpeed + c._wiggleXPhase) * c._wiggleXRange;
+                        const y = c._baseCy + Math.sin(t * c._wiggleYSpeed + c._wiggleYPhase) * c._wiggleYRange;
+                        c.setAttribute("cx", x);
+                        c.setAttribute("cy", y);
+
+                        // Fade in logic
+                        if (!fadeStartTimes.has(c)) {
+                            fadeStartTimes.set(c, now + Math.random() * 400); // randomize fade start a bit
                         }
+                        const fadeStart = fadeStartTimes.get(c);
+                        let opacity;
+                        if (now < fadeStart) {
+                            opacity = 0;
+                        } else if (now < fadeStart + fadeDuration) {
+                            opacity = (now - fadeStart) / fadeDuration;
+                        } else {
+                            opacity = 1;
+                        }
+                        c.setAttribute("opacity", opacity);
+
                     }
-                    setTimeout(() => requestAnimationFrame(animateCircles), 0);
                 }
                 setTimeout(() => requestAnimationFrame(animateCircles), 0);
             }
-        });
-    </script>
-
-
-    <style>
-        body {
-            margin: 0;
-            padding: 0 5vw;
-            background-color: #ffefef;
-
+            setTimeout(() => requestAnimationFrame(animateCircles), 0);
         }
+    });
+</script>
 
-        svg rect {
-            display: none;
-            opacity: 0;
-        }
 
-        .circle-multiply {
-            mix-blend-mode: multiply;
-        }
+<style>
+    body {
+        margin: 0;
+        padding: 0 5vw;
+        background-color: #ffefef;
+    }
+
+    html {
+        background-color: #ffefef;
+    }
+
+    svg rect {
+        display: none;
+        opacity: 0;
+    }
+
+    .circle-multiply {
+        mix-blend-mode: multiply;
+
+
+    }
+
+    p,
+    ul,
+    li {
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+        line-height: 1.4em;
+
+    }
+
+    ul {
+        padding: 0;
+
+    }
+
+    li {
+        list-style-type: none;
+    }
+
+    strong {
+        font-weight: 600;
+    }
+
+    header dotlottie-player {
+        /* position: absolute; */
+        width: 100%;
+        height: 500px;
+        z-index: -1;
+    }
+
+    main {
+        max-width: 800px;
+        margin: auto;
+
+
+    }
+
+    section h1 {
+        position: relative;
+
+
+    }
+
+    main dotlottie-player {
+        width: 600px;
+    }
+
+    section {
+        margin-top: 5em;
+    }
+
+    section h1 {
+        margin-bottom: -1em;
+        /* position: relative;
+            z-index: -1; */
+    }
+
+    #footer,
+    #partner {
+        border-top: 1px solid black;
+        background-color: #ffefef;
+    }
+
+    .logo-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1.5em;
+        align-items: center;
+        justify-items: center;
+        margin: 2em 0;
+
+    }
+
+    .logo-container .logo {
+        filter: saturate(0%);
+        mix-blend-mode: multiply;
+    }
+
+    .logo img {
+        width: 100%;
+        filter: saturate(0%);
+        mix-blend-mode: multiply;
+
+    }
+
+    @media (max-width: 600px) {
 
         p,
-        ul,
         li {
-            font-family: "Inter", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 400;
-            font-style: normal;
-            font-size: 20px;
-            line-height: 1.4em;
-
+            font-size: 16px;
+            line-height: 1.5em;
         }
 
-        ul {
-            padding: 0;
-
+        main {
+            max-width: 90%;
+            margin: auto;
         }
 
-        li {
-            list-style-type: none;
+        h1 {
+            max-width: 90%
         }
 
-        strong {
-            font-weight: 600;
+        main dotlottie-player {
+            width: 300px;
         }
 
         header dotlottie-player {
             /* position: absolute; */
             width: 100%;
-            height: 500px;
+            height: 150px;
             z-index: -1;
         }
+    }
+</style>
 
-        main {
-            max-width: 800px;
-            margin: auto;
+<body>
+    <header>
 
-        }
+        <dotlottie-player src="hero.json" background="transparent" speed="1" loop autoplay></dotlottie-player>
+    </header>
+    <main>
 
-        section h1 {
-            position: relative;
+        <section>
+            <h1>
+                <dotlottie-player src="611ott.json" background="transparent" speed="1" loop autoplay></dotlottie-player>
+            </h1>
+            <p>
+                <strong>Invisible Matters è la summer school intensiva del Corso di Laurea in Design del DADU –
+                    Università di
+                    Sassari</strong>, dedicata al <strong>design per la comunicazione scientifica e alla
+                    partecipazione
+                    civica</strong>.
+                Il programma esplora il ruolo del design nella comunicazione di temi scientifici complessi
+                attraverso
+                approcci transdisciplinari, pratiche partecipative e strumenti di rappresentazione dei dati.
+            </p>
+            <p>
+                <strong>L'edizione 2025 sarà interamente dedicata al mondo invisibile ma fondamentale del
+                    plancton</strong>, microscopici
+                organismi acquatici essenziali per la regolazione del clima e l'equilibrio della vita sul nostro
+                pianeta. Il focus scientifico riguarderà in particolare gli effetti del riscaldamento globale e
+                delle
+                ondate di calore sugli ecosistemi acquatici che ci forniscono risorse vitali come acqua potabile e
+                cibo.
+            </p>
+            <p>
+                Attraverso attività pratiche e laboratoriali, la scuola estiva mira a rendere accessibili e
+                coinvolgenti
+                temi scientifici complessi, con un focus sulla rappresentazione fisica e collettiva dei dati come
+                espediente per stimolare conversazioni e riflessioni sul tema.
+            </p>
+            <p>
+                Il programma integra competenze in product design, data visualization, comunicazione e interaction
+                design, con l'obiettivo di creare installazioni esperienziali per sensibilizzare sia la comunità
+                locale
+                che un pubblico più ampio.
+        </section>
 
+        <section>
+            <h1>
+                <dotlottie-player src="cosa.json" background="transparent" speed="1" loop autoplay></dotlottie-player>
+            </h1>
+            <p>
+                Durante sei giorni di attività laboratoriale e progettuale, i partecipanti avranno l’opportunità di
+                lavorare con dati scientifici reali sul plancton, esplorando metodologie di data storytelling e
+                physicalization, ovvero la traduzione fisica e tangibile dei dati.
+            </p>
+            <p>
+                Attraverso il design, svilupperanno installazioni pubbliche interattive capaci di rendere
+                accessibili e
+                coinvolgenti contenuti scientifici complessi. Il percorso si svolgerà in stretta collaborazione con
+                esperti scientifici, docenti e membri della comunità locale, favorendo un dialogo aperto tra
+                ricerca,
+                design e cittadinanza.
+            </p>
+            <p>
+                Al termine della summer school, i partecipanti presenteranno i progetti realizzati in un evento
+                pubblico
+                aperto alla cittadinanza.
+            </p>
 
-        }
+        </section>
 
-        main dotlottie-player {
-            width: 600px;
-        }
+        <section>
+            <h1>
+                <dotlottie-player src="iscrizione.json" background="transparent" speed="1" loop
+                    autoplay></dotlottie-player>
+            </h1>
+            <p>
+                La call è rivolta a chi è regolarmente iscritto o iscritta al Corso di Laurea in Design del
+                Dipartimento
+                di Design, Architettura e Urbanistica dell’Università degli Studi di Sassari, <strong>a partire
+                    dall’A.A.
+                    2023/24.</strong>
+            </p>
+            <p>
+                <strong>Partecipazione gratuita – posti limitati (max 21 - 7 per ogni anno).</strong> 
+                Per partecipare, invia la tua candidatura entro il 20 settembre 2025 compilando il form <a
+                    href="https://forms.gle/inZmkaBKDHirnMUm7">https://forms.gle/inZmkaBKDHirnMUm7</a>
 
-        section {
-            margin-top: 5em;
-        }
+            </p>
+        </section>
+        <section>
+            <h1>
+                <dotlottie-player src="docenti.json" background="transparent" speed="1" loop
+                    autoplay></dotlottie-player>
+            </h1>
 
-        section h1 {
-            margin-bottom: -1em;
-            /* position: relative;
-            z-index: -1; */
-        }
-
-        #footer,
-        #partner {
-            border-top: 1px solid black;
-            background-color: #ffefef;
-        }
-
-        .logo-container {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 1.5em;
-            align-items: center;
-            justify-items: center;
-            margin: 2em 0;
-
-        }
-
-        .logo-container .logo {
-            filter: saturate(0%);
-            mix-blend-mode: multiply;
-        }
-
-        .logo img {
-            width: 100%;
-            filter: saturate(0%);
-            mix-blend-mode: multiply;
-
-        }
-
-        @media (max-width: 600px) {
-
-            p,
-            li {
-                font-size: 16px;
-                line-height: 1.5em;
-            }
-
-            main {
-                max-width: 90%;
-                margin: auto;
-            }
-
-            h1 {
-                max-width: 90%
-            }
-
-            main dotlottie-player {
-                width: 300px;
-            }
-
-            header dotlottie-player {
-                /* position: absolute; */
-                width: 100%;
-                height: 150px;
-                z-index: -1;
-            }
-        }
-    </style>
-
-    <body>
-        <header>
-
-            <dotlottie-player src="hero.json" background="transparent" speed="1" loop autoplay></dotlottie-player>
-        </header>
-        <main>
-
-            <section>
-                <h1>
-                    <dotlottie-player src="611ott.json" background="transparent" speed="1" loop
-                        autoplay></dotlottie-player>
-                </h1>
-                <p>
-                    <strong>Invisible Matters è la summer school intensiva del Corso di Laurea in Design del DADU –
-                        Università di
-                        Sassari</strong>, dedicata al <strong>design per la comunicazione scientifica e alla
-                        partecipazione
-                        civica</strong>.
-                    Il programma esplora il ruolo del design nella comunicazione di temi scientifici complessi
-                    attraverso
-                    approcci transdisciplinari, pratiche partecipative e strumenti di rappresentazione dei dati.
-                </p>
-                <p>
-                    <strong>L'edizione 2025 sarà interamente dedicata al mondo invisibile ma fondamentale del
-                        plancton</strong>, microscopici
-                    organismi acquatici essenziali per la regolazione del clima e l'equilibrio della vita sul nostro
-                    pianeta. Il focus scientifico riguarderà in particolare gli effetti del riscaldamento globale e
-                    delle
-                    ondate di calore sugli ecosistemi acquatici che ci forniscono risorse vitali come acqua potabile e
-                    cibo.
-                </p>
-                <p>
-                    Attraverso attività pratiche e laboratoriali, la scuola estiva mira a rendere accessibili e
-                    coinvolgenti
-                    temi scientifici complessi, con un focus sulla rappresentazione fisica e collettiva dei dati come
-                    espediente per stimolare conversazioni e riflessioni sul tema.
-                </p>
-                <p>
-                    Il programma integra competenze in product design, data visualization, comunicazione e interaction
-                    design, con l'obiettivo di creare installazioni esperienziali per sensibilizzare sia la comunità
-                    locale
-                    che un pubblico più ampio.
-            </section>
-
-            <section>
-                <h1>
-                    <dotlottie-player src="cosa.json" background="transparent" speed="1" loop
-                        autoplay></dotlottie-player>
-                </h1>
-                <p>
-                    Durante sei giorni di attività laboratoriale e progettuale, i partecipanti avranno l’opportunità di
-                    lavorare con dati scientifici reali sul plancton, esplorando metodologie di data storytelling e
-                    physicalization, ovvero la traduzione fisica e tangibile dei dati.
-                </p>
-                <p>
-                    Attraverso il design, svilupperanno installazioni pubbliche interattive capaci di rendere
-                    accessibili e
-                    coinvolgenti contenuti scientifici complessi. Il percorso si svolgerà in stretta collaborazione con
-                    esperti scientifici, docenti e membri della comunità locale, favorendo un dialogo aperto tra
-                    ricerca,
-                    design e cittadinanza.
-                </p>
-                <p>
-                    Al termine della summer school, i partecipanti presenteranno i progetti realizzati in un evento
-                    pubblico
-                    aperto alla cittadinanza.
-                </p>
-
-            </section>
-
-            <section>
-                <h1>
-                    <dotlottie-player src="iscrizione.json" background="transparent" speed="1" loop
-                        autoplay></dotlottie-player>
-                </h1>
-                <p>
-                    La call è rivolta a chi è regolarmente iscritto o iscritta al Corso di Laurea in Design del
-                    Dipartimento
-                    di Design, Architettura e Urbanistica dell’Università degli Studi di Sassari, <strong>a partire
-                        dall’A.A.
-                        2023/24.</strong>
-                </p>
-                <p>
-                    <strong>Partecipazione gratuita – posti limitati (max 21 - 7 per ogni anno).</strong> 
-                    Per partecipare, invia la tua candidatura entro il 20 settembre 2025 compilando il form <a
-                        href="https://forms.gle/inZmkaBKDHirnMUm7">https://forms.gle/inZmkaBKDHirnMUm7</a>
-
-                </p>
-            </section>
-            <section>
-                <h1>
-                    <dotlottie-player src="docenti.json" background="transparent" speed="1" loop
-                        autoplay></dotlottie-player>
-                </h1>
-
-                <ul>
-                    <li><strong>Nada Beretic</strong> – Place making & playful interaction</li>
-                    <li><strong>Matteo Moretti </strong>– Participatory Data physicalization</li>
-                    <li><strong>Silvia Pulina </strong>– Contenuti scientifici</li>
-                    <li><strong>Paola Dore </strong>– Exhibit design</li>
+            <ul>
+                <li><strong>Nada Beretic</strong> – Place making & playful interaction</li>
+                <li><strong>Matteo Moretti </strong>– Participatory Data physicalization</li>
+                <li><strong>Silvia Pulina </strong>– Contenuti scientifici</li>
+                <li><strong>Paola Dore </strong>– Exhibit design</li>
 
 
 
-                </ul>
-            </section>
-            <section>
-                <h1>
-                    <dotlottie-player src="dove.json" background="transparent" speed="1" loop
-                        autoplay></dotlottie-player>
-                </h1>
-                <p>
-                    Alghero – Dip. di Architettura, Design e Urbanistica (UNISS)
-                    Dal 6 al 11 ottobre 2025 dalle 09.00 alle ore 19.00
-                </p>
-                <p>
-                    Attività in presenza (mattina e pomeriggio), anche negli spazi pubblici della città.
-                </p>
-            </section>
-            <section id="footer">
-                <p>
-                    Per info scrivere a nberetic at uniss.it
-                </p>
-            </section>
-            <section id="partner">
-                <p>
-                    Con il patrocinio e il supporto di
-                </p>
-                <div class="logo-container">
-                    <div class="logo"><img src="img/logo-fondazione.png"></div>
-                    <div class="logo">&nbsp;</div>
-                    <div class="logo">&nbsp;</div>
-                    <div class="logo">&nbsp;</div>
-                    <div class="logo">&nbsp;</div>
-                </div>
-            </section>
-        </main>
+            </ul>
+        </section>
+        <section>
+            <h1>
+                <dotlottie-player src="dove.json" background="transparent" speed="1" loop autoplay></dotlottie-player>
+            </h1>
+            <p>
+                Alghero – Dip. di Architettura, Design e Urbanistica (UNISS)
+                Dal 6 al 11 ottobre 2025 dalle 09.00 alle ore 19.00
+            </p>
+            <p>
+                Attività in presenza (mattina e pomeriggio), anche negli spazi pubblici della città.
+            </p>
+        </section>
+        <section id="footer">
+            <p>
+                Per info scrivere a nberetic at uniss.it
+            </p>
+        </section>
+        <section id="partner">
+            <p>
+                Con il patrocinio e il supporto di
+            </p>
+            <div class="logo-container">
+                <div class="logo"><img src="img/logo-fondazione.png"></div>
+                <div class="logo">&nbsp;</div>
+                <div class="logo">&nbsp;</div>
+                <div class="logo">&nbsp;</div>
+                <div class="logo">&nbsp;</div>
+            </div>
+        </section>
+    </main>
 
-        <!--
+    <!--
     
     
    
    
 -->
-    </body>
+</body>
 
 </html>
