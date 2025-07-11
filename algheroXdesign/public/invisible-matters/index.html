@@ -41,7 +41,7 @@
         document.addEventListener("DOMContentLoaded", function () {
             const numCircles = 60;
             const minRadius = 2;
-            const maxRadius = 10;
+            const maxRadius = 20;
             const colors = [
                 "#00BDFF", "#FF3C00", "#0021FF", "#DAF390", "#FADBD4",
                 "#FFFFFF", "#DBAEDA", "#80E8B0", "#8200FF"
@@ -55,7 +55,7 @@
             svg.style.left = "0";
             svg.style.width = "100vw";
             svg.style.height = getPageHeight() + "px";
-            svg.style.zIndex = "-2";
+            svg.style.zIndex = "1";
             svg.style.pointerEvents = "none";
             svg.style.opacity = "1";
 
@@ -109,6 +109,10 @@
                     const rgb = colorArray[Math.floor(Math.random() * colorArray.length)];
                     const color = `rgb(${Math.round(rgb[0] * 255)},${Math.round(rgb[1] * 255)},${Math.round(rgb[2] * 255)})`;
                     const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+                    // Randomly assign class "circle-multiply" to some circles (e.g., 40% chance)
+                    if (Math.random() < 0.6) {
+                        circle.classList.add("circle-multiply");
+                    }
                     circle.setAttribute("r", r);
                     circle.setAttribute("fill", color);
                     circle.setAttribute("stroke", "#000");
@@ -215,6 +219,10 @@
             opacity: 0;
         }
 
+        .circle-multiply {
+            mix-blend-mode: multiply;
+        }
+
         p,
         ul,
         li {
@@ -250,6 +258,7 @@
         main {
             max-width: 800px;
             margin: auto;
+
         }
 
         section h1 {
@@ -268,13 +277,14 @@
 
         section h1 {
             margin-bottom: -1em;
-            position: relative;
-            z-index: -1;
+            /* position: relative;
+            z-index: -1; */
         }
 
         #footer,
         #partner {
             border-top: 1px solid black;
+            background-color: #ffefef;
         }
 
         .logo-container {
@@ -288,9 +298,15 @@
         }
 
         .logo-container .logo {
-            width: 80px;
-            height: 80px;
-            background-color: #ecefef;
+            filter: saturate(0%);
+            mix-blend-mode: multiply;
+        }
+
+        .logo img {
+            width: 100%;
+            filter: saturate(0%);
+            mix-blend-mode: multiply;
+
         }
 
         @media (max-width: 600px) {
@@ -451,7 +467,7 @@
                     Con il patrocinio e il supporto di
                 </p>
                 <div class="logo-container">
-                    <div class="logo">&nbsp;</div>
+                    <div class="logo"><img src="img/logo-fondazione.png"></div>
                     <div class="logo">&nbsp;</div>
                     <div class="logo">&nbsp;</div>
                     <div class="logo">&nbsp;</div>
