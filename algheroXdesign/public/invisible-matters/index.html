@@ -41,7 +41,8 @@
     document.addEventListener("DOMContentLoaded", function () {
         const numCircles = 60;
         const minRadius = 2;
-        const maxRadius = 20;
+        const maxRadius = window.innerWidth <= 600 ? 11 : 20;
+        const stroke = window.innerWidth <= 600 ? 1.5 : 2;
         const colors = [
             "#00BDFF", "#FF3C00", "#0021FF", "#DAF390", "#FADBD4",
             "#FFFFFF", "#DBAEDA", "#80E8B0", "#8200FF"
@@ -55,7 +56,7 @@
         svg.style.left = "0";
         svg.style.width = "100vw";
         svg.style.height = getPageHeight() + "px";
-        svg.style.zIndex = "1";
+        // svg.style.zIndex = "1";
         svg.style.pointerEvents = "none";
         svg.style.opacity = "1";
 
@@ -111,14 +112,14 @@
                 const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
 
                 // Randomly assign class "circle-multiply" to some circles (e.g., 40% chance)
+                console.log(Math.random());
                 if (Math.random() < 0.5) {
                     circle.classList.add("circle-multiply");
-
                 }
                 circle.setAttribute("r", r);
                 circle.setAttribute("fill", color);
                 circle.setAttribute("stroke", "#000");
-                circle.setAttribute("stroke-width", "2");
+                circle.setAttribute("stroke-width", stroke);
                 // Start invisible
 
 
@@ -225,9 +226,42 @@
         opacity: 0;
     }
 
+    #hero-mobile {
+        display: none;
+    }
+
+    #hero {
+        display: block;
+    }
+
+    #bg-circles {
+        background-color: transparent;
+    }
+
+    circle {
+        /* mix-blend-mode: hard-light */
+    }
+
+    a.button {
+        border: 2px solid black;
+        border-radius: 7px;
+        padding: 10px 15px;
+        background-color: #daa2cc;
+        margin: 1em auto;
+        color: black;
+        transition: all .35s;
+        font-weight: 600;
+    }
+
+    a.button:hover {
+        color: black;
+        background-color: #ffefef;
+    }
+
     .circle-multiply {
         mix-blend-mode: multiply;
-
+        /* opacity: .15;
+        stroke-width: .5; */
 
     }
 
@@ -272,8 +306,6 @@
 
     section h1 {
         position: relative;
-
-
     }
 
     main dotlottie-player {
@@ -284,10 +316,12 @@
         margin-top: 5em;
     }
 
+    section:first-child {
+        margin-top: 0;
+    }
+
     section h1 {
         margin-bottom: -1em;
-        /* position: relative;
-            z-index: -1; */
     }
 
     #footer,
@@ -326,6 +360,14 @@
             line-height: 1.5em;
         }
 
+        #hero {
+            display: none;
+        }
+
+        #hero-mobile {
+            display: block;
+        }
+
         main {
             max-width: 90%;
             margin: auto;
@@ -345,13 +387,26 @@
             height: 150px;
             z-index: -1;
         }
+
+        .logo-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1.5em;
+            align-items: center;
+            justify-items: center;
+            margin: 2em 0;
+
+        }
+
     }
 </style>
 
 <body>
     <header>
 
-        <dotlottie-player src="hero.json" background="transparent" speed="1" loop autoplay></dotlottie-player>
+        <dotlottie-player id="hero" src="hero.json" background="transparent" speed="1" loop autoplay></dotlottie-player>
+        <dotlottie-player id="hero-mobile" src="hero-mobile.json" background="transparent" speed="1" loop
+            autoplay></dotlottie-player>
     </header>
     <main>
 
@@ -430,9 +485,10 @@
             </p>
             <p>
                 <strong>Partecipazione gratuita – posti limitati (max 21 - 7 per ogni anno).</strong> 
-                Per partecipare, invia la tua candidatura entro il 20 settembre 2025 compilando il form <a
-                    href="https://forms.gle/inZmkaBKDHirnMUm7">https://forms.gle/inZmkaBKDHirnMUm7</a>
-
+                Per partecipare, invia la tua candidatura entro il 20 settembre 2025 compilando il form
+            </p>
+            <p><a class="button" href="https://forms.gle/inZmkaBKDHirnMUm7">Iscriviti qui!</a>
+            </p>
             </p>
         </section>
         <section>
