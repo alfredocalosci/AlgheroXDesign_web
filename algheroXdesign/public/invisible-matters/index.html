@@ -335,7 +335,7 @@
         grid-template-columns: repeat(3, 1fr);
         gap: 1.5em;
         align-items: center;
-        justify-items: center;
+        justify-items: auto;
         margin: 2em 0;
 
     }
@@ -343,13 +343,49 @@
     .logo-container .logo {
         filter: saturate(0%);
         mix-blend-mode: multiply;
+        max-height: 80px;
     }
 
     .logo img {
         width: 100%;
         filter: saturate(0%);
         mix-blend-mode: multiply;
+    }
 
+    #eu.logo img {
+        max-height: 40px;
+        width: auto;
+        text-align: left;
+    }
+
+    #fondazione.logo img {
+        max-height: 50px;
+        width: auto;
+        text-align: left;
+    }
+
+    #future.logo img {
+        max-height: 45px;
+        width: auto;
+        text-align: left;
+    }
+
+    #domani.logo img {
+        max-height: 55px;
+        width: auto;
+        text-align: left;
+    }
+
+    #mur.logo img {
+        max-height: 40px;
+        width: auto;
+        text-align: left;
+    }
+
+    #uniss.logo img {
+        max-height: 60px;
+        width: auto;
+        text-align: left;
     }
 
     @media (max-width: 600px) {
@@ -529,11 +565,12 @@
                 Con il patrocinio e il supporto di
             </p>
             <div class="logo-container">
-                <div class="logo"><img src="img/logo-fondazione.png"></div>
-                <div class="logo">&nbsp;</div>
-                <div class="logo">&nbsp;</div>
-                <div class="logo">&nbsp;</div>
-                <div class="logo">&nbsp;</div>
+                <div class="logo" id="eu"><img src="img/logo-eu.png"></div>
+                <div class="logo" id="mur"><img src="img/logo-mur.png"></div>
+                <div class="logo" id="domani"><img src="img/logo-italiadomani.jpg"></div>
+                <div class="logo" id="fondazione"><img src="img/logo-fondazione.png"></div>
+                <div class="logo" id="future"><img src="img/logo-future.png"></div>
+                <div class="logo" id="uniss"><img src="img/logo-uniss.png"></div>
             </div>
         </section>
     </main>
