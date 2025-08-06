@@ -83,8 +83,8 @@
                 <p class="mt-8 pt-10 border-t border-t-black">
 
                     Informazioni dettagliate sulla procedura da seguire sono reperibili qui:
-                    <a href="https://www.uniss.it/it/didattica/servizi-agli-studenti/guide-studenti/ammissione-allesame-di-laurea"
-                        target="_blank">https://www.uniss.it/it/didattica/servizi-agli-studenti/guide-studenti/ammissione-allesame-di-laurea</a>
+                    <a href="https://www.architettura.uniss.it/it/i-nostri-corsi/laurearsi"
+                        target="_blank">https://www.architettura.uniss.it/it/i-nostri-corsi/laurearsi</a>
                 </p><br />
                 <p class="border-b border-b-black pb-10">
                     Alla pagina è allegato un file di istruzioni “Guida per la compilazione on line della domanda di
