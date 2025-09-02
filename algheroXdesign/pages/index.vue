@@ -73,8 +73,8 @@
                         <h2>Da dove si inizia?</h2>
                         <p>Vuoi iscriverti? Scopri come fare sul sito Uniss.it</p>
                     </div>
-                    <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank"
-                        class="button absolute bottom-4 left-4">Da qui</a>
+                    <a href="https://www.architettura.uniss.it/it/i-nostri-corsi/iscriversi/ammissione-al-corso-di-laurea-design"
+                        target="_blank" class="button absolute bottom-4 left-4">Da qui</a>
                 </div>
 
                 <div class="blocco mb-0 sm:mb-4" id="workshop">
