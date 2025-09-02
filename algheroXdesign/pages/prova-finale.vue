@@ -175,8 +175,7 @@
 
                 <div
                     class="bg-gray-100 text-2xl p-2 pl-3 pr-3 rounded-md border-0 hover:bg-black hover:text-white max-w-xl text-center tracking-tight leading-6 mb-3">
-                    <a class="border-0"
-                        href="https://www.uniss.it/it/didattica/servizi-agli-studenti/guide-studenti/ammissione-allesame-di-laurea"
+                    <a class="border-0" href="https://www.architettura.uniss.it/it/i-nostri-corsi/laurearsi"
                         target="_blank">Consulta la guida all'ammissione all'esame di
                         laurea</a>
 
