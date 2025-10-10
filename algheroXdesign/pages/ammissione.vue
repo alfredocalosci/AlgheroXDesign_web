@@ -120,9 +120,9 @@
         </div>
         <div class="grid grid-cols-12 gap-x-6 mb-12">
             <div class="px-4 col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">
-                <p class="pb-4">
+               
                 <h4> Una nota del presidente del corso di Laurea, Nicolò Ceccarelli</h4>
-
+              
                 <p>
 
                     Lo scorso settembre quasi 60 candidate/i sono state impegnate/i nelle prove per l’ammissione a
@@ -187,7 +187,7 @@
                     Anglicare, Austal Ships e il governo dell'Australia occidentale.
 
                 </p>
-                </p>
+                
             </div>
         </div>
 
