@@ -162,6 +162,16 @@
                     più significative per la loro maturazione formativa, anche in relazione ai temi della loro prova
                     finale.
                 </p><br />
+                <p>
+                    Alla luce dei già segnalati criteri di valutazione si è stabilito di assegnare come segue i nove punti di cui la commissione di laurea dispone:
+fino a tre punti, per il raggiungimento di capacità autonoma di controllo metodologico;
+fino a tre punti, per la qualità complessiva degli esiti finali, nonché per la loro coerenza;
+fino a due punti per l’acquisizione di una piena consapevolezza del lavoro – progetto, ricerca o esperienza di tirocinio – svolto;
+un ulteriore punto può essere riconosciuto al portfolio personale.
+
+                </p><br />
+                <p> Relativamente all’eventuale accordo della Lode, è utile segnalare che il punteggio che la commissione esprime a seguito della presentazione da parte dei laureandi si riferisce esclusivamente all’ambito dell’elaborato finale. Ovvero non si ‘somma’ alla media. In altri termini, laddove la commissione, all’unanimità, ravveda nella presentazione di un elaborato finale un carattere di unicità in accordo ai criteri già prima menzionati, può stabilire a sua totale discrezione di assegnare la Lode, a un candidato o a una candidata che abbia già raggiunto la votazione di 110 su 110.
+                </p><br />
 
                 <div
                     class="bg-gray-100 text-2xl p-2 pl-3 pr-3 rounded-md border-0 hover:bg-black hover:text-white max-w-xl text-center tracking-tight leading-6 mb-3">
