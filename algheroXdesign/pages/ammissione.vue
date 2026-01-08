@@ -242,6 +242,10 @@ useHead({
             content: "AlgheroXDesign, Laurea triennale in Design: il piano di studi",
         },
         {
+            name: "og:image",
+            content: "/img/studiare.jpg",
+        },
+        {
             name: "twitter:title",
             content: "AlgheroXDesign, Laurea triennale in Design: il piano di studi",
         },

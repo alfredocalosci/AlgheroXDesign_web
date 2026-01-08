@@ -732,6 +732,7 @@ useHead({
         { name: 'title', content: 'AlgheroXDesign, Laurea triennale in Design: la sede' },
         { name: 'keywords', content: 'Design, sardegna, università, grafica, digital, prodotto, servizio' },
         { name: 'og:title', content: 'AlgheroXDesign, Laurea triennale in Design: la sede' },
+        { name: 'og:image', content: '/img/studiare.jpg' },
         { name: 'twitter:title', content: 'AlgheroXDesign, Laurea triennale in Design: la sede' }
     ],
     link: [

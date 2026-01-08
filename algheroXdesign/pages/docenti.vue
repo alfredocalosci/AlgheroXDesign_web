@@ -168,6 +168,7 @@
             { name: 'title', content: 'AlgheroXDesign, Laurea triennale in Design: i docenti' },
             { name: 'keywords', content: 'Design, sardegna, università, grafica, digital, prodotto, servizio, docenti' },
             { name: 'og:title', content: 'AlgheroXDesign, Laurea triennale in Design: i docenti' },
+            { name: 'og:image', content: '/img/studiare.jpg' },
             { name: 'twitter:title', content: 'AlgheroXDesign, Laurea triennale in Design: i docenti' }
         ],
         link: [
