@@ -128,7 +128,7 @@ useHead({
         { name: 'title', content: 'AlgheroXDesign, Laurea triennale in Design: il piano di studi' },
         { name: 'keywords', content: 'Design, sardegna, università, grafica, digital, prodotto, servizio, docenti' },
         { name: 'og:title', content: 'AlgheroXDesign, Laurea triennale in Design: il piano di studi' },
-        { name: 'og:image', content: '/img/studiare.jpg' },
+        { name: 'og:image', content: '/img/og-graph.png' },
         { name: 'twitter:title', content: 'AlgheroXDesign, Laurea triennale in Design: il piano di studi' }
     ],
     link: [

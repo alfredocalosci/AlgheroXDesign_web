@@ -221,7 +221,7 @@ useHead({
         { name: 'title', content: 'AlgheroXDesign, ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
         { name: 'keywords', content: 'Design, sardegna, università, grafica, digital, prodotto, servizio' },
         { name: 'og:title', content: 'AlgheroXDesign, ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
-        { name: 'og:image', content: '/img/studiare.jpg' },
+        { name: 'og:image', content: '/img/og-graph.png' },
         { name: 'twitter:title', content: 'AlgheroXDesign, ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' }
     ],
     link: [

@@ -61,7 +61,7 @@
             { name: 'title', content: 'L’Osservatorio permanente del Design ADI ha accolto il progetto del Play-Alghero Alghero Playful Itinerary.' },
             { name: 'keywords', content: 'L’Osservatorio permanente del Design ADI ha accolto il progetto del Play-Alghero Alghero Playful Itinerary.' },
             { name: 'og:title', content: "L'Osservatorio permanente del Design ADI ha accolto il progetto del Play-Alghero Alghero Playful Itinerary." },
-            { name: 'og:image', content: '/img/studiare.jpg' },
+            { name: 'og:image', content: '/img/og-graph.png' },
             { name: 'twitter:title', content: "L'Osservatorio permanente del Design ADI ha accolto il progetto del Play-Alghero Alghero Playful Itinerary." }
         ],
         link: [

@@ -243,7 +243,7 @@ useHead({
         },
         {
             name: "og:image",
-            content: "/img/studiare.jpg",
+            content: "/img/og-graph.png",
         },
         {
             name: "twitter:title",
