@@ -726,9 +726,9 @@ definePageMeta({ layout: 'default' })
 useHead({
     title: 'AlgheroXDesign - Workshop',
     meta: [
-        { name: 'description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
-        { name: 'og:description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
-        { name: 'twitter:description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.' },
+        { name: 'description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per immaginare, comunicare e innovare la Sardegna.' },
+        { name: 'og:description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per immaginare, comunicare e innovare la Sardegna.' },
+        { name: 'twitter:description', content: 'AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per immaginare, comunicare e innovare la Sardegna.' },
         { name: 'title', content: 'AlgheroXDesign, Laurea triennale in Design: la sede' },
         { name: 'keywords', content: 'Design, sardegna, università, grafica, digital, prodotto, servizio' },
         { name: 'og:title', content: 'AlgheroXDesign, Laurea triennale in Design: la sede' },

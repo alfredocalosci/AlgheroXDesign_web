@@ -216,17 +216,17 @@ useHead({
         {
             name: "description",
             content:
-                "AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.",
+                "AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per immaginare, comunicare e innovare la Sardegna.",
         },
         {
             name: "og:description",
             content:
-                "AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.",
+                "AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per immaginare, comunicare e innovare la Sardegna.",
         },
         {
             name: "twitter:description",
             content:
-                "AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per ricominciare a immaginare, comunicare e innovare la società, a partire dalla Sardegna.",
+                "AlgheroXDesign forma giovani designer di prodotto, della comunicazione e dei servizi per immaginare, comunicare e innovare la Sardegna.",
         },
         {
             name: "title",
