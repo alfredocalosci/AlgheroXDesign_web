@@ -102,7 +102,7 @@
                         <img class="pic hidden sm:block " alt="foto di Martina Labarta Labrador" src="/img/ws-25-labarta.png" />
                         <div class="col-span-6 p-4">
                             <p><strong>Martina Labarta Labrador</strong></p>
-                            <p class="italic">De-biasing design
+                            <p class="italic">Vedere oltre: il linguaggio visivo del prodotto inclusivo
                             </p>
                        
                         </div>
@@ -111,7 +111,7 @@
                         </div>
                         <!-- extra content -->
                         <div class="col-span-8 col-start-1 extra_content">
-                            <p>Il workshop invita a riflettere su come la configurazione di molti prodotti (e servizi?) sia influenzata dal sistema di bias (pregiudizi) e di posizionalità dei potenziali utilizzatori – in particolare in termini del loro linguaggio visivo – che vi può essere associato, e di conseguenza di come talune scelte progettuali possano produrre segnali grazie a cui gli utenti siano portati a riconoscersi, rappresentarsi o sentirsi legittimati in determinate esperienze. L'obiettivo è imparare a percepire e rendere visibili tali meccanismi, esplorando modalità alternative con cui ripensare il linguaggio dei prodotti in modo più consapevole, sensibile e responsabile.
+                            <p>il workshop invita a riflettere su come la configurazione di molti prodotti sia influenzata da pregiudizi e dal punto di vista di chi li progetta e di chi li utilizza, aspetti che si riflettono nel linguaggio visivo. Di conseguenza, alcune scelte progettuali possono produrre segnali che portano determinati utenti a riconoscersi, rappresentarsi o sentirsi legittimati in specifiche esperienze, mentre altre possono contribuire a dinamiche di discriminazione o marginalizzazione. L’obiettivo sarà imparare a riconoscere questi meccanismi attraverso l’analisi e la sperimentazione progettuale, sviluppando proposte concrete che ripensino il linguaggio visivo dei prodotti in modo più consapevole, sensibile e responsabile.
                             </p>
                             <br />
                         </div>
