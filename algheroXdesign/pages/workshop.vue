@@ -56,24 +56,117 @@
                     soggetti
                     esterni (enti, aziende, artigiani, iniziative imprenditoriali). </p>
 
-                <h4 class="pt-4 pb-4">Edizione 2025 </h4>
-                <h4 class="pt-4 pb-4"><a href="/img/calendario_workshop_completo.pdf" target="_blank">Consulta il
-                        programma dettagliato (PDF)</a></h4>
+                <h4 class="pt-4 pb-4">Workshop </h4>
+         
+                <!-- <h4 class="pt-4 pb-4"><a href="/img/calendario_workshop_completo.pdf" target="_blank">Edizione 2026: consulta il
+                        programma dettagliato (PDF)</a></h4> -->
+                <h4 class="pt-4 pb-4">Programma edizione 2026</h4>
 
 
-                <p class="date">Gio 27 Feb | 17.00–19.00</p>
+                <p class="date">Gio 26 Feb | 17.00–19.00</p>
                 <p class="topic">Serata di presentazione</p>
 
-                <p class="date">Ven 28 Feb | 09.00–17.00</p>
-                <p class="topic">Protesta?  Sessione di Warmup</p>
+                <p class="date">Ven 27 Feb | 09.00–17.00</p>
+                <p class="topic">Sessione di Warmup</p>
 
-                <p class="date">Ven 28 Feb | 17.00–19.00</p>
-                <p class="topic">Bam Design Talk</p>
-                <p class="date">Lun 3 – Ven 7 Mar | 09.00 - 19.00 </p>
+                <p class="date">Ven 27 Feb | 17.00–19.00</p>
+                <p class="topic">Design Talk</p>
+                <p class="date">Lun 2 – Ven 6 Mar | 09.00 - 19.00 </p>
                 <p class="topic">Workshop</p>
 
+                <h4 class="pt-4 pb-4">Workshop edizione 2026</h4>
+                <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">
+                    <!-- WS-->
 
-                <h4 class="pt-4 pb-4">Workshop </h4>
+                    <div class="grid grid-cols-8 workshop mb-2  border-b border-black">
+                        <img class="pic hidden sm:block " alt="Valentina Follo" src="/img/ws-26-follo.png" />
+                        <div class="col-span-6 p-4">
+                            <p><strong>Valentina Follo</strong></p>
+                            <p class="italic">Design per il sud del mondo                            </p>
+                        </div>
+                        <div class="py-4 justify-self-end self-center ">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+
+                            <p>Il workshop esplora il design per il mercato equo e solidale come pratica progettuale capace di integrare qualità del prodotto, sostenibilità ambientale e giustizia sociale e andando oltre a una visione del progetto esclusivamente orientata al profitto. 
+                                Realizzato in collaborazione con Meridiano 361, realtà attiva nel settore del commercio equo e solidale, il workshop abbraccia l'idea di design come strumento operativo, in grado di agire sulle filiere produttive, sui processi e sulle relazioni tra progetto e produzione e offre agli studenti l'opportunità di confrontarsi con un contesto produttivo reale. L'esperienza coinvolgerà i suoi partecipanti in un percorso di ricerca e sviluppo per la progettazione di una serie di complementi di arredo in legno realizzati in collaborazione con un produttore artigiano del Sud del mondo.
+
+                            </p>
+                            <br />
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
+                        <img class="pic hidden sm:block " alt="foto di Martina Labarta Labrador" src="/img/ws-25-labarta.png" />
+                        <div class="col-span-6 p-4">
+                            <p><strong>Martina Labarta Labrador</strong></p>
+                            <p class="italic">De-biasing design
+                            </p>
+                       
+                        </div>
+                        <div class="py-4 justify-self-end self-center">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+                            <p>Il workshop invita a riflettere su come la configurazione di molti prodotti (e servizi?) sia influenzata dal sistema di bias (pregiudizi) e di posizionalità dei potenziali utilizzatori – in particolare in termini del loro linguaggio visivo – che vi può essere associato, e di conseguenza di come talune scelte progettuali possano produrre segnali grazie a cui gli utenti siano portati a riconoscersi, rappresentarsi o sentirsi legittimati in determinate esperienze. L'obiettivo è imparare a percepire e rendere visibili tali meccanismi, esplorando modalità alternative con cui ripensare il linguaggio dei prodotti in modo più consapevole, sensibile e responsabile.
+                            </p>
+                            <br />
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-8 workshop mb-2 border-b  border-black">
+                        <img class="pic hidden sm:block " alt="foto di Piero Angelo Orecchioni e Jonathan Rosenfeld"
+                            src="/img/ws-26-orecchioni-rosenfeld.png" />
+                        <div class="col-span-6 p-4">
+                            <p><strong>Piero Angelo Orecchioni e Jonathan Rosenfeld</strong></p>
+                            <p class="italic">Concept Retail
+                            </p>
+                            
+                        </div>
+                        <div class="py-4 justify-self-end self-center ">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+
+                            <p>Il workshop intende guidare i partecipanti alla progettazione del concept retail, partendo da un ricerca approfondita e dalla costruzione di una narrazione personalizzata per ciascun marchio. Attraverso un percorso che integra l'aspetto narrativo con quello tecnico, lavoreremo su casi reali: agli studenti verranno proposti committenti concreti, sui quali dovranno sviluppare una narrazione coerente, procedendo con una metodologia che unisce ricerca, analisi e creatività, per costruire un'identità di marca solida e riconoscibile all'interno dello spazio retail.
+                                Il risultato finale sarà il prodotto di un processo articolato, composto da mood board ed elaborati grafici dettagliati: piante, prospetti, viste interne ed esterne e render.
+
+                            </p>
+                            <br />
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-8 workshop mb-2  border-b border-black">
+                        <img class="pic hidden sm:block " alt="foto di Daniele Savasta" src="/img/ws-26-savasta.png" />
+                        <div class="col-span-6 p-4">
+                            <p><strong>Daniele Savasta</strong></p>
+                            <p class="italic">Type as Medium
+                            </p>
+                        </div>
+                        <div class="py-4 justify-self-end self-center ">
+                            <a @click.prevent="myAccordion" class="more_btn" href="#"></a>
+                        </div>
+                        <!-- extra content -->
+                        <div class="col-span-8 col-start-1 extra_content">
+
+                            <p>Il workshop introduce alla ricerca tipografica come pratica progettuale, esplorando il rapporto tra forma e significato attraverso strumenti digitali web. A partire da una indagine delle caratteristiche formali, storiche e semantiche della tipografia, i partecipanti svilupperanno un progetto individuale di ricerca. 
+                                Sulla base di un primo enunciato inteso a orientare la sperimentazione, esploreremo la generazione di forme tipografiche procedurali.  Il percorso di sperimentazione e le risultanti scelte tipografiche e formali saranno presentate in forma di poster interattivi.
+
+                            </p>
+                            <br />
+                        </div>
+                    </div>
+
+                </div>
+
+              
+
+
+                <h4 class="pt-4 pb-4">Edizione 2025 </h4>
                 <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3">
                     <!-- WS-->
 
@@ -751,6 +844,13 @@ useHead({
     }
 }
 
+img.pic {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: center;
+}
+
 .info {
     padding-bottom: 50px;
 
@@ -830,5 +930,6 @@ useHead({
 
 .topic {
     margin-bottom: 1rem;
+    font-size: 1.1rem;
 }
 </style>

@@ -2,15 +2,19 @@
   "name": "nuxt-app",
   "private": true,
   "scripts": {
-    "build": "nuxt build",
+    "build": "nuxt build && node scripts/compress-images.mjs",
     "dev": "nuxt dev",
-    "generate": "nuxt generate",
+    "generate": "nuxt generate && node scripts/compress-images.mjs",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "compress-images": "node scripts/compress-images.mjs"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.12.1",
     "@types/d3": "^7.4.0",
+    "imagemin": "^8.0.1",
+    "imagemin-mozjpeg": "^10.0.0",
+    "imagemin-pngquant": "^9.0.2",
     "nuxt": "^3.13.2"
   },
   "dependencies": {
