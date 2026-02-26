@@ -67,10 +67,10 @@
                 <p class="topic">Serata di presentazione</p>
 
                 <p class="date">Ven 27 Feb | 09.00–17.00</p>
-                <p class="topic">Sessione di Warmup</p>
+                <p class="topic">Sessione di Warmup - RE-PLAY</p>
 
                 <p class="date">Ven 27 Feb | 17.00–19.00</p>
-                <p class="topic">Design Talk</p>
+                <p class="topic">Design Talk - Roberta Morittu - Design per gli artigianati</p>
                 <p class="date">Lun 2 – Ven 6 Mar | 09.00 - 19.00 </p>
                 <p class="topic">Workshop</p>
 
