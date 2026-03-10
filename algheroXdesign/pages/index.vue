@@ -13,7 +13,7 @@
     </div>
 
     <!-- news -->
-    <div class="container px-4 mt-[20px] sm:mx-auto mb-8 sm:mb-0" id="news-list">
+    <!-- <div class="container px-4 mt-[20px] sm:mx-auto mb-8 sm:mb-0" id="news-list">
         <div class="grid md:grid-cols-4 gap-6">
             <div>
                 <a href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design" target="_blank"
@@ -51,7 +51,7 @@
 
 
         </div>
-    </div>
+    </div> -->
 
     <!-- main content -->
     <div class="container mx-auto my-0 sm:my-12" id="main">
@@ -78,14 +78,14 @@
                 </div>
 
                 <div class="blocco mb-0 sm:mb-4" id="workshop">
-                    <img src="/img/ws-25-cover.png" alt="" class="w-full">
-                    <div class="absolute top-8 left-4 w-[90%] text-[#38FF6A]">
+                    <img src="/img/ws-26-cover.png" alt="" class="w-full">
+                    <div class="absolute top-8 left-4 w-[90%] text-[#FFF]">
                         <h2>Workshops</h2>
-                        <p>Martina Labarta, Claudia Piredda, Nicolò Ceccarelli, Ilaria Mundula, Nada Beretic</p>
+                        <p>Martina Labarta, Pierangelo Orecchioni & Jonathan Rosenfeld, Daniele Savasta, Valentina Follo</p>
                     </div>
 
-                    <a href="/workshop" class="button absolute bottom-4 left-4 border-[#38FF6A] text-[#38FF6A]">Edizione
-                        2025</a>
+                    <a href="/workshop" class="button absolute bottom-4 left-4 border-[#FFF] text-[#FFF]">Edizione
+                        2026</a>
                 </div>
 
                 <div class="blocco mb-0 sm:mb-4" id="design-duo">
