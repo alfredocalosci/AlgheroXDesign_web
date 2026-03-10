@@ -1,7 +1,7 @@
 <template>
     <div id="modulo" class="col-span-8 col-start-3 border-t border-black pt-12">
         <p class="text-4xl px-6"><a
-                href="https://www.architettura.aho.uniss.it/it/didattica/corso-di-laurea-design">Vuoi iscriverti? Parti
+                href="https://www.architettura.uniss.it/it/i-nostri-corsi/iscriversi/ammissione-al-corso-di-laurea-design">Vuoi iscriverti? Parti
                 da qui!</a> Oppure scopri <NuxtLink to="/studiare-ad-alghero">perchè studiare ad Alghero</NuxtLink>, i
             <NuxtLink to="/docenti">docenti</NuxtLink> e le materie del <NuxtLink to="/piano-studi">piano di studi
             </NuxtLink>.</p>
