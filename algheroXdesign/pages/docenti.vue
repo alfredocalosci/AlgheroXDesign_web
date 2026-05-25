@@ -17,12 +17,15 @@
                 >
                   
                   <p class="nome">
-                    <a 
+                    <!-- <a 
                     :alt= people.cognome
                     :href= people.url
                     target="_blank">
                       {{ people.nome }}  {{ people.cognome }}
-                    </a>
+                    </a> -->
+                 
+                      {{ people.nome }}  {{ people.cognome }}
+                    
 
                   </p>
                   <p class="qualifica">{{  people.ruolo }}</p>
@@ -34,30 +37,7 @@
               </div>
             </div>
 
-            <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-9 lg:col-start-3">
-                <h2>Unità di ricerca</h2>
-                <p>
-                Ricercatori e dottorandi esplorano nuovi ambiti, sperimentano nuovi approcci e contribuiscono alla crescita delle competenze degli studenti e del corso di laurea stesso.</p>
-            </div>
-            <div class="col-span-12 col-start-1 sm:px-0 lg:col-span-8 lg:col-start-3 mb-12 mt-12">
-              <div class="grid grid-cols-2 gap-x-[1px] sm:grid-cols-3 md:grid-cols-4 gap-4">
-
-                <div v-for="people in table2">
-                  <p class="nome">
-                    <a 
-                    :alt= people.cognome
-                    :href= people.url
-                    target="_blank">
-                      {{ people.nome }}  {{ people.cognome }}
-                    </a>
-
-                  </p>
-                  <p class="qualifica">{{  people.ruolo }}</p>
-                </div>
-
-               
-              </div>
-            </div>
+            <!-- Unità di ricerca: nascosta su richiesta -->
 
            
            
@@ -134,8 +114,6 @@
   let myUrl =
   "https://docs.google.com/spreadsheets/d/e/2PACX-1vTztHd0DIS0sEtaNTalhUmrP6Mq2bIHGHMmGGwVqEw_NwMgV2pYw8CxevqSHLYyls9DJt22thhvw01n/pub?gid=0&single=true&output=csv";
 
-  let myUrl2= 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTztHd0DIS0sEtaNTalhUmrP6Mq2bIHGHMmGGwVqEw_NwMgV2pYw8CxevqSHLYyls9DJt22thhvw01n/pub?gid=1703948614&single=true&output=csv';
-
   // let table2= ref([])
   // const table2 = useState('table', '[]');
 
@@ -145,12 +123,6 @@
     pending,
     error,
   } = await useAsyncData("table", () => d3.csv(myUrl),{
-    // watch: [table2]
-  });
-
-  const {
-    data: table2,
-  } = await useAsyncData("table2", () => d3.csv(myUrl2),{
     // watch: [table2]
   });
 
