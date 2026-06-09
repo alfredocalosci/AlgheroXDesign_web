@@ -150,8 +150,6 @@ p {
     }
 }
 
-
-
 .pds {
     p {
         @apply text-[25px] leading-[125%] font-[400] tracking-[-.02em] lg:text-[25px] lg:leading-[125%] lg:font-[400] lg:tracking-[-.02em];
@@ -171,7 +169,8 @@ p {
         @apply text-[12px] uppercase font-[400] leading-[28px];
 
         li {
-            @apply normal-case text-[14px] font-[500] tracking-[-.02em] border-b border-solid border-slate-400 leading-[28px];
+            @apply normal-case text-[14px] font-[500] tracking-[-.02em] border-b border-solid border-slate-400 leading-[1.2em];
+            padding: 5px 0;
         }
 
         li:last-child {
