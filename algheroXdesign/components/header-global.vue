@@ -31,9 +31,6 @@
                         <NuxtLink to="/piano-studi" @click.native="closeNav()">Piano di Studi</NuxtLink>
                     </li>
                     <li>
-                        <NuxtLink to="/docenti" @click.native="closeNav()">Docenti</NuxtLink>
-                    </li>
-                    <li>
                         <NuxtLink to="/la-sede" @click.native="closeNav()">La sede</NuxtLink>
                     </li>
                     <li>

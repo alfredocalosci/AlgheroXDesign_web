@@ -2,6 +2,13 @@
 export default defineNuxtConfig({
     modules: ['@nuxtjs/tailwindcss'],
     ssr: true,
+
+    routeRules: {
+      // Old page removed: avoid 404s for existing bookmarks/links
+      '/docenti': { redirect: { to: '/', statusCode: 301 } },
+      '/docenti/': { redirect: { to: '/', statusCode: 301 } },
+      '/docenti/**': { redirect: { to: '/', statusCode: 301 } },
+    },
    
     postcss: {
       plugins: {
